@@ -1,34 +1,34 @@
-title: "Asim's Portfolio"
+title: "Asim Raza"
 author: "Asim Raza"
-description: "My blog"
-permalink: /:title/
+description: "Computer Engineering student at UET Lahore, Faisalabad Campus, documenting growth, resilience, and technical learning."
+permalink: /blog/:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout
+show_excerpts: false
+show_frame: false
+show_sidebar: false
+show_minimal: false
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+navigation:
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About"}
+  - {file: "contact.md", title: "Contact"}
+  - {file: "blog.md", title: "Blog"}
 
-#show_frame: "/assets/images/background.svg"
+external:
+  - {title: "Email", icon: envelope, url: "mailto:gondalasim665@gmail.com"}
+  - {title: "GitHub", icon: github, url: "https://github.com/asim-raza665"}
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
-                   
-navigation:          # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home", sidebaricon: home}
-  - {file: "blog.md", title: "Blog", sidebaricon: address-card}
-
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/asim-raza665"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+footer:
+  - {file: "about.md", title: "Journey"}
+  - {file: "blog.md", title: "Articles"}
+  - {title: "GitHub", url: "https://github.com/asim-raza665"}
 
 comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+
+sass:
+  style: compressed
