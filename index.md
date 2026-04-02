@@ -7,6 +7,5 @@ title: ""
 
 Computer Engineering Student at UET Faisalabad
 
-- Email: gondalasim665@gmail.com
+- Email: his email here
 - GitHub: [asim-raza665](https://github.com/asim-raza665)
-- 
