@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Blog"
+permalink: /blog/
 description: "A complete record of my computer engineering journey, organized as linked posts from admission to second semester growth."
 ---
 

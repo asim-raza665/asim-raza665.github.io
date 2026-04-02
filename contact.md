@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+permalink: /contact/
 description: "Ways to reach me for academic networking, portfolio feedback, and professional conversation."
 ---
 

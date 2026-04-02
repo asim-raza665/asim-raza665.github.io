@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+permalink: /about/
 description: "A concise portrait of who I am, what shaped my journey, and the values guiding my growth in computer engineering."
 ---
 
