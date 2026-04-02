@@ -1,22 +1,21 @@
----
+﻿---
 ---
 
-:root
-  --bg: #f4efe6
-  --panel: rgba(255, 251, 244, 0.94)
-  --panel-strong: rgba(255, 255, 255, 0.96)
-  --ink: #102033
-  --ink-soft: #415263
-  --teal: #0f7b83
-  --teal-deep: #0d5165
-  --accent: #c66b42
-  --line: rgba(16, 32, 51, 0.12)
-  --shadow: 0 28px 70px rgba(16, 32, 51, 0.14)
-  --shadow-soft: 0 16px 40px rgba(16, 32, 51, 0.08)
-  --radius-xl: 28px
-  --radius-lg: 20px
-  --radius-md: 18px
-  --radius-sm: 14px
+$bg: #f4efe6
+$panel: rgba(255, 251, 244, 0.94)
+$panel-strong: rgba(255, 255, 255, 0.96)
+$ink: #102033
+$ink-soft: #415263
+$teal: #0f7b83
+$teal-deep: #0d5165
+$accent: #c66b42
+$line: rgba(16, 32, 51, 0.12)
+$shadow: 0 28px 70px rgba(16, 32, 51, 0.14)
+$shadow-soft: 0 16px 40px rgba(16, 32, 51, 0.08)
+$radius-xl: 28px
+$radius-lg: 20px
+$radius-md: 18px
+$radius-sm: 14px
 
 *
   box-sizing: border-box
@@ -27,8 +26,8 @@ html
 body
   margin: 0
   font-family: "PT Sans", "Segoe UI", sans-serif
-  color: var(--ink)
-  background: var(--bg)
+  color: $ink
+  background: $bg
   background-image: radial-gradient(circle at top left, rgba(15, 123, 131, 0.14), transparent 24%), radial-gradient(circle at top right, rgba(198, 107, 66, 0.15), transparent 22%), linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent 28%)
 
 img
@@ -37,11 +36,11 @@ img
   height: auto
 
 a
-  color: var(--teal-deep)
+  color: $teal-deep
   transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease
 
 a:hover
-  color: var(--ink)
+  color: $ink
 
 button,
 input
@@ -116,10 +115,10 @@ body > footer
   max-width: 1120px
   margin: 1.35rem auto
   padding: 2rem
-  border: 1px solid var(--line)
-  border-radius: var(--radius-xl)
+  border: 1px solid $line
+  border-radius: $radius-xl
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 252, 246, 0.96))
-  box-shadow: var(--shadow)
+  box-shadow: $shadow
   overflow: hidden
 
 .page-hero,
@@ -127,7 +126,7 @@ body > footer
   margin-bottom: 2.2rem
   padding: 2rem
   border: 1px solid rgba(255, 255, 255, 0.5)
-  border-radius: var(--radius-lg)
+  border-radius: $radius-lg
   background: linear-gradient(135deg, rgba(15, 123, 131, 0.12), rgba(255, 255, 255, 0.7) 42%, rgba(198, 107, 66, 0.12))
 
 .home-page .page-hero
@@ -135,7 +134,7 @@ body > footer
 
 .eyebrow
   margin: 0 0 0.65rem
-  color: var(--teal-deep)
+  color: $teal-deep
   font-size: 0.8rem
   font-weight: 700
   letter-spacing: 0.16em
@@ -147,7 +146,7 @@ h3,
 h4
   margin: 0
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif
-  color: var(--ink)
+  color: $ink
   line-height: 1.1
 
 h1
@@ -163,7 +162,7 @@ h4
   font-size: 1.1rem
 
 p
-  color: var(--ink-soft)
+  color: $ink-soft
   line-height: 1.78
   font-size: 1.03rem
 
@@ -171,13 +170,13 @@ code
   padding: 0.15rem 0.45rem
   border-radius: 999px
   background: rgba(15, 123, 131, 0.1)
-  color: var(--teal-deep)
+  color: $teal-deep
 
 pre
   margin: 1.5rem 0
   padding: 1rem 1.1rem
   overflow-x: auto
-  border-radius: var(--radius-sm)
+  border-radius: $radius-sm
   background: #102033
   color: #f7f3ea
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08)
@@ -232,10 +231,10 @@ pre code
 .taxonomy-section,
 .post-outline,
 .content-figure
-  border: 1px solid var(--line)
-  border-radius: var(--radius-md)
-  background: var(--panel)
-  box-shadow: var(--shadow-soft)
+  border: 1px solid $line
+  border-radius: $radius-md
+  background: $panel
+  box-shadow: $shadow-soft
 
 .hero-copy
   padding: 2.2rem
@@ -271,7 +270,7 @@ pre code
   padding: 0.32rem 0.75rem
   border-radius: 999px
   background: rgba(15, 123, 131, 0.12)
-  color: var(--teal-deep)
+  color: $teal-deep
   font-size: 0.9rem
   font-weight: 700
 
@@ -296,7 +295,7 @@ pre code
   margin-bottom: 1rem
   border-radius: 24px
   background: linear-gradient(135deg, #f9d7c1, #8ee0d7)
-  color: var(--ink)
+  color: $ink
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif
   font-size: 2rem
   font-weight: 700
@@ -358,7 +357,7 @@ pre code
 
 .project-card__eyebrow
   margin: 0
-  color: var(--accent)
+  color: $accent
   font-size: 0.82rem
   font-weight: 700
   letter-spacing: 0.12em
@@ -387,7 +386,7 @@ pre code
   cursor: pointer
 
 .primary-link
-  background: linear-gradient(135deg, var(--teal), var(--teal-deep))
+  background: linear-gradient(135deg, $teal, $teal-deep)
   color: #ffffff
 
 .primary-link:hover
@@ -399,9 +398,9 @@ pre code
 .post-return a,
 .phase-links a,
 .contact-social-links a
-  border-color: var(--line)
+  border-color: $line
   background: rgba(255, 255, 255, 0.72)
-  color: var(--ink)
+  color: $ink
 
 .secondary-link:hover,
 .post-return a:hover,
@@ -479,7 +478,7 @@ pre code
   gap: 0.45rem
 
 .blog-search__label
-  color: var(--ink)
+  color: $ink
   font-size: 0.92rem
   font-weight: 700
 
@@ -490,7 +489,7 @@ pre code
   border: 1px solid rgba(16, 32, 51, 0.16)
   border-radius: 16px
   background: rgba(255, 255, 255, 0.92)
-  color: var(--ink)
+  color: $ink
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.36)
 
 .blog-search input:focus
@@ -506,7 +505,7 @@ pre code
 
 .blog-archive__note
   margin: 0
-  color: var(--ink-soft)
+  color: $ink-soft
   font-size: 0.98rem
 
 .blog-result-count
@@ -609,16 +608,16 @@ pre code
   display: flex
   flex-wrap: wrap
   gap: 0.5rem
-  color: var(--teal-deep)
+  color: $teal-deep
   font-size: 0.9rem
   font-weight: 700
 
 .post-preview__title a
-  color: var(--ink)
+  color: $ink
   text-decoration: none
 
 .post-preview__title a:hover
-  color: var(--teal-deep)
+  color: $teal-deep
 
 .post-preview__summary
   margin: 0
@@ -633,7 +632,7 @@ pre code
 .taxonomy-pill:hover
   transform: translateY(-1px)
   background: rgba(216, 240, 238, 0.72)
-  color: var(--ink)
+  color: $ink
 
 .taxonomy-directory
   margin-top: 1rem
@@ -652,10 +651,10 @@ pre code
 .prose figure
   margin: 0 0 2rem
   overflow: hidden
-  border: 1px solid var(--line)
-  border-radius: var(--radius-lg)
+  border: 1px solid $line
+  border-radius: $radius-lg
   background: rgba(255, 255, 255, 0.94)
-  box-shadow: var(--shadow-soft)
+  box-shadow: $shadow-soft
 
 .post-feature-image img,
 .content-figure img,
@@ -694,11 +693,11 @@ pre code
   padding-left: 0.8rem
 
 .post-outline a
-  color: var(--ink-soft)
+  color: $ink-soft
   text-decoration: none
 
 .post-outline a:hover
-  color: var(--teal-deep)
+  color: $teal-deep
 
 .prose
   max-width: 54rem
@@ -713,7 +712,7 @@ pre code
   float: left
   padding-right: 0.35rem
   line-height: 0.9
-  color: var(--accent)
+  color: $accent
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif
   font-size: 3.2rem
 
@@ -725,7 +724,7 @@ pre code
 .prose ul,
 .prose ol
   margin: 0 0 1rem 1.1rem
-  color: var(--ink-soft)
+  color: $ink-soft
   line-height: 1.75
 
 .prose li + li
@@ -735,7 +734,7 @@ pre code
   margin: 1.5rem 0
   padding: 1rem 1.2rem
   border-left: 4px solid rgba(15, 123, 131, 0.35)
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0
+  border-radius: 0 $radius-sm $radius-sm 0
   background: rgba(15, 123, 131, 0.08)
 
 .prose hr
@@ -765,20 +764,20 @@ pre code
   flex-direction: column
   gap: 0.35rem
   padding: 1.2rem
-  border: 1px solid var(--line)
-  border-radius: var(--radius-md)
-  background: var(--panel)
-  box-shadow: var(--shadow-soft)
+  border: 1px solid $line
+  border-radius: $radius-md
+  background: $panel
+  box-shadow: $shadow-soft
   text-decoration: none
 
 .post-navigation__link strong
-  color: var(--ink)
+  color: $ink
 
 .post-navigation__link--next
   text-align: right
 
 .post-navigation__label
-  color: var(--teal-deep)
+  color: $teal-deep
   font-size: 0.82rem
   font-weight: 700
   text-transform: uppercase
