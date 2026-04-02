@@ -1,12 +1,25 @@
----
+﻿---
 layout: post
 title: "My Journey to Admission in UET Lahore (Faisalabad Campus)"
+date: 2026-01-01
+categories:
+  - admissions
+  - academic-journey
+tags:
+  - uet-lahore
+  - ecat
+  - entry-test
+  - self-study
+featured: true
+featured_image: /assets/images/posts/journey-to-admission/cover.svg
+featured_image_alt: "Illustrated cover for Asim Raza's admission journey to UET Lahore Faisalabad Campus"
+featured_image_caption: "A visual cover representing the beginning of my computer engineering journey."
 sequence: 1
 phase: "Getting In & Starting Out"
 journey_stage: "Admission Journey"
-read_time: "4 min"
 summary: "How I balanced board exams and entry tests to secure admission to UET Lahore, Faisalabad Campus, in Computer Engineering."
 ---
+
 
 My journey toward becoming a Computer Engineering student began during the final phase of my FSc Part-II. It was one of the most important and challenging periods of my academic life because I had to handle multiple responsibilities at the same time. While many students around me were fully focused only on their board exams, I found myself balancing two major challenges together: preparing seriously for my intermediate examinations and, at the same time, getting ready for different university entrance tests. I realized early that securing admission to a well-reputed engineering university was not possible without proper planning, consistent effort, and strong determination. That is why I decided to start my preparation for entry tests alongside my academic studies instead of waiting until the exams were over.
 

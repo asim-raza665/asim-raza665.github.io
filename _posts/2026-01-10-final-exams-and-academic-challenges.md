@@ -1,12 +1,21 @@
----
+﻿---
 layout: post
 title: "Final Exams and Academic Challenges"
+date: 2026-01-10
+categories:
+  - academics
+  - exams
+tags:
+  - final-exams
+  - time-management
+  - resilience
+featured: false
 sequence: 10
 phase: "First Semester Growth"
 journey_stage: "Final Exam Pressure"
-read_time: "4 min"
 summary: "The final exam period taught me disciplined revision, time management, and how to remain steady under academic pressure."
 ---
+
 
 As the semester moved toward its final phase, the pressure of final exams began to increase steadily. Unlike midterm exams, which covered only a portion of the syllabus, the finals required complete preparation for all subjects, including every concept taught throughout the semester. For me, this period was both challenging and highly important because it tested not only my academic understanding but also my consistency, discipline, and ability to manage time effectively. I realized that success in finals was not simply about studying hard for a few days; it depended largely on how well I had built and strengthened my concepts over the entire semester.
 

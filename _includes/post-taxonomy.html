@@ -1,0 +1,13 @@
+{% if include.items and include.items.size > 0 %}
+<div class="post-taxonomy post-taxonomy--{{ include.type | default: 'category' }}">
+  {% for item in include.items %}
+    {% assign item_slug = item | slugify %}
+    {% if include.type == "tag" %}
+      {% assign item_url = "/tags/#" | append: item_slug %}
+    {% else %}
+      {% assign item_url = "/categories/#" | append: item_slug %}
+    {% endif %}
+    <a class="taxonomy-pill" href="{{ item_url | relative_url }}">{{ item | replace: "-", " " }}</a>
+  {% endfor %}
+</div>
+{% endif %}

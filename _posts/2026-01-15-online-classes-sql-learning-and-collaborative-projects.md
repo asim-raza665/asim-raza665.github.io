@@ -1,12 +1,21 @@
----
+﻿---
 layout: post
 title: "Online Classes, SQL Learning, and Collaborative Projects"
+date: 2026-01-15
+categories:
+  - online-learning
+  - databases
+tags:
+  - sql
+  - collaboration
+  - projects
+featured: false
 sequence: 15
 phase: "Second Semester Momentum"
 journey_stage: "Online Learning Growth"
-read_time: "4 min"
 summary: "Online classes pushed me to strengthen SQL, improve project work, and stay disciplined through collaboration and self-management."
 ---
+
 
 During the end of Ramadan, the semester took an unexpected turn due to global events that affected life in our country. The conflict between America, Israel, and Iran caused a sharp rise in petrol prices, which ultimately led to the closure of all universities, colleges, and schools across Pakistan. As a result, our classes shifted entirely to online mode, introducing a new set of challenges for both learning and staying disciplined while at home. Adapting to this sudden change required flexibility, self-motivation, and careful planning. Despite these challenges, I made a conscious effort to make the most of the situation, focusing on practical learning during online sessions and labs to ensure that my academic progress was not affected.
 

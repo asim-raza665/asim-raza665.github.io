@@ -1,0 +1,35 @@
+{% assign post = include.post %}
+{% capture computed_reading_time %}{% include reading-time.html content=post.content override=post.read_time %}{% endcapture %}
+{% assign post_summary = post.summary | default: post.excerpt | strip_html | strip %}
+{% capture search_blob %}{{ post.title }} {{ post_summary }} {{ post.categories | join: ' ' }} {{ post.tags | join: ' ' }}{% endcapture %}
+{% assign has_featured_image = false %}
+{% if post.featured_image and post.featured_image != "" %}
+  {% assign has_featured_image = true %}
+{% endif %}
+
+<article class="post-preview{% if include.variant %} post-preview--{{ include.variant }}{% endif %}" data-post-card data-search="{{ search_blob | downcase | escape_once }}">
+  <a class="post-preview__media{% unless has_featured_image %} post-preview__media--fallback{% endunless %}" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
+    {% if has_featured_image %}
+    <img src="{{ post.featured_image | relative_url }}" alt="{{ post.featured_image_alt | default: post.title }}" loading="lazy" decoding="async">
+    {% else %}
+    <span class="post-preview__placeholder-label">{{ post.categories | first | default: "Article" | replace: "-", " " }}</span>
+    <strong class="post-preview__placeholder-title">{{ post.title }}</strong>
+    {% endif %}
+    {% if post.featured %}
+    <span class="post-preview__featured-badge">Featured</span>
+    {% endif %}
+  </a>
+
+  <div class="post-preview__content">
+    <div class="post-preview__meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+      <span>{{ computed_reading_time | strip }}</span>
+    </div>
+    <h3 class="post-preview__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p class="post-preview__summary">{{ post_summary }}</p>
+    {% include post-taxonomy.html items=post.categories type="category" %}
+    {% if include.show_tags %}
+    {% include post-taxonomy.html items=post.tags type="tag" %}
+    {% endif %}
+  </div>
+</article>

@@ -1,12 +1,24 @@
----
+﻿---
 layout: post
 title: "A Life-Changing Scholarship – The Support That Made My Dreams Possible"
+date: 2026-01-02
+categories:
+  - scholarship
+  - academic-journey
+tags:
+  - financial-support
+  - mentorship
+  - opportunity
+featured: true
+featured_image: /assets/images/posts/life-changing-scholarship/cover.svg
+featured_image_alt: "Illustrated cover for a life-changing scholarship story"
+featured_image_caption: "A visual cover symbolizing support, opportunity, and educational hope."
 sequence: 2
 phase: "Getting In & Starting Out"
 journey_stage: "Scholarship Support"
-read_time: "6 min"
 summary: "A story of unexpected support, generous mentors, and the scholarship that made my higher education possible."
 ---
+
 
 Every student has a story behind their academic journey, but some stories are shaped not only by hard work, but also by unexpected kindness and support from others. My journey toward higher education is one of those stories, a journey where a simple, random meeting changed the direction of my life and made my dreams achievable.
 

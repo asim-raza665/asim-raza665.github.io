@@ -10,17 +10,27 @@
         <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       </h1>
     {% endunless %}
-    {% include menu.html menu=site.navigation %}
-    {% include menu.html menu=site.external %}
+    {% include menu.html menu=site.navigation class_name="site-header__nav" %}
+    {% include menu.html menu=site.external class_name="site-header__external" %}
   </header>
 
-  {{ content }}
+  <main class="site-main">
+    {{ content }}
+  </main>
 
-  {%- if site.footer -%}
   <footer class="site-footer hover">
-    <div>{{ site.description }}</div>
-    {% include menu.html menu=site.footer %}
+    <div class="site-footer__intro">
+      <div>
+        <h2>{{ site.title }}</h2>
+        <p>{{ site.tagline }}</p>
+        <p class="site-footer__location">{{ site.location }}</p>
+      </div>
+      <div class="site-footer__meta">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }} | {{ site.footer_note }}</p>
+        {% include social-links.html class_name="site-footer__social" %}
+      </div>
+    </div>
+    {% include menu.html menu=site.footer class_name="site-footer__nav" %}
   </footer>
-  {%- endif -%}
 </body>
 </html>

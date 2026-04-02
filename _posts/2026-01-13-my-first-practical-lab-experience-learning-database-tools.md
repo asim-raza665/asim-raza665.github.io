@@ -1,12 +1,21 @@
----
+﻿---
 layout: post
 title: "My First Practical Lab Experience – Learning Database Tools"
+date: 2026-01-13
+categories:
+  - labs
+  - databases
+tags:
+  - mysql
+  - workbench
+  - setup
+featured: false
 sequence: 13
 phase: "Second Semester Momentum"
 journey_stage: "Database Lab Foundations"
-read_time: "3 min"
 summary: "My first real database lab gave me hands-on confidence with MySQL Server, MySQL Workbench, and practical setup skills."
 ---
+
 
 Starting a new semester always brings new experiences, and one of the most important parts of my second semester was the beginning of practical lab work. Although officially it was the second lab session, for me it was actually my first lab because I had missed the initial one due to my visit to the main campus for the HEC Need-Based Scholarship interview. Therefore, I entered this lab with a mix of curiosity, excitement, and a slight concern about what I might have missed.
 
