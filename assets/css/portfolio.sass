@@ -521,6 +521,44 @@ p
 .hero-copy
   background: linear-gradient(145deg, rgba(16, 31, 45, 0.96), rgba(10, 22, 34, 0.96))
 
+.hero-grid--single
+  grid-template-columns: 1fr
+  max-width: 920px
+  margin: 0 auto
+
+.hero-copy--centered
+  text-align: center
+  padding: 3rem 2.2rem
+
+.hero-copy--centered .hero-subtitle
+  max-width: 42rem
+  margin: 1rem auto 0
+
+.button-row--centered
+  justify-content: center
+
+.summary-shell
+  max-width: 980px
+  margin-left: auto
+  margin-right: auto
+
+.feature-grid--summary
+  grid-template-columns: repeat(2, 1fr)
+
+.feature-grid--summary .feature-card p
+  margin: 0 0 0.65rem
+
+.metric-grid--simple
+  grid-template-columns: repeat(4, 1fr)
+
+.metric-grid--simple .metric-card
+  min-height: 100%
+
+.quote-panel--simple
+  max-width: 980px
+  margin-left: auto
+  margin-right: auto
+
 .hero-meta
   display: flex
   flex-wrap: wrap
@@ -695,7 +733,9 @@ p
 @media (max-width: 960px)
   .about-home-layout,
   .feature-grid--portfolio,
+  .feature-grid--summary,
   .service-grid,
   .metric-grid--portfolio,
+  .metric-grid--simple,
   .project-grid
     grid-template-columns: 1fr
