@@ -1,24 +1,12 @@
-﻿---
+---
 layout: post
 title: "An Online Lab Experience – Challenges, Projects, and Responsibility"
-date: 2026-01-16
-categories:
-  - leadership
-  - databases
-tags:
-  - sql
-  - portfolio-project
-  - mentorship
-featured: true
-featured_image: /assets/images/posts/online-lab-responsibility/cover.svg
-featured_image_alt: "Illustrated cover for online lab work, responsibility, and portfolio leadership"
-featured_image_caption: "A visual cover for the article about preparation, guidance, and leadership."
 sequence: 16
 phase: "Second Semester Momentum"
 journey_stage: "Leadership and Responsibility"
+read_time: "6 min"
 summary: "An online database lab became a turning point where preparation, project planning, and helping classmates all came together."
 ---
-
 
 As my second semester continued, one of the most interesting and slightly challenging experiences came during an online database lab session. This lab was different from the previous ones because it focused more on preparation, understanding, and evaluation rather than just performing tasks step by step. It also introduced us to important academic responsibilities and teamwork beyond the classroom.
 

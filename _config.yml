@@ -1,22 +1,9 @@
 title: "Asim Raza"
 author: "Asim Raza"
-tagline: "Computer Engineering student passionate about learning, building projects, and documenting long-term growth."
-description: "Computer Engineering student from Mandi Bahauddin, Punjab, Pakistan, building a long-term portfolio of projects, technical skills, and weekly reflections."
-url: "https://asim-raza665.github.io"
+description: "Computer Engineering student at UET Lahore, Faisalabad Campus, documenting growth, resilience, and technical learning."
 permalink: /blog/:title/
 lang: "en"
 date_format: "%B %d, %Y"
-location: "Mandi Bahauddin, Punjab, Pakistan"
-posts_per_page: 6
-latest_posts_limit: 3
-featured_posts_limit: 3
-footer_note: "Built with GitHub Pages"
-favicon: "/assets/images/favicon.svg"
-
-social:
-  email: "gondalasim665@gmail.com"
-  github: "https://github.com/asim-raza665"
-  linkedin: ""
 
 show_excerpts: false
 show_frame: false
@@ -34,10 +21,9 @@ external:
   - {title: "GitHub", icon: github, url: "https://github.com/asim-raza665"}
 
 footer:
-  - {file: "about.md", title: "About"}
+  - {file: "about.md", title: "Journey"}
   - {file: "blog.md", title: "Articles"}
-  - {file: "categories.md", title: "Categories"}
-  - {file: "tags.md", title: "Tags"}
+  - {title: "GitHub", url: "https://github.com/asim-raza665"}
 
 comments:
 
@@ -46,19 +32,3 @@ plugins:
 
 sass:
   style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      author: "Asim Raza"
-      featured: false
-      featured_image: ""
-      featured_image_alt: ""
-      featured_image_caption: ""
-
-exclude:
-  - repo-backup-master
-  - repo-backup-master.zip

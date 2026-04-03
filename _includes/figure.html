@@ -1,6 +1,0 @@
-<figure class="content-figure{% if include.class_name %} {{ include.class_name }}{% endif %}">
-  <img src="{{ include.src | relative_url }}" alt="{{ include.alt | default: '' }}" loading="lazy" decoding="async">
-  {% if include.caption %}
-  <figcaption>{{ include.caption }}</figcaption>
-  {% endif %}
-</figure>

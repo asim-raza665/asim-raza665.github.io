@@ -1,10 +1,9 @@
 {%- if include.menu -%}
-<nav{% if include.class_name %} class="{{ include.class_name }}"{% endif %}>
+<nav>
 {%- for item in include.menu -%}
   {%- assign node = site.pages | where: "name", item.file | first -%}
   {%- assign url = item.url | default: node.url -%}
   {%- assign title = item.title | default: node.title -%}
-  {%- if url and title -%}
   <a href="{{ url | relative_url }}"{% if node and page.url == node.url %} class="is-active"{% endif %}>
     {%- if item.icon -%}
       <svg aria-label="{{ title }}" width="1em" height="1em"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>
@@ -12,7 +11,6 @@
       {{ title }}
     {%- endif -%}
   </a>
-  {%- endif -%}
 {%- endfor -%}
 </nav>
 {%- endif -%}

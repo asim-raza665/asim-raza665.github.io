@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "My First Lab Experience and Learning New Skills"
-date: 2026-01-07
-categories:
-  - labs
-  - skills
-tags:
-  - python
-  - ict
-  - self-study
-featured: false
 sequence: 7
 phase: "First Semester Growth"
 journey_stage: "First Lab Experience"
+read_time: "4 min"
 summary: "My earliest practical labs taught me coding discipline, ICT tools, self-study habits, and the value of supportive friends."
 ---
-
 
 After settling into the rhythm of my first classes, the next big step in my academic journey was experiencing my first real labs at UET Faisalabad Campus. This phase was both exciting and challenging because it required me to apply the theoretical knowledge I was learning in subjects like Programming Fundamentals and Engineering Science into practical tasks. It was a completely new experience for me, as I was not used to learning in such an interactive and hands-on way.
 

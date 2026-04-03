@@ -2,50 +2,23 @@
 layout: default
 ---
 
-{% capture computed_reading_time %}{% include reading-time.html content=page.content override=page.read_time %}{% endcapture %}
-{% assign has_featured_image = false %}
-{% if page.featured_image and page.featured_image != "" %}
-  {% assign has_featured_image = true %}
-{% endif %}
-
 <article class="post-card">
   <header class="post-hero">
-    <p class="eyebrow">{{ page.phase | default: page.categories | first | default: "Article" | replace: "-", " " }}</p>
+    {% if page.phase %}<p class="eyebrow">{{ page.phase }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
     {% if page.summary %}<p class="post-lead">{{ page.summary }}</p>{% endif %}
     <div class="post-meta-row">
-      <span>{{ page.date | date: site.date_format }}</span>
-      <span>{{ computed_reading_time | strip }}</span>
-      {% if page.featured %}<span>Featured</span>{% endif %}
+      {% if page.journey_stage %}<span>{{ page.journey_stage }}</span>{% endif %}
+      {% if page.read_time %}<span>{{ page.read_time }} read</span>{% endif %}
+      {% if page.sequence %}<span>Article {{ page.sequence }}</span>{% endif %}
     </div>
-    {% include post-taxonomy.html items=page.categories type="category" %}
-    {% include post-taxonomy.html items=page.tags type="tag" %}
   </header>
 
-  {% if has_featured_image %}
-  <figure class="post-feature-image">
-    <img src="{{ page.featured_image | relative_url }}" alt="{{ page.featured_image_alt | default: page.title }}" loading="eager" decoding="async">
-    {% if page.featured_image_caption %}
-    <figcaption>{{ page.featured_image_caption }}</figcaption>
-    {% endif %}
-  </figure>
-  {% endif %}
-
-  <div class="post-layout-grid">
-    <aside class="post-outline" data-post-toc-container hidden>
-      <p class="eyebrow">On This Page</p>
-      <div data-post-toc></div>
-    </aside>
-
-    <div class="prose" data-post-content>
-      {{ content }}
-    </div>
+  <div class="prose">
+    {{ content }}
   </div>
 </article>
 
-<div class="post-footer-stack">
-  <footer class="post-return smooth">
-    <a href="{{ "/blog/" | relative_url }}">Back to the blog</a>
-  </footer>
-  {% include post-navigation.html %}
-</div>
+<footer class="post-return smooth">
+  <a href="{{ "/blog/" | relative_url }}">Back to the blog</a>
+</footer>

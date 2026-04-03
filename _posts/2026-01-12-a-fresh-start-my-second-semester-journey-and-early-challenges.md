@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "A Fresh Start – My Second Semester Journey and Early Challenges"
-date: 2026-01-12
-categories:
-  - academics
-  - growth
-tags:
-  - oop
-  - databases
-  - scholarship-interview
-featured: false
 sequence: 12
 phase: "Second Semester Momentum"
 journey_stage: "Second Semester Start"
+read_time: "5 min"
 summary: "My second semester began with preparation, confidence, a scholarship interview, and the lesson that good preparation can reduce setbacks."
 ---
-
 
 After successfully completing my first semester at university, I was given a short but valuable break of two weeks. For many students, such vacations are a time to relax and disconnect from studies. However, for me, this break became an opportunity to prepare myself for the challenges ahead. I had already realized during my first semester that university life is very different from college life. The concepts are deeper, the pace is faster, and the expectations are much higher. Keeping this in mind, I decided to use my vacation wisely instead of spending it casually.
 

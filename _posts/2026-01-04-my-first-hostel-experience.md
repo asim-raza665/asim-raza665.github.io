@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "My First Hostel Experience"
-date: 2026-01-04
-categories:
-  - student-life
-  - hostel-life
-tags:
-  - adjustment
-  - independence
-  - friendship
-featured: false
 sequence: 4
 phase: "Getting In & Starting Out"
 journey_stage: "Hostel Adjustment"
+read_time: "4 min"
 summary: "How my first days in the hostel began with discomfort and uncertainty but gradually turned into growth and friendship."
 ---
-
 
 After securing my admission in UET Lahore (Faisalabad Campus), a completely new chapter of my life began, my very first experience of hostel life. Before joining university, I had never stayed in a hostel or lived away from my home for such a long period. Because of this, everything about this transition felt new, unfamiliar, and a bit overwhelming for me. I was both excited and nervous at the same time, as I did not know what to expect from this new lifestyle.
 

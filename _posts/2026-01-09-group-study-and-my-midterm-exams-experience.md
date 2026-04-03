@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "Group Study and My Midterm Exams Experience"
-date: 2026-01-09
-categories:
-  - academics
-  - exams
-tags:
-  - group-study
-  - midterms
-  - collaboration
-featured: false
 sequence: 9
 phase: "First Semester Growth"
 journey_stage: "Midterm Preparation"
+read_time: "4 min"
 summary: "How group study, shared understanding, and focused preparation turned moderate quiz scores into strong midterm results."
 ---
-
 
 After settling into my daily routine and becoming more familiar with university life, the next significant phase of my journey was preparing for quizzes and midterm exams. Initially, the concept of group study was completely new to me. During my FSc studies, I was used to studying alone, relying mostly on personal notes and self-practice. However, at UET Faisalabad, I quickly realized that working together with peers could make a huge difference. Learning in a collaborative environment not only helped me understand difficult concepts more effectively but also made the study process less stressful.
 

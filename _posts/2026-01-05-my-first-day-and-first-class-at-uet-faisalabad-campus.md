@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "My First Day and First Class at UET Faisalabad Campus"
-date: 2026-01-05
-categories:
-  - student-life
-  - academics
-tags:
-  - first-class
-  - campus-life
-  - programming
-featured: false
 sequence: 5
 phase: "Getting In & Starting Out"
 journey_stage: "First Day on Campus"
+read_time: "4 min"
 summary: "An unforgettable first day filled with confusion, curiosity, first classes, and the realization that university life would demand much more from me."
 ---
-
 
 After settling into hostel life, the next big step in my journey was my very first day of classes at UET Faisalabad Campus. That morning felt completely different from the previous days because it carried a unique mix of excitement, curiosity, and nervousness. Since it was my first university class, I wanted everything to go perfectly. I woke up early in the morning, took a shower, got fully ready, and carefully packed my bag with the basic items I had at that time, including a register, a pen, and a few markers. I was not even sure what other stationery items would be required, but I tried my best to be prepared.
 

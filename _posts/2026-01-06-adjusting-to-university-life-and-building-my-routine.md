@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "Adjusting to University Life and Building My Routine"
-date: 2026-01-06
-categories:
-  - academics
-  - growth
-tags:
-  - routine
-  - programming-fundamentals
-  - adaptation
-featured: false
 sequence: 6
 phase: "First Semester Growth"
 journey_stage: "Building Routine"
+read_time: "5 min"
 summary: "The difficult but valuable process of adapting to university studies, programming, English lectures, and a completely new routine."
 ---
-
 
 After experiencing my first day at university, the real challenge began, adjusting to a completely new academic and social environment. The first week of classes was a mixture of confusion, curiosity, and pressure. Everything felt very different from my FSc life, where studies were more structured, guided, and predictable. In university, I had to manage everything on my own, including attending lectures, completing assignments, handling hostel life, and doing self-study. This sudden shift in responsibility made the initial days quite challenging for me.
 

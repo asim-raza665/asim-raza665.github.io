@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "Ramzan Adventures and an Unexpected Shift to Online Learning"
-date: 2026-01-14
-categories:
-  - student-life
-  - online-learning
-tags:
-  - ramzan
-  - adaptability
-  - hostel-life
-featured: false
 sequence: 14
 phase: "Second Semester Momentum"
 journey_stage: "Ramzan and Adaptability"
+read_time: "5 min"
 summary: "Ramzan in the hostel taught me responsibility, teamwork, and adaptability just as university life unexpectedly shifted online."
 ---
-
 
 The beginning of Ramzan during my second semester brought a completely new and memorable experience into my university life. It was not just a change in routine, but a unique phase filled with learning, independence, and unexpected challenges. As hostel students, this was our first time observing Ramzan away from home, which made it both exciting and slightly difficult.
 

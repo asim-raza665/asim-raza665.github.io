@@ -1,21 +1,12 @@
-﻿---
+---
 layout: post
 title: "A Mentor Who Changed Our Perspective – Dr. Bilal"
-date: 2026-01-08
-categories:
-  - mentorship
-  - mindset
-tags:
-  - dr-bilal
-  - skills
-  - career
-featured: false
 sequence: 8
 phase: "First Semester Growth"
 journey_stage: "Mentorship and Mindset"
+read_time: "4 min"
 summary: "How Dr. Bilal helped us move beyond labels and focus on the technical skills that truly shape a future in computing."
 ---
-
 
 During the early weeks of my university life, one of the most common concerns among students in our class was about our degree program. We were enrolled in BSc Computer Engineering under SEC instead of PEC, and this created a lot of confusion and uncertainty. Many students, including myself, started to question whether we were in the right field. There were discussions in classrooms, hostels, and even during breaks about future job opportunities, the value of our degree, and whether not being registered under PEC would limit our careers. This situation created stress and doubt in our minds, especially because we had just started our university journey and were already worried about our future.
 
