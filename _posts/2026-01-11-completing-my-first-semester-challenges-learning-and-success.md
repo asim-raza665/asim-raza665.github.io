@@ -6,6 +6,7 @@ phase: "First Semester Growth"
 journey_stage: "First Semester Success"
 read_time: "6 min"
 summary: "My first semester ended with a strong CGPA, a machine learning project, and the confidence that I could thrive in computer engineering."
+image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=400&fit=crop"
 ---
 
 The end of my first semester at UET Faisalabad Campus was both challenging and rewarding. After completing the midterm exams, the next major task was preparing for the final exams, which required comprehensive revision of all the concepts covered throughout the semester, including topics taught before the midterms. For me, this period was particularly demanding because it involved balancing multiple responsibilities, maintaining a consistent study routine, managing hostel life, and, whenever possible, spending quality time with my family. It became clear that effective time management and self-discipline were essential if I wanted to cover all subjects thoroughly, from Programming Fundamentals and Calculus to Physics, ICT, and Discrete Mathematics.

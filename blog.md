@@ -27,6 +27,7 @@ description: "A complete record of my computer engineering journey, organized as
   <div class="journal-grid">
     {% for post in phase_one %}
     <article class="journal-card">
+      {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">{% endif %}
       <span class="journal-index">Article {{ post.sequence }}</span>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.summary }}</p>
@@ -47,6 +48,7 @@ description: "A complete record of my computer engineering journey, organized as
   <div class="journal-grid">
     {% for post in phase_two %}
     <article class="journal-card">
+      {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">{% endif %}
       <span class="journal-index">Article {{ post.sequence }}</span>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.summary }}</p>
@@ -67,6 +69,7 @@ description: "A complete record of my computer engineering journey, organized as
   <div class="journal-grid">
     {% for post in phase_three %}
     <article class="journal-card">
+      {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">{% endif %}
       <span class="journal-index">Article {{ post.sequence }}</span>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.summary }}</p>

@@ -6,6 +6,7 @@ phase: "Getting In & Starting Out"
 journey_stage: "First Departure"
 read_time: "4 min"
 summary: "The emotional, uncertain, and unforgettable journey from home to UET Faisalabad for the very first time."
+image: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=800&h=400&fit=crop"
 ---
 
 The journey to university is always a memorable and emotional moment in a student’s life, and mine was no different. In fact, it was one of the most important transitions in my life because it was the first time I was leaving my home to start a completely new phase. Everything felt new and uncertain, yet exciting at the same time. The night before my departure, I carefully prepared all my necessary belongings, including clothes, shoes, and other daily essentials. I made sure that everything was properly packed and organized because I knew the next day would be both hectic and emotional. I did not want to forget anything important, as I would be away from home for a long time.

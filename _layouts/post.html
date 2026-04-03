@@ -4,6 +4,7 @@ layout: default
 
 <article class="post-card">
   <header class="post-hero">
+    {% if page.image %}<img src="{{ page.image }}" alt="{{ page.title }}" class="post-hero-image">{% endif %}
     {% if page.phase %}<p class="eyebrow">{{ page.phase }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
     {% if page.summary %}<p class="post-lead">{{ page.summary }}</p>{% endif %}
