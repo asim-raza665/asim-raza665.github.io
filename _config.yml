@@ -14,8 +14,8 @@ show_minimal: false
 navigation:
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
-  - {file: "contact.md", title: "Contact"}
   - {file: "blog.md", title: "Blog"}
+  - {file: "contact.md", title: "Contact"}
 
 external:
   - {title: "Email", icon: envelope, url: "mailto:gondalasim665@gmail.com"}
