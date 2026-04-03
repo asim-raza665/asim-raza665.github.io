@@ -16,6 +16,10 @@ description: "A concise portrait of who I am, what shaped my journey, and the va
       <p>I am Asim Raza, a BSc Computer Engineering student at UET Lahore, Faisalabad Campus. My academic journey is rooted in hard work, self-discipline, and the desire to build strong technical skills that can create meaningful impact.</p>
     </div>
     <div class="about-card">
+      <h3>Location</h3>
+      <p>I belong to {{ site.location }}, and this background continues to shape my values, motivation, and long-term academic goals.</p>
+    </div>
+    <div class="about-card">
       <h3>How My Journey Began</h3>
       <p>My path started with balancing FSc Part-II studies and university entrance test preparation at the same time. That phase taught me planning, patience, and how to stay focused when the pressure is high.</p>
     </div>

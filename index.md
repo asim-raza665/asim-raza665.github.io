@@ -9,8 +9,8 @@ description: "A polished introduction to my academic path, achievements, and fut
   <div class="hero-copy">
     <p class="eyebrow">Computer Engineering Journey</p>
     <h1>Asim Raza</h1>
-    <p class="hero-subtitle">BSc Computer Engineering student at UET Lahore, Faisalabad Campus, building a future through discipline, gratitude, and practical learning.</p>
-    <p>I created this portfolio to present my journey from entry-test preparation to university life, technical growth, scholarships, hostel experiences, labs, and academic progress. It reflects how I am growing not only as a student, but also as a resilient and responsible future engineer.</p>
+    <p class="hero-subtitle">Computer Engineering student building a future through discipline, gratitude, practical learning, and continuous growth.</p>
+    <p>I created this portfolio to present my journey through university life, technical growth, scholarships, hostel experiences, labs, projects, and academic development. It is designed to grow with me as I continue adding new articles and experiences over time.</p>
     <div class="button-row">
       <a class="primary-link" href="{{ "/about/" | relative_url }}">Explore My Story</a>
       <a class="secondary-link" href="{{ "/blog/" | relative_url }}">Read My Articles</a>
@@ -19,12 +19,13 @@ description: "A polished introduction to my academic path, achievements, and fut
 
   <aside class="profile-panel">
     <div class="profile-badge">AR</div>
-    <p class="profile-role">Emerging Computer Engineer</p>
+    <p class="profile-role">Computer Engineering Student</p>
     <ul class="profile-facts">
       <li><strong>University:</strong> UET Lahore, Faisalabad Campus</li>
+      <li><strong>Location:</strong> {{ site.location }}</li>
       <li><strong>Focus:</strong> Programming, Databases, Machine Learning</li>
-      <li><strong>Milestone:</strong> 3.83 CGPA in first semester</li>
-      <li><strong>Mindset:</strong> Learn deeply, grow consistently, help others</li>
+      <li><strong>Portfolio:</strong> A growing record of my academic and personal journey</li>
+      <li><strong>Mindset:</strong> Learn deeply, grow consistently, and keep building</li>
     </ul>
   </aside>
 </section>
@@ -57,24 +58,24 @@ description: "A polished introduction to my academic path, achievements, and fut
 <section class="section-block">
   <div class="section-heading">
     <p class="eyebrow">Academic Identity</p>
-    <h2>What defines me as a student</h2>
+    <h2>A portfolio that grows with my journey</h2>
   </div>
   <div class="metric-grid">
     <article class="metric-card">
-      <span class="metric-value">16</span>
-      <span class="metric-label">portfolio articles documenting real experiences</span>
+      <span class="metric-value">{{ site.posts | size }}</span>
+      <span class="metric-label">published portfolio articles documenting real experiences</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">3.83</span>
-      <span class="metric-label">CGPA achieved in my first semester</span>
+      <span class="metric-value">{{ site.posts | first | date: "%Y" }}</span>
+      <span class="metric-label">latest chapter currently reflected in this growing archive</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">3rd</span>
-      <span class="metric-label">position secured in my section</span>
+      <span class="metric-value">1 / Week</span>
+      <span class="metric-label">article plan to continue documenting my journey through future semesters</span>
     </article>
     <article class="metric-card">
       <span class="metric-value">1</span>
-      <span class="metric-label">clear mission: become skill-driven and impactful</span>
+      <span class="metric-label">clear mission: become skill-driven, consistent, and impactful</span>
     </article>
   </div>
 </section>
@@ -114,7 +115,7 @@ description: "A polished introduction to my academic path, achievements, and fut
   <div>
     <p class="eyebrow">Next Step</p>
     <h2>Read the complete journey in the blog section</h2>
-    <p>The first page stays focused on my fixed introduction, while the blog page collects the full story article by article, exactly as required.</p>
+    <p>The first page stays focused on my introduction, while the blog page keeps growing article by article as I continue documenting my journey.</p>
   </div>
   <a class="primary-link" href="{{ "/blog/" | relative_url }}">Open Blog</a>
 </section>

@@ -1,9 +1,10 @@
 title: "Asim Raza"
 author: "Asim Raza"
-description: "Computer Engineering student at UET Lahore, Faisalabad Campus, documenting growth, resilience, and technical learning."
+description: "Computer Engineering student documenting growth, resilience, projects, and long-term technical learning."
 permalink: /blog/:title/
 lang: "en"
 date_format: "%B %d, %Y"
+location: "Mandi Bahauddin, Punjab, Pakistan"
 
 show_excerpts: false
 show_frame: false
