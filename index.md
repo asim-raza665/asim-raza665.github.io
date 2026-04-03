@@ -42,16 +42,12 @@ description: "A clean computer engineering portfolio homepage introducing my bac
       <span class="metric-label">Journey Posts</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">Growing</span>
-      <span class="metric-label">Technical Skills</span>
+      <span class="metric-value">3.83</span>
+      <span class="metric-label">CGPA</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">1 / Week</span>
-      <span class="metric-label">Writing Habit</span>
-    </article>
-    <article class="metric-card">
-      <span class="metric-value">Long-Term</span>
-      <span class="metric-label">Portfolio Growth</span>
+      <span class="metric-value">3rd</span>
+      <span class="metric-label">Position In Section</span>
     </article>
   </div>
 </section>

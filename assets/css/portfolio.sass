@@ -30,8 +30,26 @@ body > footer
   background: rgba(10, 24, 39, 0.88)
   box-shadow: 0 14px 40px rgba(7, 18, 30, 0.2)
   color: #f7f3ea
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  gap: 0.75rem
+  justify-content: space-between
+
+.site-header__brand
+  display: flex
+  flex-direction: column
+  gap: 0.2rem
+
+.site-header__tagline
+  margin: 0
+  color: rgba(247, 243, 234, 0.72)
+  font-size: 0.72rem
+  letter-spacing: 0.22em
+  text-transform: uppercase
 
 .site-header h1
+  margin: 0
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif
   letter-spacing: 0.03em
 
@@ -55,6 +73,19 @@ body > footer
 .site-header nav a.is-active
   background: rgba(255, 255, 255, 0.16)
   color: #ffffff
+
+.theme-toggle
+  min-height: 2.45rem
+  padding: 0.55rem 1rem
+  border: 1px solid rgba(255, 255, 255, 0.16)
+  border-radius: 999px
+  background: rgba(255, 255, 255, 0.04)
+  color: #f7f3ea
+  cursor: pointer
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease
+
+.theme-toggle:hover
+  background: rgba(255, 255, 255, 0.12)
 
 .page-card,
 .post-card
@@ -595,7 +626,7 @@ p
   margin: 0 0 0.65rem
 
 .metric-grid--simple
-  grid-template-columns: repeat(4, 1fr)
+  grid-template-columns: repeat(3, 1fr)
 
 .metric-grid--simple .metric-card
   min-height: 100%
@@ -604,6 +635,31 @@ p
   max-width: 980px
   margin-left: auto
   margin-right: auto
+
+.summary-shell .feature-card,
+.metric-grid--simple .metric-card,
+.quote-panel--simple,
+.hero-copy--centered
+  position: relative
+  overflow: hidden
+
+.summary-shell .feature-card::before,
+.metric-grid--simple .metric-card::before,
+.quote-panel--simple::before,
+.hero-copy--centered::before
+  content: ""
+  position: absolute
+  inset: 0
+  background-image: linear-gradient(rgba(125, 166, 255, 0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(125, 166, 255, 0.05) 1px, transparent 1px)
+  background-size: 32px 32px
+  pointer-events: none
+
+.summary-shell .feature-card > *,
+.metric-grid--simple .metric-card > *,
+.quote-panel--simple > *,
+.hero-copy--centered > *
+  position: relative
+  z-index: 1
 
 .hero-meta
   display: flex
@@ -776,6 +832,117 @@ p
 .site-footer
   background: rgba(5, 11, 18, 0.95)
 
+html[data-theme="light"] body,
+body.light-theme
+  color: #102033
+  background: #f4efe6
+  background-image: radial-gradient(circle at top left, rgba(15, 123, 131, 0.12), transparent 24%), radial-gradient(circle at top right, rgba(198, 107, 66, 0.12), transparent 22%), linear-gradient(180deg, rgba(255, 255, 255, 0.58), transparent 28%)
+
+html[data-theme="light"] h1,
+html[data-theme="light"] h2,
+html[data-theme="light"] h3,
+body.light-theme h1,
+body.light-theme h2,
+body.light-theme h3
+  color: #102033
+
+html[data-theme="light"] p,
+body.light-theme p
+  color: #415263
+
+html[data-theme="light"] .page-card,
+html[data-theme="light"] .post-card,
+body.light-theme .page-card,
+body.light-theme .post-card
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(255, 252, 246, 0.98))
+  box-shadow: 0 28px 70px rgba(16, 32, 51, 0.12)
+
+html[data-theme="light"] .page-hero,
+html[data-theme="light"] .post-hero,
+body.light-theme .page-hero,
+body.light-theme .post-hero
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: linear-gradient(135deg, rgba(15, 123, 131, 0.08), rgba(255, 255, 255, 0.92) 42%, rgba(198, 107, 66, 0.08))
+
+html[data-theme="light"] .hero-copy,
+html[data-theme="light"] .feature-card,
+html[data-theme="light"] .metric-card,
+html[data-theme="light"] .timeline-card,
+html[data-theme="light"] .about-card,
+html[data-theme="light"] .contact-card,
+html[data-theme="light"] .journal-card,
+html[data-theme="light"] .quote-panel,
+html[data-theme="light"] .cta-panel,
+html[data-theme="light"] .blog-intro,
+html[data-theme="light"] .post-navigation__link,
+body.light-theme .hero-copy,
+body.light-theme .feature-card,
+body.light-theme .metric-card,
+body.light-theme .timeline-card,
+body.light-theme .about-card,
+body.light-theme .contact-card,
+body.light-theme .journal-card,
+body.light-theme .quote-panel,
+body.light-theme .cta-panel,
+body.light-theme .blog-intro,
+body.light-theme .post-navigation__link
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 252, 252, 0.96))
+  box-shadow: 0 16px 40px rgba(16, 32, 51, 0.08)
+
+html[data-theme="light"] .site-header,
+body.light-theme .site-header
+  background: rgba(255, 255, 255, 0.86)
+  border: 1px solid rgba(16, 32, 51, 0.08)
+  color: #102033
+
+html[data-theme="light"] .site-header a,
+html[data-theme="light"] .theme-toggle,
+body.light-theme .site-header a,
+body.light-theme .theme-toggle
+  color: #102033
+
+html[data-theme="light"] .site-header__tagline,
+body.light-theme .site-header__tagline
+  color: rgba(16, 32, 51, 0.64)
+
+html[data-theme="light"] .site-header nav a:hover,
+html[data-theme="light"] .site-header nav a.is-active,
+html[data-theme="light"] .theme-toggle:hover,
+body.light-theme .site-header nav a:hover,
+body.light-theme .site-header nav a.is-active,
+body.light-theme .theme-toggle:hover
+  background: rgba(15, 123, 131, 0.12)
+  color: #102033
+
+html[data-theme="light"] .secondary-link,
+html[data-theme="light"] .phase-links a,
+html[data-theme="light"] .post-return a,
+body.light-theme .secondary-link,
+body.light-theme .phase-links a,
+body.light-theme .post-return a
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: rgba(255, 255, 255, 0.74)
+  color: #102033
+
+html[data-theme="light"] .secondary-link:hover,
+html[data-theme="light"] .phase-links a:hover,
+html[data-theme="light"] .post-return a:hover,
+body.light-theme .secondary-link:hover,
+body.light-theme .phase-links a:hover,
+body.light-theme .post-return a:hover
+  background: rgba(216, 240, 238, 0.74)
+
+html[data-theme="light"] .site-footer,
+body.light-theme .site-footer
+  background: rgba(255, 255, 255, 0.9)
+  color: #102033
+
+html[data-theme="light"] .site-footer a,
+body.light-theme .site-footer a
+  color: #102033
+
 @media (max-width: 960px)
   .about-home-layout,
   .feature-grid--portfolio,
@@ -785,3 +952,11 @@ p
   .metric-grid--simple,
   .project-grid
     grid-template-columns: 1fr
+
+  .site-header
+    justify-content: center
+
+  .site-header__brand
+    width: 100%
+    align-items: center
+    text-align: center
