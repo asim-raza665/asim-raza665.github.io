@@ -2,120 +2,150 @@
 layout: page
 title: "Home"
 body_class: home-page
-description: "A polished introduction to my academic path, achievements, and future direction in computer engineering."
+description: "A modern computer engineering portfolio highlighting technical interests, featured work, and recent writing."
 ---
 
-<section class="hero-grid">
+<section class="hero-grid portfolio-hero">
   <div class="hero-copy">
-    <p class="eyebrow">Computer Engineering Journey</p>
-    <h1>Asim Raza</h1>
-    <p class="hero-subtitle">Computer Engineering student building a future through discipline, gratitude, practical learning, and continuous growth.</p>
-    <p>I created this portfolio to present my journey through university life, technical growth, scholarships, hostel experiences, labs, projects, and academic development. It is designed to grow with me as I continue adding new articles and experiences over time.</p>
+    <p class="eyebrow">Computer Engineering Portfolio</p>
+    <h1>Hi, I'm {{ site.title }} — Computer Engineering Student</h1>
+    <p class="hero-subtitle">I build solutions through programming, problem-solving, and hardware-software integration.</p>
+    <p>This portfolio brings together my academic growth, technical interests, featured work, and ongoing blog writing. It is designed as a long-term record of how I learn, build, and grow as an engineer.</p>
     <div class="button-row">
-      <a class="primary-link" href="{{ "/about/" | relative_url }}">Explore My Story</a>
-      <a class="secondary-link" href="{{ "/blog/" | relative_url }}">Read My Articles</a>
+      <a class="primary-link" href="#featured-work">View Projects</a>
+      <a class="secondary-link" href="{{ "/blog/" | relative_url }}">Read Blog</a>
+    </div>
+    <div class="hero-meta">
+      <span>Programming</span>
+      <span>Problem Solving</span>
+      <span>Embedded Thinking</span>
     </div>
   </div>
 
-  <aside class="profile-panel">
-    <div class="profile-badge">AR</div>
-    <p class="profile-role">Computer Engineering Student</p>
-    <ul class="profile-facts">
-      <li><strong>University:</strong> UET Lahore, Faisalabad Campus</li>
-      <li><strong>Location:</strong> {{ site.location }}</li>
-      <li><strong>Focus:</strong> Programming, Databases, Machine Learning</li>
-      <li><strong>Portfolio:</strong> A growing record of my academic and personal journey</li>
-      <li><strong>Mindset:</strong> Learn deeply, grow consistently, and keep building</li>
-    </ul>
+  <aside class="hero-visual-card">
+    <div class="hero-visual-art" aria-hidden="true">
+      <svg viewBox="0 0 320 260" role="presentation">
+        <defs>
+          <linearGradient id="heroCircuit" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#52d6c4"></stop>
+            <stop offset="100%" stop-color="#7da6ff"></stop>
+          </linearGradient>
+        </defs>
+        <rect x="40" y="30" width="240" height="180" rx="24" fill="rgba(255,255,255,0.04)" stroke="rgba(125,166,255,0.35)"></rect>
+        <rect x="110" y="75" width="100" height="90" rx="16" fill="rgba(16,32,51,0.88)" stroke="url(#heroCircuit)" stroke-width="3"></rect>
+        <circle cx="85" cy="95" r="9" fill="#52d6c4"></circle>
+        <circle cx="235" cy="95" r="9" fill="#7da6ff"></circle>
+        <circle cx="85" cy="145" r="9" fill="#f4b860"></circle>
+        <circle cx="235" cy="145" r="9" fill="#52d6c4"></circle>
+        <path d="M94 95h38m88 0h6M85 104v32m0 18v6m150-56v32m0 18v6M94 145h16m110 0h6M160 75V44m0 121v20" stroke="url(#heroCircuit)" stroke-width="4" stroke-linecap="round"></path>
+      </svg>
+    </div>
+    <div class="hero-visual-copy">
+      <p class="eyebrow">Building Forward</p>
+      <h3>Software, systems, and continuous learning</h3>
+      <p>I am focused on strengthening both technical depth and practical thinking through programming, engineering concepts, and project-based learning.</p>
+    </div>
   </aside>
 </section>
 
 <section class="section-block">
   <div class="section-heading">
-    <p class="eyebrow">Journey Snapshot</p>
-    <h2>Four defining parts of my story</h2>
+    <p class="eyebrow">About Me</p>
+    <h2>A concise introduction to my background and direction</h2>
+    <p class="section-intro">I am building a portfolio that reflects long-term growth in computer engineering, with a focus on technical learning, practical problem solving, and documenting meaningful progress over time.</p>
   </div>
-  <div class="feature-grid">
-    <article class="feature-card">
-      <h3>Admission With Purpose</h3>
-      <p>I balanced FSc board preparation with competitive entry tests and secured admission to UET Lahore in Computer Engineering through steady planning and self-study.</p>
+  <div class="about-home-layout">
+    <article class="about-summary-card">
+      <h3>About Me</h3>
+      <ul class="about-points">
+        <li><strong>Degree</strong><span>BSc Computer Engineering</span></li>
+        <li><strong>University</strong><span>UET Lahore, Faisalabad Campus</span></li>
+        <li><strong>Location</strong><span>{{ site.location }}</span></li>
+        <li><strong>Focus Areas</strong><span>{% for area in site.data.home.focus_areas %}{{ area }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span></li>
+      </ul>
     </article>
-    <article class="feature-card">
-      <h3>Support That Changed Everything</h3>
-      <p>A life-changing scholarship and the trust of generous mentors removed financial barriers and gave me the strength to pursue higher education with confidence.</p>
-    </article>
-    <article class="feature-card">
-      <h3>From Hostel Life to Labs</h3>
-      <p>Living independently, adjusting to university routines, and learning through practical labs taught me adaptability, discipline, and confidence in new environments.</p>
-    </article>
-    <article class="feature-card">
-      <h3>Growth Through Consistency</h3>
-      <p>From struggling with Python in the beginning to completing a machine learning project and ranking near the top of my class, I learned how persistence creates results.</p>
-    </article>
+
+    <div class="feature-grid feature-grid--portfolio">
+      {% for item in site.data.home.about_cards %}
+      <article class="feature-card">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+      </article>
+      {% endfor %}
+    </div>
   </div>
 </section>
 
 <section class="section-block">
   <div class="section-heading">
-    <p class="eyebrow">Academic Identity</p>
-    <h2>A portfolio that grows with my journey</h2>
+    <p class="eyebrow">What I Do</p>
+    <h2>Areas where I am building strong capability</h2>
   </div>
-  <div class="metric-grid">
+  <div class="service-grid">
+    {% for item in site.data.home.what_i_do %}
+    <article class="service-card">
+      <div class="service-icon">{{ item.icon }}</div>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">At a Glance</p>
+    <h2>Portfolio highlights</h2>
+  </div>
+  <div class="metric-grid metric-grid--portfolio">
     <article class="metric-card">
       <span class="metric-value">{{ site.posts | size }}</span>
-      <span class="metric-label">published portfolio articles documenting real experiences</span>
+      <span class="metric-label">Articles Written</span>
+      <p>A growing archive of experiences, lessons, and technical progress.</p>
     </article>
     <article class="metric-card">
-      <span class="metric-value">{{ site.posts | first | date: "%Y" }}</span>
-      <span class="metric-label">latest chapter currently reflected in this growing archive</span>
+      <span class="metric-value">Python + SQL</span>
+      <span class="metric-label">Technical Skills</span>
+      <p>Programming, database systems, and practical technical learning.</p>
     </article>
     <article class="metric-card">
-      <span class="metric-value">1 / Week</span>
-      <span class="metric-label">article plan to continue documenting my journey through future semesters</span>
+      <span class="metric-value">Consistent Growth</span>
+      <span class="metric-label">Academic Achievement</span>
+      <p>Steady improvement through disciplined study and project work.</p>
     </article>
-    <article class="metric-card">
-      <span class="metric-value">1</span>
-      <span class="metric-label">clear mission: become skill-driven, consistent, and impactful</span>
+  </div>
+</section>
+
+<section id="featured-work" class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">Featured Work</p>
+    <h2>Selected work that represents my development</h2>
+  </div>
+  <div class="project-grid">
+    {% for project in site.data.home.featured_work %}
+    <article class="project-card">
+      <span class="project-tag">{{ project.tag }}</span>
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+      <a class="secondary-link" href="{{ project.url | relative_url }}">{{ project.link_label }}</a>
     </article>
+    {% endfor %}
   </div>
 </section>
 
 <section class="section-block">
   <div class="section-heading">
-    <p class="eyebrow">Core Strengths</p>
-    <h2>The qualities I am building</h2>
+    <p class="eyebrow">Latest Posts</p>
+    <h2>Recent writing from my journey</h2>
   </div>
-  <div class="timeline-grid">
-    <article class="timeline-card">
-      <h3>Discipline</h3>
-      <p>I learned to balance studies, hostel life, assignments, labs, and exam preparation through structured routines and strong self-management.</p>
+  <div class="journal-grid">
+    {% for post in site.posts limit: 3 %}
+    <article class="journal-card post-preview-card">
+      <span class="journal-index">{{ post.date | date: site.date_format }}</span>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.summary | default: post.excerpt | strip_html | truncate: 150 }}</p>
+      <a class="secondary-link" href="{{ post.url | relative_url }}">Read Post</a>
     </article>
-    <article class="timeline-card">
-      <h3>Adaptability</h3>
-      <p>I adjusted to new cities, new people, online learning shifts, technical subjects, and challenging academic expectations without giving up.</p>
-    </article>
-    <article class="timeline-card">
-      <h3>Collaboration</h3>
-      <p>Group study, supportive friends, and academic discussions helped me understand difficult concepts and grow with confidence.</p>
-    </article>
-    <article class="timeline-card">
-      <h3>Responsibility</h3>
-      <p>When my teacher trusted me to guide classmates on the portfolio project, I discovered a new sense of leadership and service.</p>
-    </article>
+    {% endfor %}
   </div>
-</section>
-
-<section class="quote-panel">
-  <p class="quote-mark">“</p>
-  <blockquote>Your skills will define your future, not just your degree title.</blockquote>
-  <p class="quote-source">A lesson from Dr. Bilal that continues to shape my direction in computer engineering.</p>
-</section>
-
-<section class="cta-panel">
-  <div>
-    <p class="eyebrow">Next Step</p>
-    <h2>Read the complete journey in the blog section</h2>
-    <p>The first page stays focused on my introduction, while the blog page keeps growing article by article as I continue documenting my journey.</p>
-  </div>
-  <a class="primary-link" href="{{ "/blog/" | relative_url }}">Open Blog</a>
 </section>

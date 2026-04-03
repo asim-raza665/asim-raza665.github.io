@@ -1,0 +1,41 @@
+focus_areas:
+  - Programming
+  - Problem Solving
+  - Databases
+  - Hardware-Software Systems
+
+about_cards:
+  - title: Background
+    description: I am a Computer Engineering student building a long-term portfolio around technical growth, reflection, and practical engineering thinking.
+  - title: Experience
+    description: My experience includes coursework, labs, independent study, academic writing, and documenting milestones from university life.
+  - title: Interests
+    description: I am especially interested in programming, systems thinking, database technologies, and the connection between hardware and software.
+
+what_i_do:
+  - icon: "</>"
+    title: Programming
+    description: I work on strengthening my programming foundations through practical exercises, labs, projects, and continuous self-study.
+  - icon: "[]"
+    title: Problem Solving
+    description: I approach challenges through logical thinking, structured practice, and learning how to break complex problems into manageable steps.
+  - icon: "{ }"
+    title: Hardware + Software Systems
+    description: I am interested in how hardware and software work together to build reliable systems and meaningful engineering solutions.
+
+featured_work:
+  - tag: Academic Project
+    title: Machine Learning Project
+    description: A project-focused learning experience that helped me strengthen Python, data handling, and technical presentation skills.
+    link_label: View Related Article
+    url: /blog/completing-my-first-semester-challenges-learning-and-success/
+  - tag: Portfolio System
+    title: Personal Engineering Portfolio
+    description: This Jekyll portfolio is an ongoing project designed to present my journey, blog writing, and long-term growth professionally.
+    link_label: Read the Blog
+    url: /blog/
+  - tag: Technical Learning
+    title: Database and SQL Practice
+    description: My database learning journey includes SQL basics, lab work, structured practice, and applying concepts to technical coursework.
+    link_label: Explore the Story
+    url: /blog/online-classes-sql-learning-and-collaborative-projects/
