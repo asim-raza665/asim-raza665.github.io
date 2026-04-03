@@ -381,6 +381,48 @@ p
   background: transparent
   box-shadow: none
 
+.post-footer-stack
+  width: 94%
+  max-width: 1120px
+  margin: -0.2rem auto 1.35rem
+
+.post-navigation
+  display: grid
+  grid-template-columns: repeat(2, 1fr)
+  gap: 1rem
+
+.post-navigation__link
+  display: flex
+  flex-direction: column
+  gap: 0.35rem
+  padding: 1.2rem
+  border: 1px solid rgba(162, 184, 205, 0.14)
+  border-radius: 18px
+  background: linear-gradient(180deg, rgba(11, 23, 35, 0.94), rgba(8, 17, 27, 0.96))
+  color: #f4f8fb
+  text-decoration: none
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18)
+
+.post-navigation__link strong
+  color: #f4f8fb
+
+.post-navigation__link:hover
+  background: linear-gradient(180deg, rgba(16, 31, 45, 0.96), rgba(10, 22, 34, 0.96))
+  transform: translateY(-2px)
+
+.post-navigation__label
+  color: #7ddacb
+  font-size: 0.82rem
+  font-weight: 700
+  letter-spacing: 0.08em
+  text-transform: uppercase
+
+.post-navigation__link--next
+  text-align: right
+
+.post-navigation__link--empty
+  opacity: 0.7
+
 .site-footer
   width: 94%
   max-width: 1120px
@@ -441,7 +483,8 @@ p
   .page-card,
   .post-card,
   .site-footer,
-  .post-return
+  .post-return,
+  .post-footer-stack
     width: 96%
     padding: 1.2rem
 
@@ -465,6 +508,9 @@ p
   .cta-panel,
   .blog-intro
     padding: 1.2rem
+
+  .post-navigation
+    grid-template-columns: 1fr
 
 body
   color: #d6e3ee

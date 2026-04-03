@@ -26,30 +26,10 @@ description: "Ways to reach me for academic networking, portfolio feedback, and 
       <p>I am currently pursuing Computer Engineering at UET Lahore, Faisalabad Campus, where I continue building my technical and personal growth.</p>
       <span class="contact-note">UET Lahore, Faisalabad Campus</span>
     </article>
-  </div>
-</section>
-
-<section class="section-block">
-  <div class="section-heading">
-    <p class="eyebrow">What I Welcome</p>
-    <h2>Topics I would be glad to discuss</h2>
-  </div>
-  <div class="feature-grid">
-    <article class="feature-card">
-      <h3>Student Journey</h3>
-      <p>Conversations about admissions, hostel adjustment, scholarships, and managing the transition from college life to university.</p>
-    </article>
-    <article class="feature-card">
-      <h3>Technical Growth</h3>
-      <p>Learning programming, database systems, SQL, machine learning, and building confidence in computer engineering subjects.</p>
-    </article>
-    <article class="feature-card">
-      <h3>Portfolio Feedback</h3>
-      <p>Suggestions, collaboration ideas, and professional feedback that can help me improve my projects and presentation.</p>
-    </article>
-    <article class="feature-card">
-      <h3>Academic Networking</h3>
-      <p>Connecting with fellow students, mentors, and professionals who value learning, discipline, and skill-oriented progress.</p>
+    <article class="contact-card">
+      <h3>Location</h3>
+      <p>I belong to {{ site.location }}, and this is where my academic and personal journey is rooted.</p>
+      <span class="contact-note">{{ site.location }}</span>
     </article>
   </div>
 </section>
