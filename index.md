@@ -42,17 +42,17 @@ description: "A clean computer engineering portfolio homepage introducing my bac
       <span class="metric-label">Journey Posts</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">3.83</span>
+      <span class="metric-value">{{ site.data.stats.cgpa }}</span>
       <span class="metric-label">CGPA</span>
     </article>
     <article class="metric-card">
-      <span class="metric-value">3rd</span>
+      <span class="metric-value">{{ site.data.stats.position }}</span>
       <span class="metric-label">Position In Section</span>
     </article>
   </div>
 </section>
 
-<section class="section-block">
+<section class="section-block" style="margin-top: 2.5rem;">
   <div class="section-heading">
     <p class="eyebrow">About Me</p>
     <h2>Building a long-term journey in computer engineering</h2>
