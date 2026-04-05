@@ -83,6 +83,13 @@ body > footer
   color: #f7f3ea
   cursor: pointer
   transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease
+  display: flex
+  align-items: center
+  justify-content: center
+  .theme-icon-sun
+    display: none
+  .theme-icon-moon
+    display: block
 
 .theme-toggle:hover
   background: rgba(255, 255, 255, 0.12)
@@ -1013,6 +1020,16 @@ body.light-theme .site-footer
 html[data-theme="light"] .site-footer a,
 body.light-theme .site-footer a
   color: #102033
+
+html[data-theme="light"] .theme-toggle,
+body.light-theme .theme-toggle
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: rgba(255, 255, 255, 0.74)
+  color: #102033
+  .theme-icon-sun
+    display: block
+  .theme-icon-moon
+    display: none
 
 html[data-theme="light"] .category-tag,
 body.light-theme .category-tag
