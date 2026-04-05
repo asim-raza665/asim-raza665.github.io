@@ -11,21 +11,18 @@ description: "A complete record of my computer engineering journey, organized as
 {% assign phase_three = sorted_posts | where: "phase", "Second Semester Momentum" %}
 
 <section class="blog-intro">
-  <p>This page collects my full portfolio articles. Each article opens separately so the complete post can be read in detail.</p>
+  <p>This page collects my full portfolio articles. Click on any tag below to read that specific article.</p>
   <div class="category-filters">
-    <button class="category-tag active" data-category="all">All Posts</button>
-    <button class="category-tag" data-category="semester-1">Semester 1</button>
-    <button class="category-tag" data-category="semester-2">Semester 2</button>
-    <button class="category-tag" data-category="admission">Admission</button>
-    <button class="category-tag" data-category="hostel">Hostel Life</button>
-    <button class="category-tag" data-category="labs">Labs & Projects</button>
-    <button class="category-tag" data-category="mentorship">Mentorship</button>
+    <button class="category-tag active" data-sequence="all">All</button>
+    {% for post in sorted_posts %}
+    <button class="category-tag" data-sequence="{{ post.sequence }}">Article {{ post.sequence }}</button>
+    {% endfor %}
   </div>
 </section>
 
 <div id="posts-container">
   {% for post in sorted_posts %}
-  <article class="journal-card" data-phase="{{ post.phase }}" data-categories="{{ post.categories | join: ' ' }} {{ post.journey_stage | downcase | replace: ' ', '-' }}" data-phase-group="{% if post.phase == 'Getting In & Starting Out' %}1{% elsif post.phase == 'First Semester Growth' %}2{% elsif post.phase == 'Second Semester Momentum' %}3{% endif %}">
+  <article class="journal-card" data-sequence="{{ post.sequence }}">
     {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">{% endif %}
     <span class="journal-index">Article {{ post.sequence }}</span>
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
@@ -46,42 +43,26 @@ description: "A complete record of my computer engineering journey, organized as
 
     filterButtons.forEach(button => {
       button.addEventListener('click', function() {
-        const category = this.getAttribute('data-category');
+        const sequence = this.getAttribute('data-sequence');
 
         filterButtons.forEach(btn => btn.classList.remove('active'));
         this.classList.add('active');
 
         posts.forEach(post => {
-          const phaseGroup = post.getAttribute('data-phase-group');
-          const journeyStage = post.getAttribute('data-journey-stage') || '';
-          const categories = post.getAttribute('data-categories') || '';
+          const postSequence = post.getAttribute('data-sequence');
 
-          let shouldShow = false;
-
-          if (category === 'all') {
-            shouldShow = true;
-          } else if (category === 'semester-1') {
-            shouldShow = phaseGroup === '1' || phaseGroup === '2';
-          } else if (category === 'semester-2') {
-            shouldShow = phaseGroup === '3';
-          } else if (category === 'admission') {
-            shouldShow = categories.includes('admission') || categories.includes('scholarship') || categories.includes('first-departure');
-          } else if (category === 'hostel') {
-            shouldShow = categories.includes('hostel') || categories.includes('adjustment');
-          } else if (category === 'labs') {
-            shouldShow = categories.includes('lab') || categories.includes('database') || categories.includes('success');
-          } else if (category === 'mentorship') {
-            shouldShow = categories.includes('mentorship') || categories.includes('leadership');
-          }
-
-          if (shouldShow) {
+          if (sequence === 'all' || postSequence === sequence) {
             post.style.display = '';
-            post.style.opacity = '1';
-            post.style.transform = 'translateY(0)';
+            setTimeout(() => {
+              post.style.opacity = '1';
+              post.style.transform = 'translateY(0)';
+            }, 50);
           } else {
             post.style.opacity = '0';
             post.style.transform = 'translateY(20px)';
-            setTimeout(() => { post.style.display = 'none'; }, 300);
+            setTimeout(() => {
+              post.style.display = 'none';
+            }, 300);
           }
         });
       });

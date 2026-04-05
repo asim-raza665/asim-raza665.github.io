@@ -350,10 +350,17 @@ p
 
 .category-filters
   display: flex
-  flex-wrap: wrap
-  gap: 0.65rem
+  flex-wrap: nowrap
+  gap: 0.5rem
   margin-top: 1.25rem
-  justify-content: center
+  overflow-x: auto
+  padding-bottom: 0.75rem
+  -webkit-overflow-scrolling: touch
+  &::-webkit-scrollbar
+    height: 4px
+  &::-webkit-scrollbar-thumb
+    background: rgba(15, 123, 131, 0.3)
+    border-radius: 999px
 
 .category-tag
   padding: 0.55rem 1.1rem
@@ -1045,12 +1052,10 @@ body.light-theme .eyebrow
   #posts-container
     grid-template-columns: 1fr
 
-  .category-filters
-    gap: 0.5rem
-
   .category-tag
-    padding: 0.45rem 0.9rem
+    padding: 0.45rem 0.85rem
     font-size: 0.8rem
+    white-space: nowrap
 
   .site-header
     justify-content: center
