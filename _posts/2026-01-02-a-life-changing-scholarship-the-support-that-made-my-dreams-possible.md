@@ -7,6 +7,10 @@ journey_stage: "Scholarship Support"
 read_time: "6 min"
 summary: "A story of unexpected support, generous mentors, and the scholarship that made my higher education possible."
 image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&h=400&fit=crop"
+tags:
+  - Scholarship
+  - Financial Aid
+  - Support
 ---
 
 Every student has a story behind their academic journey, but some stories are shaped not only by hard work, but also by unexpected kindness and support from others. My journey toward higher education is one of those stories, a journey where a simple, random meeting changed the direction of my life and made my dreams achievable.

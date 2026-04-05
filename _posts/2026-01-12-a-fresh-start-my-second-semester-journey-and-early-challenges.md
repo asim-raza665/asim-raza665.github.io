@@ -7,6 +7,10 @@ journey_stage: "Second Semester Start"
 read_time: "5 min"
 summary: "My second semester began with preparation, confidence, a scholarship interview, and the lesson that good preparation can reduce setbacks."
 image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop"
+tags:
+  - Preparation
+  - Growth
+  - Scholarship
 ---
 
 After successfully completing my first semester at university, I was given a short but valuable break of two weeks. For many students, such vacations are a time to relax and disconnect from studies. However, for me, this break became an opportunity to prepare myself for the challenges ahead. I had already realized during my first semester that university life is very different from college life. The concepts are deeper, the pace is faster, and the expectations are much higher. Keeping this in mind, I decided to use my vacation wisely instead of spending it casually.

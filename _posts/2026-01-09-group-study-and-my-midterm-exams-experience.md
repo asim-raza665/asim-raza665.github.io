@@ -7,6 +7,10 @@ journey_stage: "Midterm Preparation"
 read_time: "4 min"
 summary: "How group study, shared understanding, and focused preparation turned moderate quiz scores into strong midterm results."
 image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=400&fit=crop"
+tags:
+  - Group Study
+  - Exams
+  - Teamwork
 ---
 
 After settling into my daily routine and becoming more familiar with university life, the next significant phase of my journey was preparing for quizzes and midterm exams. Initially, the concept of group study was completely new to me. During my FSc studies, I was used to studying alone, relying mostly on personal notes and self-practice. However, at UET Faisalabad, I quickly realized that working together with peers could make a huge difference. Learning in a collaborative environment not only helped me understand difficult concepts more effectively but also made the study process less stressful.

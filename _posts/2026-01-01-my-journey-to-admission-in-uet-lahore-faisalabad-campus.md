@@ -7,6 +7,10 @@ journey_stage: "Admission Journey"
 read_time: "4 min"
 summary: "How I balanced board exams and entry tests to secure admission to UET Lahore, Faisalabad Campus, in Computer Engineering."
 image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=400&fit=crop"
+tags:
+  - Admission
+  - Entry Test
+  - Preparation
 ---
 
 ## Balancing Board Exams and Entry Test Preparation

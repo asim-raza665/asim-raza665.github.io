@@ -6,23 +6,28 @@ description: "A complete record of my computer engineering journey, organized as
 ---
 
 {% assign sorted_posts = site.posts | sort: "sequence" %}
-{% assign phase_one = sorted_posts | where: "phase", "Getting In & Starting Out" %}
-{% assign phase_two = sorted_posts | where: "phase", "First Semester Growth" %}
-{% assign phase_three = sorted_posts | where: "phase", "Second Semester Momentum" %}
 
 <section class="blog-intro">
-  <p>This page collects my full portfolio articles. Click on any tag below to read that specific article.</p>
-  <div class="category-filters">
-    <button class="category-tag active" data-sequence="all">All</button>
+  <p>This page collects my full portfolio articles. Click on any tag below to filter posts by topic.</p>
+  <div class="category-filters" id="tag-filters">
+    <button class="category-tag active" data-tag="all">All</button>
+    {% assign all_tags = "" %}
     {% for post in sorted_posts %}
-    <button class="category-tag" data-sequence="{{ post.sequence }}">Article {{ post.sequence }}</button>
+      {% for tag in post.tags %}
+        {% unless all_tags contains tag %}
+          {% assign all_tags = all_tags | append: "," | append: tag %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% for tag in all_tags split: "," offset: 1 %}
+      <button class="category-tag" data-tag="{{ tag | strip }}">{{ tag | strip }}</button>
     {% endfor %}
   </div>
 </section>
 
 <div id="posts-container">
   {% for post in sorted_posts %}
-  <article class="journal-card" data-sequence="{{ post.sequence }}">
+  <article class="journal-card" data-tags="{{ post.tags | join: ',' | downcase }}">
     {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">{% endif %}
     <span class="journal-index">Article {{ post.sequence }}</span>
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
@@ -32,26 +37,31 @@ description: "A complete record of my computer engineering journey, organized as
       <span>{{ post.read_time }}</span>
       <span class="semester-tag">{% if post.phase contains 'First Semester' %}Semester 1{% elsif post.phase contains 'Second Semester' %}Semester 2{% else %}Pre-Semester{% endif %}</span>
     </div>
+    <div class="post-tags">
+      {% for tag in post.tags %}
+      <span class="post-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
   </article>
   {% endfor %}
 </div>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const filterButtons = document.querySelectorAll('.category-tag');
+    const filterButtons = document.querySelectorAll('#tag-filters .category-tag');
     const posts = document.querySelectorAll('#posts-container .journal-card');
 
     filterButtons.forEach(button => {
       button.addEventListener('click', function() {
-        const sequence = this.getAttribute('data-sequence');
+        const selectedTag = this.getAttribute('data-tag');
 
         filterButtons.forEach(btn => btn.classList.remove('active'));
         this.classList.add('active');
 
         posts.forEach(post => {
-          const postSequence = post.getAttribute('data-sequence');
+          const postTags = post.getAttribute('data-tags') || '';
 
-          if (sequence === 'all' || postSequence === sequence) {
+          if (selectedTag === 'all' || postTags.includes(selectedTag.toLowerCase())) {
             post.style.display = '';
             setTimeout(() => {
               post.style.opacity = '1';
