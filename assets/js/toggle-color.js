@@ -12,7 +12,7 @@
     }
     var toggleButton = document.querySelector("[data-theme-toggle]");
     if (toggleButton) {
-      toggleButton.textContent = isLight ? "Dark" : "Light";
+      // Don't change button content - use CSS to show/hide icons
     }
   }
 
