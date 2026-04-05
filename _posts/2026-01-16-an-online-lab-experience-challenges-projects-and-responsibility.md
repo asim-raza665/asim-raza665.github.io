@@ -8,9 +8,9 @@ read_time: "6 min"
 summary: "An online database lab became a turning point where preparation, project planning, and helping classmates all came together."
 image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop"
 tags:
-  - Leadership
-  - Responsibility
-  - Projects
+  - Online Classes
+  - Database
+  - Project
 ---
 
 As my second semester continued, one of the most interesting and slightly challenging experiences came during an online database lab session. This lab was different from the previous ones because it focused more on preparation, understanding, and evaluation rather than just performing tasks step by step. It also introduced us to important academic responsibilities and teamwork beyond the classroom.

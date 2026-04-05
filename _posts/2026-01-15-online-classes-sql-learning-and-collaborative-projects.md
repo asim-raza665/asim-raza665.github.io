@@ -8,9 +8,9 @@ read_time: "4 min"
 summary: "Online classes pushed me to strengthen SQL, improve project work, and stay disciplined through collaboration and self-management."
 image: "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=800&h=400&fit=crop"
 tags:
-  - SQL
-  - Online Learning
-  - Projects
+  - Online Classes
+  - Database
+  - Project
 ---
 
 During the end of Ramadan, the semester took an unexpected turn due to global events that affected life in our country. The conflict between America, Israel, and Iran caused a sharp rise in petrol prices, which ultimately led to the closure of all universities, colleges, and schools across Pakistan. As a result, our classes shifted entirely to online mode, introducing a new set of challenges for both learning and staying disciplined while at home. Adapting to this sudden change required flexibility, self-motivation, and careful planning. Despite these challenges, I made a conscious effort to make the most of the situation, focusing on practical learning during online sessions and labs to ensure that my academic progress was not affected.

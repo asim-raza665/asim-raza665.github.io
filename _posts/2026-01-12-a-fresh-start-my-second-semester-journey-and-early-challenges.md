@@ -8,8 +8,7 @@ read_time: "5 min"
 summary: "My second semester began with preparation, confidence, a scholarship interview, and the lesson that good preparation can reduce setbacks."
 image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop"
 tags:
-  - Preparation
-  - Growth
+  - Second Semester
   - Scholarship
 ---
 

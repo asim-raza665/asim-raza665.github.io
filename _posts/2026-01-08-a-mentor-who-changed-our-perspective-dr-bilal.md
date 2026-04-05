@@ -8,9 +8,8 @@ read_time: "4 min"
 summary: "How Dr. Bilal helped us move beyond labels and focus on the technical skills that truly shape a future in computing."
 image: "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=400&fit=crop"
 tags:
-  - Mentorship
-  - Mindset
-  - Growth
+  - Classroom
+  - Programming
 ---
 
 During the early weeks of my university life, one of the most common concerns among students in our class was about our degree program. We were enrolled in BSc Computer Engineering under SEC instead of PEC, and this created a lot of confusion and uncertainty. Many students, including myself, started to question whether we were in the right field. There were discussions in classrooms, hostels, and even during breaks about future job opportunities, the value of our degree, and whether not being registered under PEC would limit our careers. This situation created stress and doubt in our minds, especially because we had just started our university journey and were already worried about our future.

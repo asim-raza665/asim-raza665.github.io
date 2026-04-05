@@ -10,7 +10,7 @@ image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&h=400&fi
 tags:
   - Lab
   - Database
-  - MySQL
+  - Second Semester
 ---
 
 Starting a new semester always brings new experiences, and one of the most important parts of my second semester was the beginning of practical lab work. Although officially it was the second lab session, for me it was actually my first lab because I had missed the initial one due to my visit to the main campus for the HEC Need-Based Scholarship interview. Therefore, I entered this lab with a mix of curiosity, excitement, and a slight concern about what I might have missed.

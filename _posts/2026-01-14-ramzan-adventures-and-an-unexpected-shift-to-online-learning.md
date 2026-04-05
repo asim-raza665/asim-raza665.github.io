@@ -8,9 +8,9 @@ read_time: "5 min"
 summary: "Ramzan in the hostel taught me responsibility, teamwork, and adaptability just as university life unexpectedly shifted online."
 image: "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&h=400&fit=crop"
 tags:
-  - Ramzan
   - Hostel
-  - Adaptability
+  - Online Classes
+  - Second Semester
 ---
 
 The beginning of Ramzan during my second semester brought a completely new and memorable experience into my university life. It was not just a change in routine, but a unique phase filled with learning, independence, and unexpected challenges. As hostel students, this was our first time observing Ramzan away from home, which made it both exciting and slightly difficult.

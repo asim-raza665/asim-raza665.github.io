@@ -9,8 +9,7 @@ summary: "How I balanced board exams and entry tests to secure admission to UET 
 image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=400&fit=crop"
 tags:
   - Admission
-  - Entry Test
-  - Preparation
+  - University Life
 ---
 
 ## Balancing Board Exams and Entry Test Preparation

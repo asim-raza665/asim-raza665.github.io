@@ -10,7 +10,6 @@ image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400
 tags:
   - Lab
   - Programming
-  - Skills
 ---
 
 After settling into the rhythm of my first classes, the next big step in my academic journey was experiencing my first real labs at UET Faisalabad Campus. This phase was both exciting and challenging because it required me to apply the theoretical knowledge I was learning in subjects like Programming Fundamentals and Engineering Science into practical tasks. It was a completely new experience for me, as I was not used to learning in such an interactive and hands-on way.

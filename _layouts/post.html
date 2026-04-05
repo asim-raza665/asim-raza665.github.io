@@ -13,6 +13,13 @@ layout: default
       {% if page.read_time %}<span>{{ page.read_time }} read</span>{% endif %}
       {% if page.sequence %}<span>Article {{ page.sequence }}</span>{% endif %}
     </div>
+    {% if page.tags %}
+    <div class="post-tags" aria-label="Article tags">
+      {% for tag in page.tags %}
+      <a class="post-tag" href="{{ "/blog/" | relative_url }}?tag={{ tag | slugify }}">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
   </header>
 
   <div class="prose">

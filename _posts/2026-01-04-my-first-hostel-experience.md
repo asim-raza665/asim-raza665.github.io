@@ -9,8 +9,7 @@ summary: "How my first days in the hostel began with discomfort and uncertainty 
 image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=400&fit=crop"
 tags:
   - Hostel
-  - Adjustment
-  - Friendship
+  - University Life
 ---
 
 After securing my admission in UET Lahore (Faisalabad Campus), a completely new chapter of my life began, my very first experience of hostel life. Before joining university, I had never stayed in a hostel or lived away from my home for such a long period. Because of this, everything about this transition felt new, unfamiliar, and a bit overwhelming for me. I was both excited and nervous at the same time, as I did not know what to expect from this new lifestyle.
