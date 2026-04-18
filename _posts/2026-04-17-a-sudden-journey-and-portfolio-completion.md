@@ -6,7 +6,7 @@ phase: "Second Semester Momentum"
 journey_stage: "Travel, Portfolio, and Midterms"
 read_time: "5 min"
 summary: "A hectic return to campus turned into a lesson in quick decision-making, academic responsibility, and completing my GitHub portfolio under pressure."
-image: "/assets/images/posts/article-17-sudden-journey-github-portfolio/cover.svg"
+image: "[/assets/images/posts/article-17-sudden-journey-github-portfolio/cover.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG5A11g4cjAE0RnsSvpfNMONkkiw4gKPBSw&s)"
 tags:
   - Travel
   - GitHub Portfolio
