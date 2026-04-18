@@ -14,7 +14,7 @@ tags:
   - Time Management
 ---
 
-## Uncertainty, Fast Decisions, and Catching the Train
+### Uncertainty, Fast Decisions, and Catching the Train
 
 As my second semester progressed, one of the most memorable and slightly hectic experiences occurred around the end of our semester break. This period was filled with uncertainty, quick decision-making, travel challenges, and important academic responsibilities, especially related to my Database Systems Lab portfolio project.
 
@@ -38,7 +38,7 @@ Along with regular classes, an important task was assigned to us in our Database
 
 The main instructions included creating a well-organized website with four main sections: Home, About, Contact, and Blog. The home page was required to contain only static personal information, while all articles were to be placed in the blog section. Additionally, the blog needed to support a proper post system, allowing us to add new articles without changing the overall structure of the website. Another important requirement was the use of categories or tags so that related posts could be grouped and easily accessed.
 
-## Building the Portfolio Under Pressure
+##### Building the Portfolio Under Pressure
 
 Understanding the importance of this project, I started working on it seriously after returning to the university. However, due to limited time before midterms and the requirement to include multiple articles, the task was quite challenging. It required both technical implementation and content writing.
 
@@ -52,7 +52,7 @@ After completing the project, I shared my GitHub portfolio link with Dr. Bilal. 
 
 This positive response gave me confidence and a sense of achievement after the hard work I had put in.
 
-## Lessons in Time Management and Adaptability
+#### Lessons in Time Management and Adaptability
 
 Alongside this, we were also preparing for our midterm exams, which made this period even more intense and challenging. Managing travel, academic tasks, project work, and exam preparation all at once required discipline and time management.
 
