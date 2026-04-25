@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Midterm Exams – Preparation, Challenges, and Unforgettable Experiences"
+title: "Midterm Exams - Preparation, Challenges, and Unforgettable Experiences"
 sequence: 18
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Midterms, Challenges, and Growth"
 read_time: "6 min"
