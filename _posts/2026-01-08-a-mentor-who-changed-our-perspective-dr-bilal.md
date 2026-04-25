@@ -12,7 +12,11 @@ tags:
   - Programming
 ---
 
+#### Early Confusion About Degree and Future Concerns
+
 During the early weeks of my university life, one of the most common concerns among students in our class was about our degree program. We were enrolled in BSc Computer Engineering under SEC instead of PEC, and this created a lot of confusion and uncertainty. Many students, including myself, started to question whether we were in the right field. There were discussions in classrooms, hostels, and even during breaks about future job opportunities, the value of our degree, and whether not being registered under PEC would limit our careers. This situation created stress and doubt in our minds, especially because we had just started our university journey and were already worried about our future.
+
+#### Guidance and Mindset Shift by Dr. Bilal (PF Teacher) 
 
 At that time, our Programming Fundamentals teacher, Dr. Bilal, played a very important role in guiding us. He was not only a knowledgeable and intelligent teacher but also someone who understood the mindset of students. One day, he addressed this issue in class when he realized that many students were confused and worried. Instead of ignoring our concerns, he openly discussed them and gave us a very clear and practical perspective.
 
@@ -21,6 +25,8 @@ Dr. Bilal explained that in fields like computer engineering and software-relate
 “Your skills will define your future, not just your degree title.”
 
 He encouraged us to focus on learning programming, improving our problem-solving abilities, and building practical projects. He also shared examples of many successful people in the tech industry who achieved great success without relying on formal titles. This gave us a new direction and helped us shift our mindset from worrying about labels to focusing on personal growth.
+
+#### Personal Impact and Long-Term Learning
 
 For me personally, this discussion was very motivating. At a time when I was already struggling with Programming Fundamentals due to my non-computer background, his guidance gave me confidence. I realized that instead of being stressed about things beyond my control, I should invest my energy in improving my skills. This advice helped me stay focused and work harder in my studies.
 
