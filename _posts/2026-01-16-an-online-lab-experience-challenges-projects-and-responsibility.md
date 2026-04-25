@@ -13,6 +13,8 @@ tags:
   - Project
 ---
 
+#### Online Lab Evaluation and SQL Preparation Challenges
+
 As my second semester continued, one of the most interesting and slightly challenging experiences came during an online database lab session. This lab was different from the previous ones because it focused more on preparation, understanding, and evaluation rather than just performing tasks step by step. It also introduced us to important academic responsibilities and teamwork beyond the classroom.
 
 In the previous lab, our teacher had given us a detailed task to prepare different types of SQL queries. These included basic queries, aggregate queries, join queries for table relationships, group queries, and queries based on business logic. The purpose of this preparation was not only to test our knowledge but also to strengthen our understanding of how databases work in real-world scenarios. The teacher clearly instructed us that in the next lab, which would be conducted online, he would ask questions from these topics, and students would be evaluated based on their responses.
@@ -21,7 +23,9 @@ Keeping this in mind, I took the task seriously and prepared all the required qu
 
 When the next lab session was conducted online, the teacher started asking questions from the assigned topics. However, unfortunately, many students were not fully prepared and struggled to answer properly. Some students had only a basic understanding, while others faced difficulty explaining the logic behind their queries. As a result, the overall response was not as expected.
 
-Seeing this situation, the teacher decided not to continue with the planned evaluation in that lab. Instead, he announced that he would conduct a proper quiz on these topics later to fairly assess everyone’s understanding. This decision made sense because it would give students another chance to prepare better and perform well. Therefore, that particular lab session was effectively canceled in terms of evaluation.
+Seeing this situation, the teacher decided not to continue with the planned evaluation in that lab. Instead, he announced that he would conduct a proper quiz on these topics later to fairly assess everyone’s understanding. This decision made sense because it would give students another chance to prepare better and perform well.
+
+#### DBS Lab Project and DBS Theory Project
 
 Despite this, the lab session remained productive because we shifted our focus toward discussing our major course projects. These projects were an essential part of our Database Systems lab and were divided into two main components: the DBS Lab Project and the DBS Theory Project.
 
@@ -29,7 +33,7 @@ The DBS Lab Project was related to GitHub. In this project, we were required to 
 
 The second project, the DBS Theory Project, was more technical and forward-looking. It was related to Machine Learning and Deep Learning. Since we had already studied the basics of machine learning in our first semester, this project aimed to extend our knowledge by adding more features and introducing concepts of deep learning. We were also required to include visual elements like images to make our work more comprehensive and understandable. This project helped us connect database knowledge with modern technologies like AI and data-driven systems.
 
-To support us in completing the portfolio project, our teacher gave us one week to collect and finalize our articles. These articles were supposed to be based on real scenarios that we had experienced, from our admission journey to our current university life. This requirement made the project more personal and meaningful.
+#### Guidance, Responsibility, and Leadership Growth
 
 During this process, I faced some confusion regarding how to properly structure and collect the content for these articles. To clarify my doubts, I reached out to our respected teacher, Dr. Bilal. He responded very kindly and explained everything in detail through a voice message of a few minutes. His explanation was clear, practical, and very helpful, which made all my confusion disappear.
 
