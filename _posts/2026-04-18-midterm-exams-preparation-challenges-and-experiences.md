@@ -4,7 +4,7 @@ title: "Midterm Exams - Preparation, Challenges, and Unforgettable Experiences"
 sequence: 18
 folder: "3rd Semester"
 phase: "Second Semester Momentum"
-journey_stage: "Midterms, Challenges, and Growth"
+journey_stage: "Third Semester Start"
 read_time: "6 min"
 summary: "A complete midterm journey filled with preparation, teamwork, unexpected challenges, and valuable lessons in time management and pressure handling."
 image: "https://thumbs.dreamstime.com/b/focused-caucasian-man-college-student-glasses-studying-books-laptop-focused-caucasian-man-college-student-glasses-197172808.jpg"
