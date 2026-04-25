@@ -4,7 +4,6 @@ title: "About"
 permalink: /about/
 description: "A concise portrait of who I am, what shaped my journey, and the values guiding my growth in computer engineering."
 ---
-
 <section class="section-block">
   <div class="section-heading">
     <p class="eyebrow">Who I Am</p>
@@ -31,31 +30,6 @@ description: "A concise portrait of who I am, what shaped my journey, and the va
       <h3>What I Am Learning</h3>
       <p>My growth at university has included programming in Python, database systems, SQL, machine learning projects, and the practical discipline that comes from labs, assignments, and continuous assessment.</p>
     </div>
-  </div>
-</section>
-
-<section class="section-block">
-  <div class="section-heading">
-    <p class="eyebrow">What Guides Me</p>
-    <h2>Values that shape my work</h2>
-  </div>
-  <div class="timeline-grid">
-    <article class="timeline-card">
-      <h3>Gratitude</h3>
-      <p>I never forget the people whose trust and generosity supported my education. Their belief in me motivates me to work with sincerity.</p>
-    </article>
-    <article class="timeline-card">
-      <h3>Consistency</h3>
-      <p>I believe strong results come from daily effort, not shortcuts. My academic progress has always been tied to regular practice and discipline.</p>
-    </article>
-    <article class="timeline-card">
-      <h3>Skill-Focused Growth</h3>
-      <p>One of the most valuable lessons I learned at university is that skills define long-term success, especially in computing and modern engineering fields.</p>
-    </article>
-    <article class="timeline-card">
-      <h3>Helping Others</h3>
-      <p>When I was asked to guide classmates on the portfolio project, I realized that knowledge becomes stronger when it is shared with others.</p>
-    </article>
   </div>
 </section>
 
