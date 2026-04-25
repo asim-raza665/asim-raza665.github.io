@@ -7,7 +7,7 @@ phase: "Second Semester Momentum"
 journey_stage: "Travel, Portfolio, and Midterms"
 read_time: "5 min"
 summary: "A hectic return to campus turned into a lesson in quick decision-making, academic responsibility, and completing my GitHub portfolio under pressure."
-image: "/assets/images/posts/article-17-sudden-journey-github-portfolio/cover.svg"
+image: "https://thumbs.dreamstime.com/b/young-traveller-asian-man-backpack-running-train-station-stressed-student-platform-taiwanese-guy-chasing-departing-tourist-293799277.jpg"
 tags:
   - Travel
   - GitHub Portfolio
@@ -15,7 +15,7 @@ tags:
   - Time Management
 ---
 
-## Uncertainty, Fast Decisions, and Catching the Train
+### Uncertainty, Fast Decisions, and Catching the Train
 
 As my second semester progressed, one of the most memorable and slightly hectic experiences occurred around the end of our semester break. This period was filled with uncertainty, quick decision-making, travel challenges, and important academic responsibilities, especially related to my Database Systems Lab portfolio project.
 
@@ -29,7 +29,7 @@ Without wasting time, I quickly got ready. I took a bath, changed my clothes, an
 
 Fortunately, luck was on my side. We reached the railway station just a few minutes before the train's arrival, and unexpectedly, the train was slightly late. I managed to buy a ticket costing 910 rupees and boarded the train just in time. Some of my friends also joined me during the journey, which made the experience more enjoyable.
 
-## Reaching Campus and Returning to Academic Routine
+### Reaching Campus and Returning to Academic Routine
 
 We got off at Chak Jhumra before Faisalabad, from where our university was still around 10 to 15 kilometers away. From there, we hired a rickshaw along with other passengers. It was quite an adventurous ride, as the driver accommodated around seven to eight people in a single rickshaw. We shared the fare of 600 rupees among four friends and finally reached the university in the evening.
 
@@ -39,7 +39,7 @@ Along with regular classes, an important task was assigned to us in our Database
 
 The main instructions included creating a well-organized website with four main sections: Home, About, Contact, and Blog. The home page was required to contain only static personal information, while all articles were to be placed in the blog section. Additionally, the blog needed to support a proper post system, allowing us to add new articles without changing the overall structure of the website. Another important requirement was the use of categories or tags so that related posts could be grouped and easily accessed.
 
-## Building the Portfolio Under Pressure
+### Building the Portfolio Under Pressure and Key Learnings
 
 Understanding the importance of this project, I started working on it seriously after returning to the university. However, due to limited time before midterms and the requirement to include multiple articles, the task was quite challenging. It required both technical implementation and content writing.
 
@@ -52,8 +52,6 @@ After completing the project, I shared my GitHub portfolio link with Dr. Bilal. 
 > "Design is good. And apparently it fulfills all requirements."
 
 This positive response gave me confidence and a sense of achievement after the hard work I had put in.
-
-## Lessons in Time Management and Adaptability
 
 Alongside this, we were also preparing for our midterm exams, which made this period even more intense and challenging. Managing travel, academic tasks, project work, and exam preparation all at once required discipline and time management.
 
