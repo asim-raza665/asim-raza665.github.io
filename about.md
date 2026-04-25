@@ -30,6 +30,10 @@ description: "A concise portrait of who I am, what shaped my journey, and the va
       <h3>What I Am Learning</h3>
       <p>My growth at university has included programming in Python, database systems, SQL, machine learning projects, and the practical discipline that comes from labs, assignments, and continuous assessment.</p>
     </div>
+    <div class="about-card">
+      <h3>My Goal</h3>
+      <p>I aim to become a skilled software or systems engineer who contributes to real-world solutions. My focus is on building expertise that bridges academic knowledge with practical, industry-ready skills.</p>
+    </div>
   </div>
 </section>
 
