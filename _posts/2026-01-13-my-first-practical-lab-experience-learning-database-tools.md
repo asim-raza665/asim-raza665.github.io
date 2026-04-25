@@ -2,6 +2,7 @@
 layout: post
 title: "My First Practical Lab Experience – Learning Database Tools"
 sequence: 13
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Database Lab Foundations"
 read_time: "3 min"

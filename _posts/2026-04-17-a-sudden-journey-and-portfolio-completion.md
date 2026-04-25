@@ -2,6 +2,7 @@
 layout: post
 title: "A Sudden Journey, Academic Responsibilities, and Completing My GitHub Portfolio"
 sequence: 17
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Travel, Portfolio, and Midterms"
 read_time: "5 min"

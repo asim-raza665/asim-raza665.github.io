@@ -2,6 +2,7 @@
 layout: post
 title: "Adjusting to University Life and Building My Routine"
 sequence: 6
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "Building Routine"
 read_time: "5 min"

@@ -2,6 +2,7 @@
 layout: post
 title: "My First Lab Experience and Learning New Skills"
 sequence: 7
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "First Lab Experience"
 read_time: "4 min"

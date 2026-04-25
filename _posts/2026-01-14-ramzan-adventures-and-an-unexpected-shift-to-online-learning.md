@@ -2,6 +2,7 @@
 layout: post
 title: "Ramzan Adventures and an Unexpected Shift to Online Learning"
 sequence: 14
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Ramzan and Adaptability"
 read_time: "5 min"

@@ -2,6 +2,7 @@
 layout: post
 title: "A Life-Changing Scholarship – The Support That Made My Dreams Possible"
 sequence: 2
+folder: "Admission Journey"
 phase: "Getting In & Starting Out"
 journey_stage: "Scholarship Support"
 read_time: "6 min"

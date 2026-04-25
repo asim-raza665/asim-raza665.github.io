@@ -2,6 +2,7 @@
 layout: post
 title: "Final Exams and Academic Challenges"
 sequence: 10
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "Final Exam Pressure"
 read_time: "4 min"

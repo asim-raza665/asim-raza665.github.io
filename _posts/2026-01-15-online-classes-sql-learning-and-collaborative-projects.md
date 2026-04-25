@@ -2,6 +2,7 @@
 layout: post
 title: "Online Classes, SQL Learning, and Collaborative Projects"
 sequence: 15
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Online Learning Growth"
 read_time: "4 min"

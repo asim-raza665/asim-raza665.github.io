@@ -2,6 +2,7 @@
 layout: post
 title: "An Online Lab Experience – Challenges, Projects, and Responsibility"
 sequence: 16
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Leadership and Responsibility"
 read_time: "6 min"

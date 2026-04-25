@@ -2,6 +2,7 @@
 layout: post
 title: "My First Day and First Class at UET Faisalabad Campus"
 sequence: 5
+folder: "Admission Journey"
 phase: "Getting In & Starting Out"
 journey_stage: "First Day on Campus"
 read_time: "4 min"

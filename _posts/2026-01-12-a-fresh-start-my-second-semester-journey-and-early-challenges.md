@@ -2,6 +2,7 @@
 layout: post
 title: "A Fresh Start – My Second Semester Journey and Early Challenges"
 sequence: 12
+folder: "2nd Semester"
 phase: "Second Semester Momentum"
 journey_stage: "Second Semester Start"
 read_time: "5 min"

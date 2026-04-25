@@ -2,6 +2,7 @@
 layout: post
 title: "My First Journey to University"
 sequence: 3
+folder: "Admission Journey"
 phase: "Getting In & Starting Out"
 journey_stage: "First Departure"
 read_time: "4 min"

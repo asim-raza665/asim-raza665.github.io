@@ -2,6 +2,7 @@
 layout: post
 title: "My Journey to Admission in UET Lahore (Faisalabad Campus)"
 sequence: 1
+folder: "Admission Journey"
 phase: "Getting In & Starting Out"
 journey_stage: "Admission Journey"
 read_time: "4 min"

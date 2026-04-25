@@ -2,6 +2,7 @@
 layout: post
 title: "My First Hostel Experience"
 sequence: 4
+folder: "Admission Journey"
 phase: "Getting In & Starting Out"
 journey_stage: "Hostel Adjustment"
 read_time: "4 min"

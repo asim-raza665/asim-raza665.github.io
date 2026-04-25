@@ -354,6 +354,121 @@ p
   padding: 1.4rem
   margin-bottom: 2rem
 
+.blog-intro--compact
+  margin-bottom: 1.3rem
+
+.folder-browser
+  margin-bottom: 2rem
+
+.folder-grid
+  display: grid
+  grid-template-columns: repeat(3, 1fr)
+  gap: 1rem
+
+.folder-card
+  position: relative
+  width: 100%
+  padding: 1.45rem
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  border-radius: 22px
+  appearance: none
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(242, 249, 248, 0.96))
+  box-shadow: 0 18px 40px rgba(16, 32, 51, 0.1)
+  color: #102033
+  font: inherit
+  text-align: left
+  cursor: pointer
+  transition: transform 0.24s ease, box-shadow 0.24s ease, border-color 0.24s ease, background 0.24s ease
+
+.folder-card:hover
+  transform: translateY(-4px)
+  border-color: rgba(13, 81, 101, 0.34)
+  box-shadow: 0 24px 46px rgba(16, 32, 51, 0.14)
+
+.folder-card.is-active
+  border-color: rgba(13, 81, 101, 0.42)
+  background: linear-gradient(180deg, rgba(232, 247, 245, 0.98), rgba(255, 251, 244, 0.98))
+  box-shadow: 0 26px 50px rgba(13, 81, 101, 0.16)
+
+.folder-card__tab
+  display: inline-block
+  width: 4.6rem
+  height: 0.85rem
+  margin-bottom: 1rem
+  border-radius: 1rem 1rem 0.4rem 0.4rem
+  background: linear-gradient(135deg, rgba(15, 123, 131, 0.18), rgba(198, 107, 66, 0.16))
+
+.folder-card__label
+  display: block
+  margin-bottom: 0.45rem
+  color: #0d5165
+  font-size: 0.76rem
+  font-weight: 700
+  letter-spacing: 0.12em
+  text-transform: uppercase
+
+.folder-card strong
+  display: block
+  margin-bottom: 0.7rem
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif
+  font-size: 1.55rem
+  line-height: 1.08
+
+.folder-card p
+  margin: 0
+
+.folder-card__stats
+  display: flex
+  flex-wrap: wrap
+  gap: 0.55rem
+  margin-top: 1rem
+
+.folder-card__stats span,
+.folder-panel__summary span
+  display: inline-flex
+  align-items: center
+  padding: 0.34rem 0.78rem
+  border-radius: 999px
+  background: rgba(15, 123, 131, 0.12)
+  color: #0d5165
+  font-size: 0.84rem
+  font-weight: 700
+
+.folder-panels
+  margin-top: 0.5rem
+
+.blog-folder-panel
+  padding: 1.45rem
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  border-radius: 22px
+  background: rgba(255, 251, 244, 0.92)
+  box-shadow: 0 18px 40px rgba(16, 32, 51, 0.08)
+
+.folder-panel__hero
+  display: flex
+  justify-content: space-between
+  gap: 1rem
+  align-items: flex-start
+  margin-bottom: 1.25rem
+
+.folder-panel__description
+  max-width: 46rem
+  margin: 0.8rem 0 0
+
+.folder-panel__summary
+  display: flex
+  flex-wrap: wrap
+  gap: 0.55rem
+  justify-content: flex-end
+
+.folder-posts
+  display: grid
+  grid-template-columns: repeat(2, 1fr)
+  gap: 1rem
+
+.folder-posts .journal-card
+  transition: opacity 0.3s ease, transform 0.3s ease
+
 .category-filters
   display: flex
   flex-wrap: wrap
@@ -631,6 +746,7 @@ p
   .about-card,
   .contact-card,
   .journal-card,
+  .blog-folder-panel,
   .quote-panel,
   .cta-panel,
   .blog-intro
@@ -928,6 +1044,37 @@ p
 .site-footer
   background: rgba(5, 11, 18, 0.95)
 
+.folder-card
+  border: 1px solid rgba(162, 184, 205, 0.14)
+  background: linear-gradient(180deg, rgba(14, 29, 44, 0.96), rgba(8, 18, 28, 0.98))
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.28)
+  color: #f4f8fb
+
+.folder-card:hover
+  border-color: rgba(125, 166, 255, 0.34)
+  box-shadow: 0 26px 48px rgba(0, 0, 0, 0.34)
+
+.folder-card.is-active
+  border-color: rgba(82, 214, 196, 0.4)
+  background: linear-gradient(180deg, rgba(17, 39, 56, 0.98), rgba(9, 21, 32, 0.98))
+  box-shadow: 0 28px 54px rgba(0, 0, 0, 0.36)
+
+.folder-card__tab
+  background: linear-gradient(135deg, rgba(82, 214, 196, 0.28), rgba(125, 166, 255, 0.22))
+
+.folder-card__label
+  color: #7ddacb
+
+.folder-card__stats span,
+.folder-panel__summary span
+  background: rgba(82, 214, 196, 0.12)
+  color: #7ddacb
+
+.blog-folder-panel
+  border: 1px solid rgba(162, 184, 205, 0.12)
+  background: linear-gradient(180deg, rgba(11, 23, 35, 0.94), rgba(8, 17, 27, 0.96))
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.24)
+
 html[data-theme="light"] body,
 body.light-theme
   color: #102033
@@ -971,6 +1118,7 @@ html[data-theme="light"] .journal-card,
 html[data-theme="light"] .quote-panel,
 html[data-theme="light"] .cta-panel,
 html[data-theme="light"] .blog-intro,
+html[data-theme="light"] .blog-folder-panel,
 html[data-theme="light"] .post-navigation__link,
 body.light-theme .hero-copy,
 body.light-theme .feature-card,
@@ -982,6 +1130,7 @@ body.light-theme .journal-card,
 body.light-theme .quote-panel,
 body.light-theme .cta-panel,
 body.light-theme .blog-intro,
+body.light-theme .blog-folder-panel,
 body.light-theme .post-navigation__link
   border: 1px solid rgba(16, 32, 51, 0.12)
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 252, 252, 0.96))
@@ -1069,6 +1218,39 @@ html[data-theme="light"] .post-tag:hover,
 body.light-theme .post-tag:hover
   background: rgba(15, 123, 131, 0.16)
 
+html[data-theme="light"] .folder-card,
+body.light-theme .folder-card
+  border: 1px solid rgba(16, 32, 51, 0.12)
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(242, 249, 248, 0.96))
+  box-shadow: 0 18px 40px rgba(16, 32, 51, 0.1)
+  color: #102033
+
+html[data-theme="light"] .folder-card:hover,
+body.light-theme .folder-card:hover
+  border-color: rgba(13, 81, 101, 0.34)
+  box-shadow: 0 24px 46px rgba(16, 32, 51, 0.14)
+
+html[data-theme="light"] .folder-card.is-active,
+body.light-theme .folder-card.is-active
+  border-color: rgba(13, 81, 101, 0.42)
+  background: linear-gradient(180deg, rgba(232, 247, 245, 0.98), rgba(255, 251, 244, 0.98))
+  box-shadow: 0 26px 50px rgba(13, 81, 101, 0.16)
+
+html[data-theme="light"] .folder-card__tab,
+body.light-theme .folder-card__tab
+  background: linear-gradient(135deg, rgba(15, 123, 131, 0.18), rgba(198, 107, 66, 0.16))
+
+html[data-theme="light"] .folder-card__label,
+body.light-theme .folder-card__label
+  color: #0d5165
+
+html[data-theme="light"] .folder-card__stats span,
+html[data-theme="light"] .folder-panel__summary span,
+body.light-theme .folder-card__stats span,
+body.light-theme .folder-panel__summary span
+  background: rgba(15, 123, 131, 0.12)
+  color: #0d5165
+
 html[data-theme="light"] .semester-tag,
 body.light-theme .semester-tag
   background: rgba(198, 107, 66, 0.12)
@@ -1102,14 +1284,22 @@ body.light-theme .eyebrow
 
 @media (max-width: 960px)
   .about-home-layout,
+  .folder-grid,
   .feature-grid--portfolio,
   .feature-grid--summary,
   .service-grid,
   .metric-grid--portfolio,
   .metric-grid--simple,
   .project-grid,
-  #posts-container
+  #posts-container,
+  .folder-posts
     grid-template-columns: 1fr
+
+  .folder-panel__hero
+    flex-direction: column
+
+  .folder-panel__summary
+    justify-content: flex-start
 
   .category-tag
     min-height: 2.55rem

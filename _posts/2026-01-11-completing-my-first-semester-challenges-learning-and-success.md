@@ -2,6 +2,7 @@
 layout: post
 title: "Completing My First Semester – Challenges, Learning, and Success"
 sequence: 11
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "First Semester Success"
 read_time: "6 min"

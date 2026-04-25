@@ -2,6 +2,7 @@
 layout: post
 title: "A Mentor Who Changed Our Perspective – Dr. Bilal"
 sequence: 8
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "Mentorship and Mindset"
 read_time: "4 min"

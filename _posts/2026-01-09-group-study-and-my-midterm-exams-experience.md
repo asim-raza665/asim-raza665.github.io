@@ -2,6 +2,7 @@
 layout: post
 title: "Group Study and My Midterm Exams Experience"
 sequence: 9
+folder: "1st Semester"
 phase: "First Semester Growth"
 journey_stage: "Midterm Preparation"
 read_time: "4 min"
