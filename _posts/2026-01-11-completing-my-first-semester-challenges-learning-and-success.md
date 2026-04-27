@@ -13,13 +13,13 @@ tags:
   - Programming
 ---
 
-#### Preparing for Final Exams and Building Study Discipline
+### Preparing for Final Exams and Building Study Discipline
 
 The end of my first semester at UET Faisalabad Campus was both challenging and rewarding. After completing the midterm exams, the next major task was preparing for the final exams, which required comprehensive revision of all the concepts covered throughout the semester, including topics taught before the midterms. For me, this period was particularly demanding because it involved balancing multiple responsibilities, maintaining a consistent study routine, managing hostel life, and, whenever possible, spending quality time with my family. It became clear that effective time management and self-discipline were essential if I wanted to cover all subjects thoroughly, from Programming Fundamentals and Calculus to Physics, ICT, and Discrete Mathematics.
 
 During this intense period, I developed several new study habits that proved crucial for my academic success. I began making detailed notes and summaries for each subject, which allowed me to revise efficiently before exams. Regular practice of problems, especially in Programming Fundamentals and Calculus, helped reinforce my understanding of difficult concepts.
 
-#### Group Study and the Machine Learning Final Project Experience
+### Group Study and the Machine Learning Final Project Experience
 
 Group study sessions with my friends became a key part of my preparation. My closest friends, particularly Tahir Yaqoob, along with other classmates, played an important role in keeping me motivated and focused. During these sessions, we discussed difficult topics, solved problems collaboratively, and shared different approaches to learning. This experience taught me the value of teamwork and how peer support can enhance understanding and retention of knowledge.
 
@@ -29,7 +29,7 @@ This project focused on developing a supervised machine learning model for predi
 
 We then trained multiple machine learning models, including Decision Tree, Logistic Regression, and Random Forest classifiers. After evaluating their performance using accuracy scores, classification reports, and confusion matrices, we selected Random Forest as the best-performing model. Additionally, we implemented probability-based predictions to estimate the likelihood of cardiovascular disease, making the model more practical and informative. This project not only strengthened my programming skills but also introduced me to real-world problem solving using data and machine learning concepts.
 
-#### Results, CGPA Achievement, and Semester Reflection
+### Results, CGPA Achievement, and Semester Reflection
 
 The moment we saw our project working was immensely satisfying. Our presentation went well, and we scored 9 out of 12 marks, which boosted my confidence and reassured me that my programming skills were gradually improving. This experience marked a major milestone in my academic journey because, just a few months earlier, coding had been entirely new to me.
 
