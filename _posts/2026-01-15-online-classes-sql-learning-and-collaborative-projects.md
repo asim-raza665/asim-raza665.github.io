@@ -14,15 +14,15 @@ tags:
   - Project
 ---
 
-#### Online Learning Shift and Academic Adaptation During Semester Closure
+### Online Learning Shift and Academic Adaptation During Semester Closure
 
 During the end of Ramadan, the semester took an unexpected turn due to global events that affected life in our country. The conflict between America, Israel, and Iran caused a sharp rise in petrol prices, which ultimately led to the closure of all universities, colleges, and schools across Pakistan. As a result, our classes shifted entirely to online mode, introducing a new set of challenges for both learning and staying disciplined while at home. Adapting to this sudden change required flexibility, self-motivation, and careful planning. Despite these challenges, I made a conscious effort to make the most of the situation, focusing on practical learning during online sessions and labs to ensure that my academic progress was not affected.
 
-#### SQL Learning with Project's Guidance and Project Enhancement
+### SQL Learning with Project's Guidance and Project Enhancement
 
 During this period, I gained my first real exposure to SQL commands. Under the guidance of Dr. Bilal, I learned to write basic queries, create tables, and manage data efficiently. This hands-on experience helped me understand how databases function and how data can be organized and manipulated effectively. In addition to SQL, our lab sessions involved revisiting our previous projects from the first semester and refining them further. The “before mid” project, which initially involved creating a simple portal uploaded on GitHub, served as the foundation for our final project. We enhanced this project significantly by incorporating Machine Learning and Deep Learning components, adding advanced features, and improving its visual interface. The result was a professional and more advanced version compared to our earlier work. This process taught me the importance of iterative development, attention to detail, and striving for continuous improvement in technical projects.
 
-#### Collaboration, Discipline, and Remote Project Work
+### Collaboration, Discipline, and Remote Project Work
 
 Even with the online setup, collaboration with peers remained crucial for success. Whenever I faced difficulties understanding a concept, I would reach out to my friend Tahir Yaqoob through WhatsApp calls or video sessions. These discussions were essential for clarifying doubts, exchanging ideas, and making consistent progress. We would troubleshoot programming issues together, discuss SQL queries, and brainstorm ways to improve our project. This period reinforced the value of peer support and communication, showing that learning can continue effectively even in remote and challenging circumstances.
 
