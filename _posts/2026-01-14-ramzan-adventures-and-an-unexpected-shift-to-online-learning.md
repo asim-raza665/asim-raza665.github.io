@@ -14,7 +14,7 @@ tags:
   - Second Semester
 ---
 
-#### Ramzan Hostel Life, Independence, and Self-Managed Iftar Routine
+### Ramzan Hostel Life, Independence, and Self-Managed Iftar Routine
 
 The beginning of Ramzan during my second semester brought a completely new and memorable experience into my university life. It was not just a change in routine, but a unique phase filled with learning, independence, and unexpected challenges. As hostel students, this was our first time observing Ramzan away from home, which made it both exciting and slightly difficult.
 
@@ -24,7 +24,7 @@ This situation led us to make an important decision. Me and my roommates decided
 
 Preparing Iftar together became one of the most enjoyable parts of our day. Each of us had a role, some would cut fruits, others would handle cooking, and some would arrange the table. Although we were not expert cooks, we learned quickly through practice and teamwork. Sometimes the food was simple, and sometimes we tried to make it special. Regardless of the outcome, the effort and collaboration made it a beautiful experience.
 
-#### Ramzan, Responsibility, and Unexpected Online Learning Shift
+### Ramzan, Responsibility, and Unexpected Online Learning Shift
 
 This routine not only helped us manage our fasting better but also brought us closer as friends. It taught us responsibility, independence, and the value of cooperation. Even after a long day of classes and fasting, we would gather with energy and excitement to prepare our Iftar. These small moments created memories that I will always cherish.
 
@@ -38,7 +38,7 @@ Studying online during Ramzan came with its own challenges. Managing time betwee
 
 Despite these challenges, I tried to stay consistent with my studies. I attended online lectures, completed assignments, and made sure I did not fall behind. This phase taught me how to adapt quickly to changing situations and continue learning under different circumstances.
 
-#### Adaptability, Growth, and Lasting Ramzan Memories
+### Adaptability, Growth, and Lasting Ramzan Memories
 
 Looking back, this period was a combination of adventure, responsibility, and adaptability. From preparing our own Iftar to shifting suddenly into online education, every moment added something valuable to my experience. It showed me that university life is not just about academics, but also about learning how to manage real-life situations.
 
