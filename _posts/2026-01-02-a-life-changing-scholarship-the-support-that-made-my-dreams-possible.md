@@ -14,8 +14,6 @@ tags:
 ---
 
 ### An Unexpected Meeting That Opened New Opportunities
-#### An Unexpected Meeting That Opened New Opportunities
-
 
 Every student has a story behind their academic journey, but some stories are shaped not only by hard work, but also by unexpected kindness and support from others. My journey toward higher education is one of those stories, a journey where a simple, random meeting changed the direction of my life and made my dreams achievable.
 
