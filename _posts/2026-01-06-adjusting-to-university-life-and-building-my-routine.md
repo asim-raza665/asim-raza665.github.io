@@ -14,19 +14,19 @@ tags:
   - University Life
 ---
 
-#### Facing the Academic Shift and Early Struggles
+### Facing the Academic Shift and Early Struggles
 
 After experiencing my first day at university, the real challenge began, adjusting to a completely new academic and social environment. The first week of classes was a mixture of confusion, curiosity, and pressure. Everything felt very different from my FSc life, where studies were more structured, guided, and predictable. In university, I had to manage everything on my own, including attending lectures, completing assignments, handling hostel life, and doing self-study. This sudden shift in responsibility made the initial days quite challenging for me.
 
 One of the biggest challenges I faced was the subject of Programming Fundamentals. Coming from an FSc Pre-Engineering background, and even earlier from a biology-focused matric, I had no exposure to computers or programming at all. While subjects like Calculus, Applied Physics, and Discrete Mathematics were somewhat familiar and easier to understand, programming was completely new and unfamiliar for me. In our first lectures, we started learning Python, beginning with very basic concepts such as variables. For many students, these concepts seemed simple and easy to grasp, but for me, everything felt new and difficult to understand. I had to put in extra effort just to follow what was being taught in class.
 
-#### Language Barrier, Self-Learning, and Academic Pressure
+### Language Barrier, Self-Learning, and Academic Pressure
 
 Another major difficulty I faced was the language barrier. All lectures were delivered in English, and in the beginning, I struggled to fully understand the explanations given by the teachers. Sometimes, I could not grasp the concepts properly during the lecture, which made it harder for me to keep up with the class. To overcome this issue, I started using online tools like ChatGPT and other learning resources to understand concepts in Urdu. I also explored different YouTube channels and online lectures to strengthen my understanding. Even after putting in this effort, the first couple of weeks remained quite stressful. I often felt confused and unsure about how to study effectively in this new academic system.
 
 University life also introduced a completely new academic structure, including weekly assignments, quizzes, and continuous assessment. This was very different from the annual board exam system I was used to. Initially, I found it difficult to manage my time properly. In fact, for the first two weeks, I struggled to even begin studying seriously due to stress, confusion, and overthinking. I was trying to understand how everything worked while also dealing with the pressure of keeping up with my studies.
 
-#### Developing Routine, Support System, and Academic Improvement
+### Developing Routine, Support System, and Academic Improvement
 
 However, things gradually started to improve after two to three weeks. I began to develop a proper routine for myself. I started attending classes more actively, paying closer attention during lectures, and focusing on understanding concepts rather than just completing assignments. During this time, I also met some very supportive seniors who guided me and reassured me that this difficult phase was temporary and that things would become easier with time.
 
