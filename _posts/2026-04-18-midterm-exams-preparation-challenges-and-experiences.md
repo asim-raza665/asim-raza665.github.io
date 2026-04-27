@@ -20,6 +20,26 @@ tags:
 
 As my second semester continued, one of the most important phases of my academic journey was the midterm examinations. These exams were not only a test of my knowledge but also a test of my preparation, time management, and ability to handle pressure.
 
+---
+
+### 📅 Midterm Date Sheet (Spring 2026)
+
+The following was our official midterm schedule, which helped us plan our preparation effectively:
+
+| Date       | Day        | Subject Code | Subject Name                 | Venue             |
+|------------|------------|--------------|------------------------------|------------------|
+| 07/04/2026 | Tuesday    | CSC103       | Object-Oriented Programming  | Lecture Room EE13 |
+| 08/04/2026 | Wednesday  | MAA104       | Calculus II                  | Lecture Room EE13 |
+| 09/04/2026 | Thursday   | MA205        | Applied Statistics           | Lecture Room EE13 |
+| 10/04/2026 | Friday     | —            | Holiday (Petrol Price Issue) | —                |
+| 11/04/2026 | Saturday   | —            | Weekend Holiday              | —                |
+| 12/04/2026 | Sunday     | —            | Weekend Holiday              | —                |
+| 13/04/2026 | Monday     | CSC104       | Database Systems             | Lecture Room EE13 |
+| 14/04/2026 | Tuesday    | CSC105       | Digital Logic Design         | Lecture Room EE13 |
+| 15/04/2026 | Wednesday  | HU111        | Communication Skills         | Lecture Room EE13 |
+
+---
+
 The midterm schedule was quite structured, starting from 7th April 2026 and continuing until 15th April 2026. All exams were conducted in Lecture Room EE13, which became a familiar place for us during this intense period. Initially, only Saturday and Sunday were holidays, but due to increased petrol prices, an extra holiday on Friday was announced, giving us a bit more preparation time.
 
 We mostly prepared in groups with friends, which made studying both effective and enjoyable. It helped us revise concepts, solve problems, and stay motivated during stressful moments.
@@ -29,6 +49,8 @@ The first exam was Object-Oriented Programming. Although I had prepared well, th
 The Calculus II exam also included a quiz and had a wide syllabus, including limits, continuity, chain rule, partial derivatives, gradient vectors, and double integrals. I prepared thoroughly, and Alhamdulillah, it went well.
 
 Applied Statistics was comparatively smooth, covering graphs and measures like mean, median, and mode. There was no quiz, and overall, the exam went well.
+
+---
 
 ### Challenges, Time Management, and Unexpected Situations
 
@@ -41,6 +63,8 @@ Because of this, our preparation was not as strong as planned. During the exam, 
 The next exam was Digital Logic Design. The syllabus included combinational circuits, Boolean algebra, minterms, maxterms, and K-maps. I prepared well, and thankfully, the exam went smoothly.
 
 After this, we faced another challenge. Since I had to leave the university soon, we couldn’t go home with a damaged laptop. So, we decided to travel to Faisalabad to get it repaired. We went in the afternoon, got it checked, and returned at night. It was tiring but necessary, and it taught us how to manage unexpected problems during academic life.
+
+---
 
 ### Final Exams, Return Journey, and Lessons Learned
 
