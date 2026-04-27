@@ -14,7 +14,7 @@ tags:
   - Project
 ---
 
-#### Online Lab Evaluation and SQL Preparation Challenges
+### Online Lab Evaluation and SQL Preparation Challenges
 
 As my second semester continued, one of the most interesting and slightly challenging experiences came during an online database lab session. This lab was different from the previous ones because it focused more on preparation, understanding, and evaluation rather than just performing tasks step by step. It also introduced us to important academic responsibilities and teamwork beyond the classroom.
 
@@ -26,7 +26,7 @@ When the next lab session was conducted online, the teacher started asking quest
 
 Seeing this situation, the teacher decided not to continue with the planned evaluation in that lab. Instead, he announced that he would conduct a proper quiz on these topics later to fairly assess everyone’s understanding. This decision made sense because it would give students another chance to prepare better and perform well.
 
-#### DBS Lab Project and DBS Theory Project
+### DBS Lab Project and DBS Theory Project
 
 Despite this, the lab session remained productive because we shifted our focus toward discussing our major course projects. These projects were an essential part of our Database Systems lab and were divided into two main components: the DBS Lab Project and the DBS Theory Project.
 
@@ -34,7 +34,7 @@ The DBS Lab Project was related to GitHub. In this project, we were required to 
 
 The second project, the DBS Theory Project, was more technical and forward-looking. It was related to Machine Learning and Deep Learning. Since we had already studied the basics of machine learning in our first semester, this project aimed to extend our knowledge by adding more features and introducing concepts of deep learning. We were also required to include visual elements like images to make our work more comprehensive and understandable. This project helped us connect database knowledge with modern technologies like AI and data-driven systems.
 
-#### Guidance, Responsibility, and Leadership Growth
+### Guidance, Responsibility, and Leadership Growth
 
 During this process, I faced some confusion regarding how to properly structure and collect the content for these articles. To clarify my doubts, I reached out to our respected teacher, Dr. Bilal. He responded very kindly and explained everything in detail through a voice message of a few minutes. His explanation was clear, practical, and very helpful, which made all my confusion disappear.
 
