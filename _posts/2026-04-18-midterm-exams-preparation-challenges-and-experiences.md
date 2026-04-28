@@ -7,7 +7,7 @@ phase: "Second Semester Momentum"
 journey_stage: "Midterms, Challenges, and Growth"
 read_time: "5 min"
 summary: "A complete midterm journey filled with preparation, teamwork, unexpected challenges, and valuable lessons in time management and pressure handling."
-image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
 tags:
   - Midterm Exams
   - Time Management
