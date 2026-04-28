@@ -7,7 +7,7 @@ phase: "Second Semester Momentum"
 journey_stage: "Opportunities, Responsibilities, and Adaptability"
 read_time: "5 min"
 summary: "A journey of managing scholarship responsibilities, academic tasks, communication activities, and unexpected challenges while maintaining balance and consistency."
-image: "https://assets.grok.com/users/72c6d445-efc8-495d-b82b-72945f374a8a/generated/306b5294-25c3-49ee-868d-dbc894996ac9/image.jpg"
+image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
 tags:
   - Scholarship
   - Time Management
