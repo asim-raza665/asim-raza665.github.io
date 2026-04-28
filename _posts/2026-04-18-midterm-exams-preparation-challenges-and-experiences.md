@@ -50,7 +50,6 @@ The Calculus II exam also included a quiz and had a wide syllabus, including lim
 
 Applied Statistics was comparatively smooth, covering graphs and measures like mean, median, and mode. There was no quiz, and overall, the exam went well.
 
----
 
 ### Challenges, Time Management, and Unexpected Situations
 
@@ -64,7 +63,6 @@ The next exam was Digital Logic Design. The syllabus included combinational circ
 
 After this, we faced another challenge. Since I had to leave the university soon, we couldn’t go home with a damaged laptop. So, we decided to travel to Faisalabad to get it repaired. We went in the afternoon, got it checked, and returned at night. It was tiring but necessary, and it taught us how to manage unexpected problems during academic life.
 
----
 
 ### Final Exams, Return Journey, and Lessons Learned
 
