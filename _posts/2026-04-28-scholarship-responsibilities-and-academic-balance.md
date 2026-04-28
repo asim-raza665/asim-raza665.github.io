@@ -36,8 +36,6 @@ Before leaving, I discussed my situation with one of my school teachers. I expla
 
 I then contacted my father and asked him to print the documents on stamp paper and deliver them to my teacher. Because of their support, I cancelled my travel plan. This decision saved both time and energy and showed me the importance of communication, trust, and having supportive people around me.
 
----
-
 ### Communication Skills Activities and Confidence Building
 
 After the weekend, we had a Communication Skills lab on Monday. The task was to perform a talk show in pairs, where one student would act as the host and the other as the guest.
@@ -61,7 +59,6 @@ After this activity, our teacher assigned a new continuous task:
 
 This task was challenging but very helpful in building speaking skills, confidence, and consistency.
 
----
 
 ### Unexpected Quizzes and Learning Outcomes
 
