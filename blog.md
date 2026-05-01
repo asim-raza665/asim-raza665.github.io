@@ -7,7 +7,6 @@ description: "Browse my journey through folder-style sections and open each stag
 
 {% assign sorted_posts = site.posts | sort: "sequence" %}
 {% assign folder_names = sorted_posts | map: "folder" | uniq %}
-{% assign default_folder = folder_names | first %}
 
 <section class="blog-intro">
   <p>This page organizes my computer engineering journey into folders. Open any folder below to view only its related articles and tags on the same page.</p>
@@ -39,7 +38,7 @@ description: "Browse my journey through folder-style sections and open each stag
             Articles collected from the {{ folder_name | downcase }} stage of my academic journey.
         {% endcase %}
       {% endcapture %}
-      <button class="folder-card{% if folder_name == default_folder %} is-active{% endif %}" type="button" data-folder-target="{{ folder_slug }}" aria-pressed="{% if folder_name == default_folder %}true{% else %}false{% endif %}">
+      <button class="folder-card" type="button" data-folder-target="{{ folder_slug }}" aria-pressed="false">
         <span class="folder-card__tab" aria-hidden="true"></span>
         <span class="folder-card__label">Folder {{ forloop.index }}</span>
         <strong>{{ folder_name }}</strong>
@@ -77,7 +76,7 @@ description: "Browse my journey through folder-style sections and open each stag
           This folder contains articles from the {{ folder_name | downcase }} phase of my journey.
       {% endcase %}
     {% endcapture %}
-    <section class="blog-folder-panel{% if folder_name != default_folder %} is-hidden{% endif %}" data-folder-panel="{{ folder_slug }}"{% if folder_name != default_folder %} hidden{% endif %}>
+    <section class="blog-folder-panel is-hidden" data-folder-panel="{{ folder_slug }}" hidden>
       <div class="folder-panel__hero">
         <div>
           <p class="eyebrow">Blog Folder</p>
@@ -128,7 +127,6 @@ description: "Browse my journey through folder-style sections and open each stag
   document.addEventListener('DOMContentLoaded', function() {
     const folderButtons = document.querySelectorAll('[data-folder-target]');
     const folderPanels = document.querySelectorAll('[data-folder-panel]');
-    const firstFolderButton = folderButtons[0];
 
     const updateUrl = (folderSlug, tagSlug) => {
       const nextUrl = new URL(window.location.href);
@@ -178,7 +176,7 @@ description: "Browse my journey through folder-style sections and open each stag
     };
 
     const showFolder = (folderSlug, tagSlug) => {
-      const nextFolderSlug = folderSlug || (firstFolderButton && firstFolderButton.getAttribute('data-folder-target'));
+      const nextFolderSlug = folderSlug;
       if (!nextFolderSlug) return;
 
       let activePanel = null;
@@ -247,8 +245,8 @@ description: "Browse my journey through folder-style sections and open each stag
 
     const activeFolderFromUrl = new URLSearchParams(window.location.search).get('folder');
     const activeTagFromUrl = new URLSearchParams(window.location.search).get('tag');
-    const initialFolder = activeFolderFromUrl || (firstFolderButton && firstFolderButton.getAttribute('data-folder-target'));
-
-    showFolder(initialFolder, activeTagFromUrl || 'all');
+    if (activeFolderFromUrl) {
+      showFolder(activeFolderFromUrl, activeTagFromUrl || 'all');
+    }
   });
 </script>
