@@ -840,6 +840,29 @@ body.light-theme::after
   right: -16%
   background: radial-gradient(circle at 52% 48%, rgba(198, 107, 66, 0.28) 0%, rgba(125, 140, 190, 0.12) 48%, transparent 74%)
 
+// Cursor-follow spotlight (same idea as reference #cg)
+#cg
+  position: fixed
+  width: min(500px, 92vw)
+  height: min(500px, 92vw)
+  border-radius: 50%
+  left: 50%
+  top: 50%
+  pointer-events: none
+  z-index: 0
+  transform: translate(-50%, -50%)
+  filter: blur(16px)
+  background: radial-gradient(circle, rgba(16, 185, 129, 0.13) 0%, rgba(59, 130, 246, 0.05) 40%, transparent 70%)
+  transition: left 0.12s ease, top 0.12s ease
+
+html[data-theme="light"] #cg
+  background: radial-gradient(circle, rgba(15, 123, 131, 0.11) 0%, rgba(59, 130, 246, 0.045) 40%, transparent 70%)
+  filter: blur(20px)
+
+@media (prefers-reduced-motion: reduce)
+  #cg
+    display: none !important
+
 h1, h2, h3
   color: #f4f8fb
 

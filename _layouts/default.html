@@ -4,6 +4,7 @@
   {% include head.html %}
 </head>
 <body class="{{ page.layout }}{% if page.body_class %} {{ page.body_class }}{% endif %}">
+  <div id="cg" class="cursor-glow-follow" aria-hidden="true"></div>
   <header class="site-header hover smooth">
     {% unless site.show_minimal and site.navigation and site.external %}
       <div class="site-header__brand">
