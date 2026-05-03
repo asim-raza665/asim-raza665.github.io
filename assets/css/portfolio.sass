@@ -760,7 +760,7 @@ body
   background: #07111a
   background-image: radial-gradient(circle at top left, rgba(82, 214, 196, 0.12), transparent 24%), radial-gradient(circle at top right, rgba(125, 166, 255, 0.14), transparent 20%), linear-gradient(180deg, rgba(12, 24, 36, 0.92), rgba(5, 12, 20, 1))
 
-// Soft atmospheric glow (dark theme only; does not alter layout or copy)
+// Soft atmospheric glow (does not alter layout or copy)
 html:not([data-theme="light"]) body::before,
 html:not([data-theme="light"]) body::after
   content: ""
@@ -784,6 +784,34 @@ html:not([data-theme="light"]) body::after
   bottom: -24%
   right: -16%
   background: radial-gradient(circle at 52% 48%, rgba(125, 166, 255, 0.55) 0%, rgba(65, 120, 200, 0.14) 48%, transparent 74%)
+
+html[data-theme="light"] body::before,
+html[data-theme="light"] body::after,
+body.light-theme::before,
+body.light-theme::after
+  content: ""
+  position: fixed
+  pointer-events: none
+  z-index: 0
+  border-radius: 50%
+  filter: blur(92px)
+  opacity: 0.32
+
+html[data-theme="light"] body::before,
+body.light-theme::before
+  width: min(78vw, 560px)
+  height: min(78vw, 560px)
+  top: -14%
+  left: -12%
+  background: radial-gradient(circle at 38% 42%, rgba(15, 123, 131, 0.35) 0%, rgba(15, 123, 131, 0.08) 45%, transparent 72%)
+
+html[data-theme="light"] body::after,
+body.light-theme::after
+  width: min(95vw, 760px)
+  height: min(95vw, 760px)
+  bottom: -24%
+  right: -16%
+  background: radial-gradient(circle at 52% 48%, rgba(198, 107, 66, 0.28) 0%, rgba(125, 140, 190, 0.12) 48%, transparent 74%)
 
 h1, h2, h3
   color: #f4f8fb
