@@ -365,7 +365,7 @@ p
   grid-template-columns: repeat(3, 1fr)
   gap: 1rem
 
-// Folder cards: match reference "skc" — gradient cap + soft green bloom on hover/focus/active
+// Folder cards: gradient cap at rest; hover/active use theme blocks only (no global light fill)
 .folder-card
   position: relative
   width: 100%
@@ -374,6 +374,7 @@ p
   border-radius: 22px
   appearance: none
   overflow: hidden
+  -webkit-tap-highlight-color: transparent
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(242, 249, 248, 0.96))
   box-shadow: 0 18px 40px rgba(16, 32, 51, 0.1)
   color: #102033
@@ -395,24 +396,6 @@ p
   background: linear-gradient(90deg, #34d399, #60a5fa, #fbbf24)
   opacity: 0
   transition: opacity 0.35s ease
-
-.folder-card:hover::before,
-.folder-card:focus-visible::before,
-.folder-card.is-active::before
-  opacity: 0.72
-
-.folder-card:hover,
-.folder-card:focus-visible
-  transform: translateY(-6px)
-  border-color: rgba(16, 185, 129, 0.62)
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(245, 252, 250, 0.99))
-  box-shadow: 0 14px 32px rgba(16, 32, 51, 0.1), 0 10px 40px rgba(16, 185, 129, 0.1), 0 0 44px rgba(52, 211, 153, 0.22), 0 0 88px rgba(16, 185, 129, 0.14)
-
-.folder-card.is-active
-  transform: translateY(-5px)
-  border-color: rgba(5, 150, 105, 0.72)
-  background: linear-gradient(180deg, rgba(232, 247, 245, 0.99), rgba(255, 251, 244, 0.99))
-  box-shadow: 0 18px 38px rgba(13, 81, 101, 0.12), 0 12px 48px rgba(16, 185, 129, 0.12), 0 0 56px rgba(52, 211, 153, 0.26), 0 0 100px rgba(16, 185, 129, 0.16)
 
 .folder-card:focus:not(:focus-visible)
   outline: none
@@ -1148,22 +1131,43 @@ p
   background: rgba(5, 11, 18, 0.95)
 
 .folder-card
-  border: 1px solid rgba(162, 184, 205, 0.14)
+  border: 2px solid rgba(162, 184, 205, 0.14)
   overflow: hidden
   background: linear-gradient(180deg, rgba(14, 29, 44, 0.96), rgba(8, 18, 28, 0.98))
   box-shadow: 0 20px 44px rgba(0, 0, 0, 0.28)
   color: #f4f8fb
 
+// Inner fill stays identical; only the 2px "frame" shows teal → blue → amber (like reference Folder 3)
+.folder-card:hover::before,
+.folder-card:focus-visible::before,
+.folder-card.is-active::before
+  opacity: 0
+
 .folder-card:hover,
-.folder-card:focus-visible
-  border-color: rgba(52, 211, 153, 0.58)
+.folder-card:focus-visible,
+.folder-card.is-active
   transform: translateY(-6px)
-  box-shadow: 0 24px 52px rgba(0, 0, 0, 0.36), 0 10px 38px rgba(16, 185, 129, 0.12), 0 0 48px rgba(52, 211, 153, 0.22), 0 0 90px rgba(16, 185, 129, 0.14)
 
 .folder-card.is-active
-  border-color: rgba(52, 211, 153, 0.75)
-  background: linear-gradient(180deg, rgba(17, 39, 56, 0.98), rgba(9, 21, 32, 0.98))
-  box-shadow: 0 28px 58px rgba(0, 0, 0, 0.4), 0 12px 44px rgba(16, 185, 129, 0.14), 0 0 58px rgba(52, 211, 153, 0.28), 0 0 110px rgba(16, 185, 129, 0.16)
+  transform: translateY(-5px)
+
+.folder-card:hover,
+.folder-card:focus-visible
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(14, 29, 44, 0.96), rgba(8, 18, 28, 0.98)) padding-box, linear-gradient(118deg, rgba(52, 211, 153, 0.95), rgba(96, 165, 250, 0.78), rgba(251, 191, 36, 0.92)) border-box
+  background-clip: padding-box, border-box
+  box-shadow: 0 24px 52px rgba(0, 0, 0, 0.38), 0 0 28px rgba(52, 211, 153, 0.14), 0 0 56px rgba(16, 185, 129, 0.12), 0 0 96px rgba(52, 211, 153, 0.08)
+
+.folder-card.is-active
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(14, 29, 44, 0.96), rgba(8, 18, 28, 0.98)) padding-box, linear-gradient(125deg, rgba(52, 211, 153, 1), rgba(96, 165, 250, 0.85), rgba(251, 191, 36, 0.95)) border-box
+  background-clip: padding-box, border-box
+  box-shadow: 0 28px 58px rgba(0, 0, 0, 0.42), 0 0 36px rgba(52, 211, 153, 0.16), 0 0 72px rgba(16, 185, 129, 0.14), 0 0 110px rgba(52, 211, 153, 0.1)
+
+.folder-card:active
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(14, 29, 44, 0.96), rgba(8, 18, 28, 0.98)) padding-box, linear-gradient(125deg, rgba(52, 211, 153, 0.95), rgba(96, 165, 250, 0.78), rgba(251, 191, 36, 0.9)) border-box
+  background-clip: padding-box, border-box
 
 .folder-card__tab
   background: linear-gradient(135deg, rgba(82, 214, 196, 0.28), rgba(125, 166, 255, 0.22))
@@ -1337,16 +1341,24 @@ html[data-theme="light"] .folder-card:focus-visible,
 body.light-theme .folder-card:hover,
 body.light-theme .folder-card:focus-visible
   transform: translateY(-6px)
-  border-color: rgba(16, 185, 129, 0.55)
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(245, 252, 250, 0.99))
-  box-shadow: 0 16px 36px rgba(16, 32, 51, 0.1), 0 10px 40px rgba(16, 185, 129, 0.09), 0 0 44px rgba(52, 211, 153, 0.2), 0 0 88px rgba(16, 185, 129, 0.12)
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(242, 249, 248, 0.96)) padding-box, linear-gradient(118deg, rgba(52, 211, 153, 0.88), rgba(96, 165, 250, 0.72), rgba(251, 191, 36, 0.82)) border-box
+  background-clip: padding-box, border-box
+  box-shadow: 0 16px 36px rgba(16, 32, 51, 0.1), 0 0 32px rgba(16, 185, 129, 0.12), 0 0 64px rgba(52, 211, 153, 0.14), 0 0 88px rgba(16, 185, 129, 0.08)
 
 html[data-theme="light"] .folder-card.is-active,
 body.light-theme .folder-card.is-active
   transform: translateY(-5px)
-  border-color: rgba(5, 150, 105, 0.65)
-  background: linear-gradient(180deg, rgba(232, 247, 245, 0.98), rgba(255, 251, 244, 0.98))
-  box-shadow: 0 20px 42px rgba(13, 81, 101, 0.11), 0 12px 48px rgba(16, 185, 129, 0.1), 0 0 56px rgba(52, 211, 153, 0.24), 0 0 100px rgba(16, 185, 129, 0.14)
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(242, 249, 248, 0.96)) padding-box, linear-gradient(125deg, rgba(16, 185, 129, 0.92), rgba(59, 130, 246, 0.78), rgba(245, 158, 11, 0.85)) border-box
+  background-clip: padding-box, border-box
+  box-shadow: 0 20px 42px rgba(13, 81, 101, 0.08), 0 0 40px rgba(16, 185, 129, 0.14), 0 0 72px rgba(52, 211, 153, 0.12), 0 0 100px rgba(16, 185, 129, 0.08)
+
+html[data-theme="light"] .folder-card:active,
+body.light-theme .folder-card:active
+  border: 2px solid transparent
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(242, 249, 248, 0.96)) padding-box, linear-gradient(125deg, rgba(52, 211, 153, 0.85), rgba(96, 165, 250, 0.7), rgba(251, 191, 36, 0.8)) border-box
+  background-clip: padding-box, border-box
 
 html[data-theme="light"] .folder-card__tab,
 body.light-theme .folder-card__tab
