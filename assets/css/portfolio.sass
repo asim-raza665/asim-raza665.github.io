@@ -760,6 +760,31 @@ body
   background: #07111a
   background-image: radial-gradient(circle at top left, rgba(82, 214, 196, 0.12), transparent 24%), radial-gradient(circle at top right, rgba(125, 166, 255, 0.14), transparent 20%), linear-gradient(180deg, rgba(12, 24, 36, 0.92), rgba(5, 12, 20, 1))
 
+// Soft atmospheric glow (dark theme only; does not alter layout or copy)
+html:not([data-theme="light"]) body::before,
+html:not([data-theme="light"]) body::after
+  content: ""
+  position: fixed
+  pointer-events: none
+  z-index: 0
+  border-radius: 50%
+  filter: blur(88px)
+  opacity: 0.38
+
+html:not([data-theme="light"]) body::before
+  width: min(78vw, 560px)
+  height: min(78vw, 560px)
+  top: -14%
+  left: -12%
+  background: radial-gradient(circle at 38% 42%, rgba(82, 214, 196, 0.65) 0%, rgba(45, 170, 168, 0.18) 45%, transparent 72%)
+
+html:not([data-theme="light"]) body::after
+  width: min(95vw, 760px)
+  height: min(95vw, 760px)
+  bottom: -24%
+  right: -16%
+  background: radial-gradient(circle at 52% 48%, rgba(125, 166, 255, 0.55) 0%, rgba(65, 120, 200, 0.14) 48%, transparent 74%)
+
 h1, h2, h3
   color: #f4f8fb
 
