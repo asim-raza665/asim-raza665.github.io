@@ -110,7 +110,7 @@ This experience taught me:
 - Managing official responsibilities independently  
 - Communication and coordination skills
 
-  Along with these activities, our Object-Oriented Programming lab teacher also assigned us a mini project based on a **University Admission Management System** in C# using:
+Along with these activities, our Object-Oriented Programming lab teacher also assigned us a mini project based on a **University Admission Management System** in C# using:
 
 - Presentation Layer  
 - Business Logic Layer  
