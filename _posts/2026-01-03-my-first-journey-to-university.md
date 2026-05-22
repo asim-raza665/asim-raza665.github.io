@@ -7,7 +7,7 @@ phase: "Getting In & Starting Out"
 journey_stage: "First Departure"
 read_time: "4 min"
 summary: "The emotional, uncertain, and unforgettable journey from home to UET Faisalabad for the very first time."
-image: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=800&h=400&fit=crop"
+image: "https://www.uet.edu.pk/gallery/UET-Faisalabad-Campus.jpg?__scale=w:525,h:263,t:2,q:80"
 tags:
   - Admission
   - University Life
