@@ -16,88 +16,179 @@ tags:
   - University Life
 ---
 
-### Communication Skills Vlog, DLD Open-Ended Lab, and Academic Results
+### Communication Vlog Activities and Presentation Experience
 
-In a previous week, our Communication Skills teacher had rejected our first video because we had simply stood at one point and recorded on a random topic. This happened because we had missed an earlier class and received incomplete instructions from a friend, who told us to just shoot a video on any topic with one person holding the camera. When we came to class with that video, the teacher explained that a proper vlog was required, one where you visit different places such as areas around the university or an outing from Faisalabad.
+This week started with an important correction in our Communication Skills class. Many students, including me, misunderstood the vlog assignment due to missing a previous class and incomplete instructions from classmates. We thought the task was simply to record a video while standing in one place and speaking on any topic.
 
-The teacher gave us one more chance and asked us to prepare a proper vlog for the next class.
+However, when we presented our videos, the teacher rejected them and explained that the actual requirement was to create a proper vlog.
 
-For my vlog, I visited different areas of **Al-Biruni Hall**, my hostel, and explained everything in English while my friend recorded me from the front. I covered different surroundings of the hall and described where we were going throughout the video.
+The correct instructions were:
 
-When the vlog evaluation class arrived, the teacher arranged a proper screening:
+* The video should be a real vlog style presentation  
+* Students must move and visit different locations  
+* Speaking should be done while walking and explaining surroundings in English  
 
-- Hall lights were switched off
-- Windows and doors were closed
-- Videos were played on a projector
-- A speaker was set up so everyone could hear clearly
+After understanding the mistake, the teacher gave us another chance to reattempt the task.
 
-After watching all the vlogs, the teacher gave her final feedback. **I scored 8 out of 10**, which was a satisfying result after the effort I had put in. The teacher also announced a new assignment for the next class: each student would act as a teacher for **10 minutes**, explain a topic in front of the class, and answer questions from fellow students.
+For the next attempt, I recorded a vlog around **Al-Biruni Hall and hostel surroundings**, where my friend handled the camera while I explained different locations in English while walking.
 
-On the other side, our Digital Logic Design teacher announced an open-ended lab. Based on the general instructions given beforehand about ICs, breadboards, and K-maps, our group expected a straightforward preparation task. However, when we arrived at the lab, the actual question was a **real-world scenario-based problem** involving a machine design with the following inputs:
+During evaluation:
 
-- **Emergency (E)**, **Vibration (V)**, **Temperature (T)**, and **Sound (S)**
-- Output conditions for door open or closed based on input combinations
+* The classroom environment was arranged like a screening session  
+* Lights were turned off  
+* Videos were played on projector  
+* Speakers were used for clear audio  
 
-The question had four parts:
+At the end, I received:
 
-1. Identify all inputs and outputs
-2. Write the Boolean function using **K-map**
-3. Draw the complete **logic diagram**
-4. Implement the circuit on a **breadboard**
+* **8 out of 10 marks** in the vlog activity  
 
-At first, our group was confused because the question was unexpected. But after carefully re-reading the scenario, we identified all four variables and built a truth table with **16 combinations**. We solved the question step by step, implemented the circuit on the breadboard, and our inputs and outputs were verified correct by the teacher. My **viva performance was also good**, and I am hopeful for strong marks.
+Additionally, the teacher assigned a new task where each student must become a teacher for 10 minutes and explain a topic in front of the class while answering questions from students.
 
-On the same day, our DLD teacher announced the results of midterms and quiz:
+---
 
-- **Quiz:** 9.5 out of 10
-- **Midterm:** 25 out of 30
+### Database Project Finalization, SQL Quiz, and Practical Learning
 
-A quiz from **Chapter 4** was also announced for the next coming class.
+This week was very important for our Database Systems progress because our group finally finalized our project dataset after earlier rejection.
 
-### Database Systems: Project Confirmation, Quiz, and Relational Algebra
+We selected the **Framingham Heart Study dataset**, which is a real-world medical dataset used for heart disease prediction research.
 
-In the Database Systems lab this week, our group officially confirmed our project dataset as the **Framingham Heart Disease dataset**. This dataset contains real medical records and has a strong target variable suitable for both database queries and future Machine Learning tasks.
+Key details:
 
-Our teacher, **Dr. Bilal**, had already covered the following concepts in previous sessions:
+* Around 4,240 patient records  
+* 16 total attributes  
+* Target variable: `TenYearCHD`  
 
-- Projection, Selection, Rename
-- Union, Intersection, Difference, Division
-- Joins and their types
+This target predicts whether a patient will develop coronary heart disease within 10 years.
 
-This week, a **quiz was announced** covering these relational algebra concepts along with SQL queries. The quiz turned out to be straightforward because the teacher framed all questions around real-world scenarios rather than random or abstract problems.
+From this dataset, we learned important concepts:
 
-The quiz consisted of two main questions:
+* Binary classification problem  
+* Class imbalance handling  
+* Importance of recall in medical prediction  
+* Missing value issues in real datasets  
+* Feature relationships and data preprocessing  
 
-**Question 1** involved two tables, a Current Account and a Saving Account, each with three customers, and one common customer named Bilal. The tasks were:
-- Find customers present in **both** accounts → *Intersection*
-- Find customers in **only the Saving Account** → *Difference*
-- Find all customers across both accounts → *Union*
+Our teacher approved the dataset because it was:
 
-We had to write relational algebra queries, SQL queries, and draw the output tables.
+* Real and research-based  
+* Suitable for Machine Learning future work  
+* Meaningful for prediction tasks  
 
-**Question 2** involved three tables: Student, Course, and Enrollment. The tasks were:
-- Find students enrolled in the **CS department** → relational algebra and SQL
-- Find course names and student names together → SQL with **Left Join**
+Alongside this, we attempted a **Database quiz** covering:
 
-Overall, the quiz was quite manageable and I attempted it comfortably within the time.
+* Selection, Projection, Rename  
+* Union, Intersection, Difference  
+* Division and Joins  
+* SQL queries and relational algebra  
 
-### Mela Festival, OOP Project, and Heading Home for Eid
+The quiz was based on real scenarios:
 
-On **19 May 2026**, the university organized a **Mela festival** on campus. Students arranged different stalls including Golgappa, Ludo games, artificial jewelry, and various other activities. It was an enjoyable and refreshing experience in the middle of a busy academic week.
+* Current Account and Saving Account tables  
+* Student, Course, and Enrollment tables  
 
-On the same morning, I accidentally dropped my mobile and the panel came off. To get it repaired, my friend **Tahir** and I travelled **3 km to Khurewala** using the university route and got the issue fixed.
+We solved problems using:
 
-Our OOP lab teacher also assigned a new **mini project**:
+* Union for combining results  
+* Intersection for common records  
+* Difference for exclusive records  
+* SQL joins for relational data retrieval  
 
-- Design a **2D playing game** in **C# using .NET framework** (without external frameworks)
-- Deadline: **16 June**
+This quiz strengthened our practical understanding of database operations.
 
-In the same lab, the teacher announced two upcoming **lab quizzes** and an **open-ended lab** requiring a design using **inheritance**, **polymorphism**, and an **abstract class** named `Product` with child classes `Clothing` and `Electronics`.
+Along with academics, university life also included enjoyable moments. On 19 May 2026, a Mela festival was organized at the university where students arranged different stalls including:
 
-Later that day, it was officially announced that from **20 May 2026**, classes would shift to **online mode**. We attended online sessions on 21, 22, and 23 May. After that, **Eid ul Azha vacations** were scheduled from **26 to 28 May**, with physical classes resuming on **1 June**.
+* Golgappa stalls  
+* Ludo games  
+* Artificial jewelry  
+* Food and entertainment activities  
 
-With classes ending at **4 p.m.**, I had only **40 minutes** after the OOP lab to pack my bags and leave. I quickly packed, used the university route bus to reach the **railway station**, and boarded my train from **Sastaabad at 5:20–5:30 p.m.**
+On the same morning, I accidentally dropped my mobile phone, and its panel came out. Later, me and my friend Tahir travelled to Khurrianwala to repair the phone, which also became a memorable experience during this busy academic week.
 
-I arrived at my **Mamu's home at 10:20 p.m.**, stayed the night, and reached my own home the next morning at **7:50 a.m.** — just in time before my first online lecture starting at **11 a.m.**
+---
 
-I wrote this article on **Monday, 21 May 2026**, before that lecture began.
+### DLD Open-Ended Lab, OOP Activities, and Academic Responsibilities
+
+At the same time, our Digital Logic Design open-ended lab also created a challenging academic situation.
+
+Before the lab, our teacher instructed us to:
+
+* Revise K-map concepts  
+* Learn IC numbers and pin diagrams  
+* Practice breadboard implementation  
+* Understand logic circuit design  
+
+Because of these instructions, many students thought the evaluation would mainly focus on IC memorization and theoretical concepts.
+
+However, when we entered the lab, the teacher gave us a completely real-world scenario-based problem. We had to design a system based on conditions such as:
+
+* High temperature  
+* Vibration  
+* Emergency conditions  
+* Sound detection  
+
+The task required us to:
+
+1. Identify inputs and outputs  
+2. Create the Boolean function using K-map  
+3. Draw the logic diagram  
+4. Implement the circuit practically on a breadboard  
+
+Initially, many students became confused because the problem looked difficult. But after carefully understanding the scenario, I identified the variables properly and solved the truth table using variable names such as:
+
+* E for Emergency  
+* V for Vibration  
+* Other variables for remaining conditions  
+
+Since there were four variables, the combinations became 16 states in the truth table.
+
+Alhamdulillah, I successfully solved the problem, performed well in the viva, and our breadboard implementation worked correctly. The teacher checked our inputs and outputs and appreciated the proper implementation.
+
+During the same week, our Object-Oriented Programming activities also continued. Our previously assigned University Admission Management System project was submitted before the deadline.
+
+Later, our lab teacher assigned a new mini project in which we had to:
+
+* Design a 2D game in C#  
+* Use the .NET Framework  
+* Avoid advanced game frameworks  
+* Complete the project before 16 June  
+
+In the same lab session, we also attempted quizzes and an open-ended lab based on:
+
+* Inheritance  
+* Polymorphism  
+* Abstract classes  
+* Object creation in C#  
+
+The task included designing an abstract class named `Product` and creating derived classes such as:
+
+* Clothing  
+* Electronics  
+
+We also had to create objects and display functionality properly in the main class.
+
+Along with these activities, our DLD teacher announced results of quizzes and midterms:
+
+* **9.5 out of 10** in quiz  
+* **25 out of 30** in midterm examination  
+
+The teacher also announced another upcoming quiz from Chapter 4.
+
+During this same period, the university administration announced that classes would temporarily shift online from 20 May because of upcoming Eid-ul-Adha vacations. We attended online classes on 21st, 22nd, and 25th May, while holidays continued afterwards until the university reopened physically on 1st June.
+
+Because of the sudden schedule change, we quickly packed our luggage after the OOP lab ended and travelled to the railway station using the university route bus.Arrived at my Mamu's home at 10:20 p.m., stayed the night, and reached my own home the next morning at 7:50 a.m. — just in time before my first online lecture starting at 11 a.m.
+
+I wrote this article on Monday, 21 May 2026, before that lecture began.
+This week ended with:
+
+* Travel back home  
+* Online class adjustment  
+* Completion of academic tasks under pressure  
+
+Overall, this period improved my:
+
+* Practical programming skills  
+* Database understanding  
+* Communication confidence  
+* Problem-solving under pressure  
+* Time and responsibility management
