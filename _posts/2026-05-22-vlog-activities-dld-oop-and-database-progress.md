@@ -45,8 +45,6 @@ At the end, I received:
 
 Additionally, the teacher assigned a new task where each student must become a teacher for 10 minutes and explain a topic in front of the class while answering questions from students.
 
----
-
 ### Database Project Finalization, SQL Quiz, and Practical Learning
 
 This week was very important for our Database Systems progress because our group finally finalized our project dataset after earlier rejection.
@@ -104,8 +102,6 @@ Along with academics, university life also included enjoyable moments. On 19 May
 * Food and entertainment activities  
 
 On the same morning, I accidentally dropped my mobile phone, and its panel came out. Later, me and my friend Tahir travelled to Khurrianwala to repair the phone, which also became a memorable experience during this busy academic week.
-
----
 
 ### DLD Open-Ended Lab, OOP Activities, and Academic Responsibilities
 
