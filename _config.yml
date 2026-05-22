@@ -11,10 +11,6 @@ show_frame: false
 show_sidebar: false
 show_minimal: false
 
-markdown: kramdown
-kramdown:
-  input: GFM,
-  
 navigation:
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
