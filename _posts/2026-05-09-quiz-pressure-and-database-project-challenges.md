@@ -5,7 +5,7 @@ sequence: 20
 folder: "2nd Semester"
 phase: "Academic Consistency and Practical Learning"
 journey_stage: "Projects, Responsibilities, and Skill Development"
-read_time: "5 min"
+read_time: "7 min"
 summary: "A journey of handling difficult quizzes, communication assignments, scholarship documentation, and database project challenges while improving technical and communication skills."
 image: "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
 tags:
@@ -18,148 +18,60 @@ tags:
 
 ### Quiz Challenges and Academic Performance
 
-During this week, the Calculus quiz that was previously postponed was delayed once again because our teacher was busy checking midterm papers and written quiz marks. The teacher asked students to carefully review their checked papers and report any mistakes in marking so corrections could be made if necessary.
+During this week, academic pressure continued increasing because several quizzes, assignments, and project-related activities were taking place simultaneously. One of the main discussions among students was related to the Calculus quiz that had already been postponed earlier. However, due to the teacher being busy checking midterm papers and written quiz marks, the quiz was delayed once again.
 
-Because of this process, the Calculus quiz was shifted from Monday to Thursday.
+The teacher asked students to carefully review their checked papers and report any marking mistakes so corrections could be made before finalizing results. Because of this process, the Calculus quiz was shifted from Monday to Thursday.
 
-Alhamdulillah, my performance in Calculus remained very good:
+Alhamdulillah, my performance in Calculus remained very satisfying during this period. I secured **10 out of 10** marks in the Calculus quiz and also achieved **25 out of 30** marks in the midterm examination. These results motivated me to continue maintaining consistency in studies despite the increasing academic workload.
 
-- I scored **10 out of 10** in the Calculus quiz  
-- I obtained **25 out of 30** marks in the midterm exam  
+At the same time, our Object-Oriented Programming teacher also announced another quiz covering important concepts such as inheritance and polymorphism. As a result, students mentally prepared themselves for two quizzes on the same day, which created additional pressure throughout the week.
 
-At the same time, our Object-Oriented Programming teacher also announced a quiz on:
+However, when Thursday arrived, our Calculus teacher was absent from the university, and only the OOP quiz was conducted. Unlike theoretical quizzes, this assessment was completely coding-based and required students to implement object-oriented concepts practically within a very limited time.
 
-- Inheritance  
-- Polymorphism  
+The teacher asked us to create a parent class named `Payment` containing an attribute called `amount` along with a method named `PaymentMethod()`. After that, we had to derive three child classes representing Online Payment, Credit Card Payment, and Cash Payment. The task also required proper object creation in the main class, output display, and implementation of inheritance and polymorphism concepts.
 
-As a result, we had two quizzes scheduled for Thursday.
+The most difficult part of the quiz was the time limit because we had to complete the entire coding task within only 15 minutes. Many students found it difficult to manage both logic building and coding speed under pressure. Some students even discussed the issue with the teacher afterwards, but he explained that such practice was important because it improved coding speed, logical thinking, and the ability to solve problems quickly during practical situations.
 
-However, on Thursday, our Calculus teacher was absent from the university, so only the OOP quiz was conducted.
-
-The Object-Oriented Programming quiz was quite challenging because the teacher gave us a complete coding task with very limited time.
-
-We were asked to create:
-
-- A parent class named `Payment`  
-- An attribute called `amount`  
-- A method named `PaymentMethod()`  
-
-Then we had to derive three child classes:
-
-- Online Payment  
-- Credit Card Payment  
-- Cash Payment  
-
-The task also required us to:
-
-- Create objects in the main class  
-- Display the output properly  
-- Implement inheritance and polymorphism concepts  
-
-We had to complete the entire task within **15 minutes**, which was difficult for most students. Many students discussed the issue with the teacher, but he explained that this practice was important for improving coding speed and problem-solving under pressure.
-
-Although the quiz was difficult, it gave us practical experience in implementing object-oriented concepts in real coding scenarios.
+Although the quiz was challenging, it became a valuable learning experience because it allowed us to apply object-oriented programming concepts in a real coding environment instead of only studying theory.
 
 ### Communication Activities + OOP Mini Project and Scholarship Responsibilities
 
-Our Communication Skills teacher modified the previously assigned daily speaking activity and gave us a more organized task.
+Alongside technical subjects, our Communication Skills activities also became more organized and demanding during this period. Our teacher modified the previously assigned daily speaking activity and replaced it with a more structured communication project.
 
-The new instructions were:
+According to the new instructions, students were required to create seven informative videos, each around 10 minutes long, on topics of their own choice while speaking directly in front of the camera. In addition to these videos, we also had to create one separate 5-minute formal vlog in proper dressing while walking in an open or visually attractive location. Another student would record the video while we walked and explained the topic naturally.
 
-- Create **7 informative videos**  
-- Each video should be **10 minutes long**  
-- Students could choose any topic  
-- Videos should be recorded while speaking directly in front of the camera  
+At that stage, I had already completed a 5-minute vlog on **“Importance of Education in Our Society”**, a 10-minute informative video on **Use of AI**, and another 10-minute video discussing **My Hostel Experience**. I planned to complete the remaining recordings during the weekend because managing both academic tasks and communication activities together required proper time management.
 
-In addition, we also had to create:
+At the same time, another important responsibility was related to my CM Honours Scholarship documentation process. My father sent the required documents to the university administration block through TCS, but one important issue still remained because the documents required verification stamps from a Notary Public Officer.
 
-- One separate **5-minute formal video**  
-- Wear formal dressing  
-- Record the video while walking in an open or beautiful location  
-- Another student would record the video while we walked and spoke  
+When my father checked the charges in my hometown Mandi Bahauddin, the costs were surprisingly high. One stamp cost around 1500 rupees, while two documents would require almost 3000 rupees. Later, I asked about the same process in Faisalabad and discovered that the charges there were much lower.
 
-Currently, I have completed:
+Instead of spending unnecessary money, I advised my father to complete only the remaining paperwork and leave the stamping process for me to handle personally after receiving the documents.
 
-- One 5-minute vlog on **“Importance of Education in Our Society”**  
-- One 10-minute video on **Use of AI**  
-- One 10-minute video on **My Hostel Experience**  
+After collecting the documents, my friend Tahir Shirazi and I travelled to Khurrianwala using the university route bus. The journey itself became an interesting experience because it was part of handling official responsibilities independently for the first time at university level. After completing the documentation process successfully, we ate samosas from a local shop before returning to the university through a loader rickshaw lift.
 
-I planned to record the remaining videos during the weekend.
+The following day, I finally submitted all scholarship documents successfully after completing every required formality. This entire experience taught me practical lessons beyond academics, including financial decision-making, communication, coordination, and handling official responsibilities independently.
 
-At the same time, I was also completing the final process of my CM Honours Scholarship documentation.
+Along with these activities, our Object-Oriented Programming lab teacher also assigned us a mini project based on a **University Admission Management System** developed in C#. The project followed a layered structure involving the Presentation Layer, Business Logic Layer, and Data Layer.
 
-My father sent the required documents through TCS to the university administration block. However, one important issue still remained because the documents required a stamp from a Notary Public Officer.
-
-When my father checked the charges in my hometown Mandi Bahauddin, the cost was very high:
-
-- 1500 rupees for one stamp  
-- 3000 rupees for two documents  
-
-Later, I asked about the same process in Faisalabad, where the cost was much lower. Instead of spending unnecessary money, I advised my father to complete the remaining paperwork only and leave the stamping process for me.
-
-After receiving the documents, me and my friend Tahir Shirazi travelled to Khurrianwala, a small city near the university, using the university route bus.
-
-After completing the documentation work, we ate samosas from a local shop and returned to the university by taking a loader rickshaw lift.
-
-The next day, I successfully submitted all scholarship documents because every requirement had finally been completed.
-
-This experience taught me:
-
-- Financial decision-making  
-- Problem-solving  
-- Managing official responsibilities independently  
-- Communication and coordination skills
-
-Along with these activities, our Object-Oriented Programming lab teacher also assigned us a mini project based on a **University Admission Management System** in C# using:
-
-- Presentation Layer  
-- Business Logic Layer  
-- Data Layer  
-
-The project was designed to:
-
-- Manage student admissions  
-- Calculate merit lists  
-- Register subjects  
-- Store and display related information  
+The system was designed to manage student admissions, calculate merit lists, register subjects, and store related information properly. This assignment helped strengthen our understanding of structured software development and multi-layered application design in practical programming environments.
 
 ### Database Project Selection and Practical Learning
 
-One of the most important academic challenges during this period was related to our Database Systems project.
+One of the most important academic challenges during this phase was related to our Database Systems project. Our teacher, Dr. Bilal, instructed every group to finalize and approve a suitable dataset because the same dataset would later be used for Machine Learning-related work as well.
 
-Our teacher, Dr. Bilal, instructed us to finalize and approve our project dataset. The teacher explained several important conditions for dataset selection:
+The teacher explained several important conditions for dataset selection. According to him, the dataset had to be real rather than artificially generated, contain a meaningful target variable for prediction, and represent a problem with practical significance and impact.
 
-- The dataset must be real, not artificially generated  
-- It should contain a proper target variable for prediction  
-- The problem should be meaningful and impactful  
-- The same dataset would later be used for Machine Learning tasks  
+Initially, our group selected a UK road accident dataset because it contained detailed information related to traffic accidents and environmental conditions. We discussed several prediction ideas including accident timing prediction, weather condition prediction, accident speed estimation, and injury level prediction during accidents.
 
-Initially, our group selected a UK road accident dataset.
+However, when we discussed these ideas with the teacher, he explained that many of the proposed prediction variables were not strong enough because several outcomes could already be assumed from existing conditions present in the dataset. As a result, our dataset selection was rejected.
 
-We planned several prediction ideas, including:
+Due to this rejection, our group received only **10 out of 20** marks for the lab evaluation, which became disappointing for us because we had already invested time exploring the dataset and discussing possible project ideas.
 
-- Predicting accident timing  
-- Predicting weather conditions  
-- Predicting accident speed  
-- Predicting injury levels during accidents  
+During the next Database lab session, we practiced important relational algebra concepts including Selection and Projection along with their SQL implementations. These practical activities improved our understanding of database querying and relational operations.
 
-However, when we discussed these ideas with the teacher, he explained that these predictions were not strong enough as target variables because many outcomes could already be assumed from existing conditions.
+At the same time, the teacher suggested that we should consider working on a criminal dataset because it contained stronger and more meaningful prediction variables suitable for future Machine Learning tasks. Although we explored several possible ideas during the lab, we still could not finalize the dataset because of limited time.
 
-As a result:
+Before ending the class, the teacher warned us that failure to approve the dataset in the following week could also affect our Database theory project marks. This warning increased pressure on our group because the project had now become directly connected with both lab and theory evaluations.
 
-- Our dataset was rejected  
-- We received only **10 out of 20** marks for lab evaluation  
-
-During the next Database lab, we practiced:
-
-- Selection in Relational Algebra  
-- Projection in Relational Algebra  
-- SQL implementation of both operations  
-
-At the same time, our teacher suggested that we should work on a criminal dataset because it contained stronger prediction variables.
-
-Although we explored several possible target variables during the lab, we could not finalize the dataset because of limited time.
-
-Before ending the lab, the teacher warned us that if the dataset was not approved in the next week, our Database theory project marks could also be affected.
-
-Overall, this phase of university life improved my technical knowledge, communication abilities, and responsibility management skills while teaching me how to balance multiple academic tasks together.
+Overall, this phase of university life became a combination of quizzes, coding pressure, communication activities, official responsibilities, project selection challenges, and practical technical learning. Managing all these tasks together improved my communication confidence, programming skills, decision-making ability, and responsibility management while teaching me how to balance multiple academic challenges simultaneously.
