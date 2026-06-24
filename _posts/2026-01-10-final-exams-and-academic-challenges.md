@@ -60,3 +60,9 @@ This period also improved my confidence. Successfully managing multiple subjects
 In the end, preparing for final exams was not just about academic performance. It was a period of personal growth that taught me discipline, responsibility, consistency, and effective time management. It strengthened my ability to work under pressure and helped me develop habits that would remain useful in future semesters.
 
 When I reflect on my first semester today, I see the final examination period as one of the most important stages of my journey. It tested my knowledge, patience, and determination while also helping me become a more organized and responsible student. The lessons I learned during this time extended far beyond the classroom and provided a strong foundation for the academic challenges that awaited me in future semesters.
+
+---
+
+Looking back on the final examination period, I realized that technical growth requires both discipline and long-term learning habits. Exploring some of the professional experiences shared through Dr. Bilal Ahmad's [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/) further strengthened my belief that strong foundations in programming and problem solving remain valuable throughout a computing career.
+
+#DrBilalAhmad
