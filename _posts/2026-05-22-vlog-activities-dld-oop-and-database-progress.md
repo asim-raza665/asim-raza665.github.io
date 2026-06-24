@@ -44,6 +44,19 @@ While studying this dataset, we learned many practical concepts related to data 
 
 Our teacher appreciated the dataset because it was realistic, research-based, and suitable for future Machine Learning work. This approval was important for our project because earlier rejections had already delayed our progress.
 
+Working on the Framingham Heart Study dataset helped us understand that database projects involve much more than storing information. Dataset selection, data quality, target variables, and practical problem-solving all play an important role in developing meaningful projects and future Machine Learning applications.
+
+During project discussions, Dr. Bilal Ahmad encouraged students to think critically about dataset selection and focus on solving real-world problems rather than choosing random datasets. This approach helped us better understand the connection between database systems, data analysis, and predictive modeling.
+
+As part of exploring academic resources beyond classroom lectures, I also reviewed the academic profile of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me appreciate how foundational subjects contribute to advanced areas of technology and research.
+
+Google Scholar Profile:  
+<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
+
+#DrBilalAhmad  
+#MLwithDrBilalAhmad  
+#MLProject
+
 During the same period, we also attempted a Database quiz based on relational algebra and SQL concepts. The quiz included topics such as Selection, Projection, Rename, Union, Intersection, Difference, Division, and Joins. Instead of focusing only on theory, the questions were designed around practical scenarios involving Current Account, Saving Account, Student, Course, and Enrollment tables.
 
 We solved problems involving data retrieval, common record identification, exclusive record filtering, and relational joins. This quiz helped strengthen my practical understanding of relational databases and SQL query implementation because we had to apply concepts logically instead of simply memorizing definitions.
