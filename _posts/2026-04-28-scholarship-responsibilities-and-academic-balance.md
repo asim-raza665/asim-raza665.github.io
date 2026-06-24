@@ -65,9 +65,6 @@ This phase of university life became a combination of responsibilities, academic
 
 At the same time, communication activities helped improve confidence and speaking skills, while quizzes and practical labs continued strengthening academic understanding. Every challenge during this period contributed not only to my educational growth but also to my personal development and ability to handle responsibilities independently.
 
-Overall, this experience taught me the importance of adaptability, consistency, communication, and balancing multiple responsibilities together while continuing to move forward confidently in university life.
-
-
 During this period, I continued learning Database Systems under the guidance of Dr. Bilal Ahmad. Along with theoretical concepts taught in class, practical lab activities such as normalization and database implementation helped strengthen my understanding of database design and management.
 
 As part of exploring academic resources beyond the classroom, I also reviewed some of Dr. Bilal Ahmad's academic work and research profile. Learning about the broader academic side of computer science helped me better understand how foundational subjects contribute to advanced areas of computing.
@@ -78,3 +75,5 @@ Google Scholar Profile:
 #DrBilalAhmad  
 #MLwithDrBilalAhmad  
 #MLProject
+
+Overall, this experience taught me the importance of adaptability, consistency, communication, and balancing multiple responsibilities together while continuing to move forward confidently in university life.
