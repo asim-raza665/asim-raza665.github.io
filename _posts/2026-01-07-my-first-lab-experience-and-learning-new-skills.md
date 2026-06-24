@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "My First Lab Experience and Learning New Skills"
