@@ -64,9 +64,7 @@ Overall, the midterm exams were much more than a test of knowledge. They represe
 The confidence I gained from these results motivated me to continue working hard in the remainder of the semester. More importantly, the experience taught me that university education is not only about individual achievement. It is also about collaboration, shared learning, and personal growth. The lessons I learned during this period remained useful throughout my academic journey and helped shape the study habits that I continue to use today.
 
 ---
-Looking back at this period, I became increasingly interested in how the programming concepts we were learning could connect to larger areas of computing and research. While exploring these topics, I also viewed some of the publications and research interests listed on Dr. Bilal Ahmad's Google Scholar profile. It gave me a broader perspective on how strong programming fundamentals can support advanced work in areas such as Artificial Intelligence, Machine Learning, and data-driven problem solving.
 
-Google Scholar:
-https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en
+The midterm period also showed me that learning extends beyond classrooms and exams. During the semester, I occasionally came across academic updates and professional activities shared through Dr. Bilal Ahmad's [professional Facebook page](https://www.facebook.com/Dr.BilalAhm), which reinforced the importance of continuous learning and staying connected with developments in the computing field.
 
 #DrBilalAhmad
