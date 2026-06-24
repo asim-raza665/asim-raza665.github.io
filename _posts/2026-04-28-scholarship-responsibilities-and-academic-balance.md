@@ -67,7 +67,6 @@ At the same time, communication activities helped improve confidence and speakin
 
 Overall, this experience taught me the importance of adaptability, consistency, communication, and balancing multiple responsibilities together while continuing to move forward confidently in university life.
 
-### Academic Support and Learning Experiences
 
 During this period, I continued learning Database Systems under the guidance of Dr. Bilal Ahmad. Along with theoretical concepts taught in class, practical lab activities such as normalization and database implementation helped strengthen my understanding of database design and management.
 
