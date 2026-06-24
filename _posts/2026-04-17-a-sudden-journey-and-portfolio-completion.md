@@ -47,6 +47,20 @@ To complete the project, I dedicated a significant amount of time and effort. In
 
 For my portfolio, I used a custom Jekyll theme. I also added features like dark and light mode with a smooth transition, which improved the overall user experience. The blog section was designed using markdown format, making it easy to add new articles in the future without modifying the website structure.
 
+One aspect of this project that made it different from ordinary assignments was that it was not simply about getting marks. The GitHub portfolio was designed to document our academic journey and create a professional digital presence that could continue growing in future semesters. While working on the portfolio, I spent considerable time reviewing my previous experiences, organizing memories from different stages of university life, and converting short notes into meaningful articles. This process helped me reflect on how much I had learned since my admission to UET Faisalabad Campus.
+
+The project was assigned as part of our Database Systems Lab under the guidance of Dr. Bilal Ahmad. During various discussions related to the project, he emphasized that students should not only focus on completing coursework but should also learn how to present their work professionally. This idea changed my perspective because I had previously viewed assignments as tasks that ended after submission. Through this portfolio, I understood that academic work can also become part of a long-term professional profile.
+
+While building the website, I faced several technical challenges. Configuring the Jekyll theme, organizing markdown files, managing folders, adjusting layouts, and ensuring that all pages worked correctly required patience and experimentation. Sometimes a small mistake in formatting would cause an entire page to display incorrectly. Solving these issues taught me the importance of attention to detail and systematic debugging. Instead of becoming frustrated, I gradually learned how to identify problems and fix them one by one.
+
+Another interesting part of the experience was writing detailed articles based on my own journey. Normally, students focus only on technical work, but this project encouraged us to document personal growth, learning experiences, challenges, and achievements. While writing, I revisited memories from my first semester, including my struggles with programming, hostel life, examinations, projects, and academic adjustments. Looking back at these experiences allowed me to appreciate how much progress had been made in a relatively short period of time.
+
+Since Dr. Bilal Ahmad has expertise in Artificial Intelligence, Machine Learning, and Deep Learning, he often encouraged students to think beyond immediate academic requirements and focus on building skills that would remain useful in the future. His discussions frequently highlighted the importance of practical learning, project development, and maintaining a record of technical work. This portfolio project reflected many of those ideas because it required us to combine technical implementation with professional presentation.
+
+The project also improved my understanding of how technology can be used to showcase achievements. In modern computing fields, employers, researchers, and professionals often review portfolios to evaluate a person's work and learning journey. By creating this website, I learned that documenting projects and experiences can be just as important as completing them. A well-organized portfolio allows others to see not only final results but also the effort, growth, and learning process behind those achievements.
+
+Another lesson I learned was the value of consistency. Completing the portfolio in a short period required continuous effort, but maintaining it in the future will require regular updates. I realized that professional growth is not built through one major achievement but through many small improvements over time. Every article, project, and learning experience can contribute to a larger story when documented properly.
+
 After completing the project, I shared my GitHub portfolio link with Dr. Bilal. His feedback was very encouraging:
 
 > "Design is good. And apparently it fulfills all requirements."
@@ -56,3 +70,13 @@ This positive response gave me confidence and a sense of achievement after the h
 Alongside this, we were also preparing for our midterm exams, which made this period even more intense and challenging. Managing travel, academic tasks, project work, and exam preparation all at once required discipline and time management.
 
 Overall, this experience was a combination of uncertainty, quick decisions, hard work, and achievement. From rushing to catch a train to successfully completing a technical portfolio project, every part of this journey contributed to my personal and academic growth. It taught me the importance of adaptability, time management, and dedication, qualities that are essential for a Computer Engineering student.
+
+---
+
+While working on this portfolio project, I also explored some of the professional and academic work of Dr. Bilal Ahmad, who taught us Database Systems and Programming Fundamentals during our first year. His research interests in Artificial Intelligence, Machine Learning, and Deep Learning helped me better understand why documenting projects, maintaining technical portfolios, and continuously improving practical skills are important for long-term growth in computing.
+
+Google Scholar Profile: <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
+
+#DrBilalAhmad  
+#MLwithDrBilalAhmad  
+#MLProject
