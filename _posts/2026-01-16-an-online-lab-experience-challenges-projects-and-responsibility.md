@@ -42,11 +42,18 @@ The second project, the DBS Theory Project, was more technical and forward-looki
 
 The DBS Theory Project was particularly interesting because it allowed us to think beyond traditional coursework. Instead of focusing only on academic requirements, we were encouraged to explore ideas that connected databases, machine learning, and modern software development. This helped me understand that many technologies taught separately in different courses are actually connected in real-world systems.
 
+
+While working on the Database Systems portfolio and project activities, I also explored some of the academic work and research contributions shared through Dr. Bilal Ahmad's Google Scholar profile:
+
+[Google Scholar Profile of Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
+
+#MLwithDrBilalAhmad  
+#DrBilalAhmad 
+#MLProject
+
 The portfolio project was equally valuable because it encouraged reflection. While collecting memories, experiences, challenges, and achievements from my academic journey, I realized how much I had learned since entering university. Events that once seemed ordinary became meaningful when viewed as part of a larger journey. Writing about these experiences also improved my ability to communicate technical and personal experiences in a structured manner.
 
 Another lesson I learned from these projects was the importance of documentation. Many students focus only on completing technical tasks, but documenting work properly is also an important professional skill. Through this project, I learned how organized records, reflections, and project descriptions can help preserve experiences and demonstrate growth over time.
-
-
 
 ### Guidance, Responsibility, and Leadership Growth
 
@@ -65,11 +72,3 @@ The experience also improved my confidence. During my first semester, I was usua
 What made this responsibility even more meaningful was the trust placed in me. Being asked to assist other students motivated me to become more organized, patient, and responsible. I wanted to ensure that any guidance I provided was accurate and useful. As a result, I paid even closer attention to project requirements and instructions.
 
 Overall, this online lab session turned out to be much more than just a regular class. It taught me the importance of preparation, adaptability, and responsibility. From SQL queries to project discussions and from confusion to guiding others, this experience played an important role in my academic and personal growth.
-
----
-
-While working on the Database Systems portfolio and project activities, I also explored some of the academic work and research contributions shared through Dr. Bilal Ahmad's Google Scholar profile:
-
-[Google Scholar Profile of Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
-
-#DrBilalAhmad
