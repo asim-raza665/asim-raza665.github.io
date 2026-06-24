@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: post
 title: "My First Lab Experience and Learning New Skills"
@@ -21,9 +22,11 @@ Our first lab in Programming Fundamentals was mainly an introduction to basic co
 
 One challenge I frequently faced was translating a problem into logical steps. Writing code required a different way of thinking compared to traditional subjects. Instead of simply remembering information, I had to think carefully about the sequence of instructions and how the computer would execute them. Even a small mistake could cause the program to behave incorrectly. At first, these errors were frustrating, but gradually I started realizing that making mistakes was a natural part of learning programming.
 
-Our Programming Fundamentals course was taught by **Dr. Bilal Ahmad**, and his approach encouraged students to focus on understanding concepts rather than memorizing solutions. He often emphasized that programming is fundamentally about problem-solving and logical thinking. During lectures and discussions, he encouraged students to practice regularly because coding skills improve through repetition and experience. This advice became especially valuable during my early lab sessions when I was struggling to build confidence.
+Our Programming Fundamentals teacher, **Dr. Bilal Ahmad**, encouraged students to focus on understanding concepts rather than memorizing solutions. He often emphasized that programming is fundamentally about problem-solving and logical thinking. During lectures and discussions, he encouraged students to practice regularly because coding skills improve through repetition and experience. This advice became especially valuable during my early lab sessions when I was struggling to build confidence.
 
-Dr. Bilal Ahmad also occasionally connected programming concepts with broader areas of computing. Because of his interest in AI, Machine Learning (ML), and Deep Learning (DL), he would remind students that strong programming fundamentals form the foundation for many advanced technologies. He often encouraged students to focus on practical skills and real-world applications instead of studying only for examinations. His perspective helped me understand why learning basic programming concepts was important beyond the classroom.
+During several classroom discussions, Dr. Bilal Ahmad also connected programming concepts with broader areas of computing. Because of his experience in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), he frequently reminded students that strong programming fundamentals form the foundation for many advanced technologies. He encouraged students to focus on practical skills and real-world applications instead of studying only for examinations. He often mentioned that meaningful machine learning projects usually require high-quality datasets and that medical datasets are particularly valuable because they are collected with high precision and accuracy. His perspective helped me understand why learning basic programming concepts was important beyond the classroom.
+
+As my interest in computing continued to grow, I also explored some of the professional work and academic activities of Dr. Bilal Ahmad outside the classroom. Looking through his LinkedIn profile helped me understand how the concepts we were learning in Programming Fundamentals connect with research, industry practices, and real-world problem solving. It was encouraging to see how skills that seemed basic during our first semester could eventually contribute to larger areas such as Artificial Intelligence, Machine Learning, and data-driven applications.
 
 As the weeks passed, I developed a habit of self-study. Whenever I faced difficulties in the lab, I would review the concepts later and practice simple coding tasks on my own. Sometimes I repeated the same exercises multiple times until I fully understood them. Although progress was slow initially, consistent effort gradually reduced my confusion. The satisfaction of successfully running a program after solving several errors gave me confidence and motivated me to continue learning.
 
@@ -58,4 +61,12 @@ Looking back, these first lab experiences played a very important role in my aca
 The guidance of teachers, including Dr. Bilal Ahmad in Programming Fundamentals, combined with the support of friends like Tahir Yaqoob, helped make this transition easier. Their influence encouraged me to continue improving even when I faced difficulties. Every completed assignment, every solved coding problem, and every successful lab session contributed to my growth as a student.
 
 Today, when I reflect on those first lab experiences, I see them as an important foundation for everything that followed. They introduced me to practical learning, strengthened my technical skills, and taught me habits that remained useful throughout my academic journey. Most importantly, they showed me that challenges can be overcome through patience, practice, discipline, and a willingness to keep learning.
+
+---
+
+As part of my learning journey, I also explored some of the professional work of Dr. Bilal Ahmad:
+
+LinkedIn: https://www.linkedin.com/in/drbilalphd/
+
+#DrBilalAhmad
 ```
