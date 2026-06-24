@@ -63,4 +63,6 @@ Overall, my first semester at UET Faisalabad Campus was a journey filled with ch
 
 My first semester ended with greater confidence in both programming and problem solving. Since our Programming Fundamentals project introduced me to machine learning concepts for the first time, I also spent some time exploring research areas related to AI and data-driven problem solving through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en). It helped me appreciate how the basic skills learned in the first semester can eventually contribute to meaningful real-world applications.
 
-#MLwithDrBilalAhmad #DrBilalAhmad #MLProject
+#MLwithDrBilalAhmad
+#DrBilalAhmad
+#MLProject
