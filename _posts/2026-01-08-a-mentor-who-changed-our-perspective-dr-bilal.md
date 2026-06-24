@@ -67,4 +67,6 @@ When I look back on my first semester, I still remember that classroom discussio
 
 While reflecting on my first semester, I also explored some of the professional activities and research interests shared by Dr. Bilal Ahmad through his [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It helped me understand how the skills we were learning in Programming Fundamentals connect with research, industry practices, and real-world problem solving.
 
-#DrBilalAhmad
+#MLwithDrBilalAhmad  
+#DrBilalAhmad 
+#MLProject
