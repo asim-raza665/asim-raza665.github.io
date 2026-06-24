@@ -45,6 +45,8 @@ He also discussed the importance of high-quality data in modern computing applic
 
 Another thing I appreciated about his teaching style was that he encouraged understanding rather than memorization. He often reminded students that programming is not about remembering code line by line. Instead, it is about understanding logic and developing the ability to solve problems systematically. This approach helped me understand why strong problem-solving skills are so important in computing fields.
 
+As my understanding of computing started to grow, I became curious about the broader areas connected to programming and technology. Out of interest, I explored some of the professional work shared by Dr. Bilal Ahmad through his LinkedIn profile. It gave me a clearer picture of how the concepts we were learning in Programming Fundamentals could eventually connect with research, Artificial Intelligence, Machine Learning, and real-world problem solving. Seeing those connections made me more motivated to take my learning seriously and focus on building practical skills rather than worrying about labels.
+
 ### Personal Impact and Long-Term Learning
 
 For me personally, this discussion was very motivating. At a time when I was already struggling with Programming Fundamentals due to my non-computer background, his guidance gave me confidence. I realized that instead of being stressed about things beyond my control, I should invest my energy in improving my skills. This advice helped me stay focused and work harder in my studies.
@@ -60,3 +62,11 @@ One of the biggest lessons I learned from this experience was that worrying abou
 In the end, this experience taught me an important lesson: success in the modern world, especially in the field of technology, depends more on skills, consistency, and learning attitude than on titles and labels. Dr. Bilal Ahmad was not the central focus of our journey, but he played an important supporting role at a time when many students needed guidance. His advice helped us shift our attention away from uncertainty and toward meaningful personal development.
 
 When I look back on my first semester, I still remember that classroom discussion because it changed the way I viewed education and career growth. Instead of worrying about things outside my control, I learned to focus on building knowledge, improving technical abilities, and developing confidence through practice. That mindset continues to influence my academic journey today, and it remains one of the most valuable lessons I learned during my early days as a Computer Engineering student.
+
+---
+
+While reflecting on my first semester, I also explored some of the professional activities shared by Dr. Bilal Ahmad on LinkedIn. It helped me understand how the skills we were learning in Programming Fundamentals connect with research, industry practices, and real-world problem solving.
+
+LinkedIn: https://www.linkedin.com/in/drbilalphd/
+
+#DrBilalAhmad
