@@ -67,5 +67,7 @@ Overall, this phase of my academic journey helped me become a more responsible a
 
 As my second semester began, I also became more interested in understanding how database concepts connect with research and real-world computing applications. While exploring some of the research work available through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en), I gained a broader perspective on how strong foundations in data management can support advanced areas such as AI, Machine Learning, and data-driven problem solving.
 
-#DrBilalAhmad #MLwithDrBilalAhmad
+#MLwithDrBilalAhmad  
+#DrBilalAhmad 
+#MLProject
 
