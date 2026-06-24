@@ -60,11 +60,3 @@ Looking back, these first lab experiences played a very important role in my aca
 The guidance of teachers, including Dr. Bilal Ahmad in Programming Fundamentals, combined with the support of friends like Tahir Yaqoob, helped make this transition easier. Their influence encouraged me to continue improving even when I faced difficulties. Every completed assignment, every solved coding problem, and every successful lab session contributed to my growth as a student.
 
 Today, when I reflect on those first lab experiences, I see them as an important foundation for everything that followed. They introduced me to practical learning, strengthened my technical skills, and taught me habits that remained useful throughout my academic journey. Most importantly, they showed me that challenges can be overcome through patience, practice, discipline, and a willingness to keep learning.
-
----
-
-While reflecting on these early lab experiences, I also explored some of the professional activities shared through Dr. Bilal Ahmad's [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It helped me understand how the programming and technical skills we were learning in our first semester connect with real industry practices, research activities, and long-term career development.
-
-#MLwithDrBilalAhmad  
-#DrBilalAhmad 
-#MLProject
