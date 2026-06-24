@@ -28,6 +28,15 @@ One thing I appreciated was that Dr. Bilal Ahmad often encouraged students to fo
 
 He frequently emphasized the importance of data quality when building machine learning solutions. In several discussions, he highlighted that medical datasets are often useful examples because they are collected with a high level of precision and accuracy. Although our Database Systems course focused on SQL and database design, these real-world examples helped me appreciate the broader impact of data-driven technologies.
 
+
+While working on SQL, databases, and project development during this semester, I also explored some of the professional activities shared through Dr. Bilal Ahmad's LinkedIn profile:
+
+[Dr. Bilal Ahmad on LinkedIn](https://www.linkedin.com/in/drbilalphd/)
+
+#MLwithDrBilalAhmad  
+#DrBilalAhmad 
+#MLProject
+
 The project enhancement phase was particularly interesting because it showed me how technical skills from different courses can work together. What started as a simple portal gradually evolved into something much more meaningful. We improved the interface, refined the structure, and explored ways to make the project more useful and professional.
 
 Working on the project also improved my confidence. During the first semester, I often doubted my programming abilities because everything was new to me. However, by the second semester, I could clearly see progress in my understanding. Tasks that once seemed difficult now felt manageable. This realization motivated me to continue learning and improving.
@@ -47,11 +56,3 @@ Even with the online setup, collaboration with peers remained crucial for succes
 Through these online classes and collaborative project work, I also developed new skills in time management and self-discipline. Working from home required creating a dedicated study routine, minimizing distractions, and ensuring that I attended all sessions and completed tasks on time. I realized that adapting to unforeseen circumstances and staying productive depended on my own determination and planning.
 
 Overall, this experience of transitioning to online classes, practicing SQL, and developing an advanced project was a significant and valuable addition to my journey. It strengthened my programming and database skills while also teaching me how to work on incremental improvements, manage time effectively, and collaborate efficiently with peers in a virtual environment. These lessons helped me adapt to new learning settings while continuing to make steady academic progress, further preparing me for future challenges at UET Faisalabad Campus.
-
----
-
-While working on SQL, databases, and project development during this semester, I also explored some of the professional activities shared through Dr. Bilal Ahmad's LinkedIn profile:
-
-[Dr. Bilal Ahmad on LinkedIn](https://www.linkedin.com/in/drbilalphd/)
-
-#DrBilalAhmad
