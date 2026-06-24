@@ -52,6 +52,19 @@ He listed topics such as WordPress installation, database creation in WordPress,
 
 His explanation removed much of the confusion and helped students understand that the final lab manual would be prepared by organizing knowledge already covered throughout the semester rather than learning entirely new content. This discussion also reminded me to keep all previous lab work organized so that manual preparation would become easier later.
 
+Working on the Framingham Heart Study dataset and applying normalization concepts helped me realize how database systems connect theory with real-world problem solving. Throughout the project development process, we learned that database design is not only about storing information but also about organizing data efficiently for analysis, reporting, and future applications.
+
+The project also strengthened my understanding of concepts such as normalization, database structure planning, and practical SQL implementation. By working with a real-world dataset containing thousands of records, I gained valuable experience that extended beyond traditional classroom exercises.
+
+As part of exploring academic resources beyond regular coursework, I also reviewed the academic profile of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced fields of technology and research.
+
+Google Scholar Profile:  
+<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
+
+#DrBilalAhmad  
+#MLwithDrBilalAhmad  
+#MLProject
+
 During the same period, our teacher also announced that the midterm papers had been checked. He conducted a poll asking students whether the result sheet should be shared in the group. Interestingly, most students voted against sharing the marks publicly, so the teacher decided not to upload the result sheet and instead informed us that we would be allowed to check our papers individually after physical classes resumed.
 
 ### OOP Game Planning, Eid Celebrations, and Returning Towards University
