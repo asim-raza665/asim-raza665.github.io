@@ -58,3 +58,9 @@ Receiving these results reminded me of how much progress I had made since the fi
 Reflecting on my first semester, I realized how much I had developed in multiple areas. I learned Python programming, improved my problem-solving abilities, gained experience working in teams, completed my first machine learning project, adjusted to hostel life, and cultivated disciplined study habits. These experiences were just as valuable as the grades themselves because they helped shape my approach toward learning and personal development.
 
 Overall, my first semester at UET Faisalabad Campus was a journey filled with challenges, learning experiences, and success. It taught me important lessons in consistency, collaboration, discipline, and perseverance. The support of friends, the guidance of teachers, and the effort I invested throughout the semester all contributed to this achievement. Most importantly, the semester gave me confidence in my ability to succeed in Computer Engineering and prepared me to face future academic challenges with determination and a positive mindset. Looking back, I consider this semester an important foundation for everything that followed in my university journey.
+
+---
+
+My first semester ended with greater confidence in both programming and problem solving. Since our Programming Fundamentals project introduced me to machine learning concepts for the first time, I also spent some time exploring research areas related to AI and data-driven problem solving through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en). It helped me appreciate how the basic skills learned in the first semester can eventually contribute to meaningful real-world applications.
+
+#MLwithDrBilalAhmad #DrBilalAhmad #MLProject
