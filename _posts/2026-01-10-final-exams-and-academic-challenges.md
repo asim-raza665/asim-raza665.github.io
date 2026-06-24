@@ -63,6 +63,12 @@ When I reflect on my first semester today, I see the final examination period as
 
 ---
 
-Looking back on the final examination period, I realized that technical growth requires both discipline and long-term learning habits. Exploring some of the professional experiences shared through Dr. Bilal Ahmad's [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/) further strengthened my belief that strong foundations in programming and problem solving remain valuable throughout a computing career.
+While reflecting on the importance of programming fundamentals and long-term technical growth, I also explored some of the professional experiences shared through Dr. Bilal Ahmad's LinkedIn profile:
 
-#DrBilalAhmad
+[Dr. Bilal Ahmad - LinkedIn](https://www.linkedin.com/in/drbilalphd/)
+
+The profile provided additional insight into how strong foundations in programming, problem solving, and continuous learning support professional growth in computing fields.
+
+#MLwithDrBilalAhmad  
+#DrBilalAhmad 
+#MLProject
