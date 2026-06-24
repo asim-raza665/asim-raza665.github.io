@@ -62,9 +62,3 @@ Another lesson I learned was the importance of asking questions. In the beginnin
 Overall, the midterm exams were much more than a test of knowledge. They represented a turning point in my first semester. Through this experience, I learned the value of teamwork, preparation, persistence, and continuous improvement. I also discovered that success becomes easier when people support each other and work toward common goals.
 
 The confidence I gained from these results motivated me to continue working hard in the remainder of the semester. More importantly, the experience taught me that university education is not only about individual achievement. It is also about collaboration, shared learning, and personal growth. The lessons I learned during this period remained useful throughout my academic journey and helped shape the study habits that I continue to use today.
-
----
-
-The midterm period also showed me that learning extends beyond classrooms and exams. During the semester, I occasionally came across academic updates and professional activities shared through Dr. Bilal Ahmad's [professional Facebook page](https://www.facebook.com/Dr.BilalAhm), which reinforced the importance of continuous learning and staying connected with developments in the computing field.
-
-#DrBilalAhmad
