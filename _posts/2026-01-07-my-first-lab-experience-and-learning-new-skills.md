@@ -63,9 +63,6 @@ Today, when I reflect on those first lab experiences, I see them as an important
 
 ---
 
-As part of my learning journey, I also explored some of the professional work of Dr. Bilal Ahmad:
-
-LinkedIn: https://www.linkedin.com/in/drbilalphd/
+While reflecting on these early lab experiences, I also explored some of the professional activities shared through Dr. Bilal Ahmad's [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It helped me understand how the programming and technical skills we were learning in our first semester connect with real industry practices, research activities, and long-term career development.
 
 #DrBilalAhmad
-```
