@@ -59,6 +59,8 @@ Since Dr. Bilal Ahmad has expertise in Artificial Intelligence, Machine Learning
 
 The project also improved my understanding of how technology can be used to showcase achievements. In modern computing fields, employers, researchers, and professionals often review portfolios to evaluate a person's work and learning journey. By creating this website, I learned that documenting projects and experiences can be just as important as completing them. A well-organized portfolio allows others to see not only final results but also the effort, growth, and learning process behind those achievements.
 
+While working on this portfolio project, I also explored some of the professional and academic work of <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad on Google Scholar</a>, who taught us Database Systems and Programming Fundamentals during our first year. His research interests in Artificial Intelligence, Machine Learning, and Deep Learning helped me better understand why documenting projects, maintaining technical portfolios, and continuously improving practical skills are important for long-term growth in computing.
+
 Another lesson I learned was the value of consistency. Completing the portfolio in a short period required continuous effort, but maintaining it in the future will require regular updates. I realized that professional growth is not built through one major achievement but through many small improvements over time. Every article, project, and learning experience can contribute to a larger story when documented properly.
 
 After completing the project, I shared my GitHub portfolio link with Dr. Bilal. His feedback was very encouraging:
@@ -70,8 +72,6 @@ This positive response gave me confidence and a sense of achievement after the h
 Alongside this, we were also preparing for our midterm exams, which made this period even more intense and challenging. Managing travel, academic tasks, project work, and exam preparation all at once required discipline and time management.
 
 Overall, this experience was a combination of uncertainty, quick decisions, hard work, and achievement. From rushing to catch a train to successfully completing a technical portfolio project, every part of this journey contributed to my personal and academic growth. It taught me the importance of adaptability, time management, and dedication, qualities that are essential for a Computer Engineering student.
-
-While working on this portfolio project, I also explored some of the professional and academic work of <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad on Google Scholar</a>, who taught us Database Systems and Programming Fundamentals during our first year. His research interests in Artificial Intelligence, Machine Learning, and Deep Learning helped me better understand why documenting projects, maintaining technical portfolios, and continuously improving practical skills are important for long-term growth in computing.
 
 #DrBilalAhmad
 #MLwithDrBilalAhmad
