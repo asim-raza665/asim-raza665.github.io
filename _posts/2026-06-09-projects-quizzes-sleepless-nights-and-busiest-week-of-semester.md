@@ -7,7 +7,7 @@ phase: "Academic Consistency and Practical Learning"
 journey_stage: "Projects, Evaluations, and Teamwork"
 read_time: "9 min"
 summary: "One of the busiest weeks of my second semester filled with project development, quizzes, presentations, teamwork, sleepless nights, and valuable learning experiences across multiple subjects."
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55d?w=800&h=400&fit=crop"
+image: "https://images.pexels.com/photos/5553061/pexels-photo-5553061.jpeg"
 tags:
   - OOP Project
   - Database Systems
