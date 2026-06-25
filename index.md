@@ -52,7 +52,7 @@ description: "A clean computer engineering portfolio homepage introducing my bac
   </div>
 </section>
 
-<section class="section-block" style="margin-top: 2.5rem;">
+<section class="section-block" style="margin-top: 4rem;">
   <div class="section-heading">
     <p class="eyebrow">About Me</p>
     <h2>Building a long-term journey in computer engineering</h2>
