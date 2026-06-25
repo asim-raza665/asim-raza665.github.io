@@ -88,15 +88,12 @@ The last exam was Communication Skills. Even after returning late from Faisalaba
 
 After completing all examinations, we left the university early in the morning on 15th April and traveled back home by train. Although the vacations were short, they provided a much-needed opportunity to rest, spend time with family, and recover from the intense academic schedule.
 
-As part of my learning journey in Database Systems, I also explored some of the academic and professional work of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about his academic interests helped me appreciate how foundational subjects such as programming and databases contribute to broader areas of computing and technology.
-
-Google Scholar Profile:  
-<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
-
-#DrBilalAhmad  
-#MLwithDrBilalAhmad  
-#MLProject
+As part of my learning journey in Database Systems, I also explored some of the academic and professional work of <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad on Google Scholar</a>, who taught us both Programming Fundamentals and Database Systems. Learning about his academic interests helped me appreciate how foundational subjects such as programming and databases contribute to broader areas of computing and technology.
 
 Overall, this midterm phase was a complete experience of learning, challenges, teamwork, and personal growth. From academic pressure to unexpected technical problems and even short trips with friends, everything became part of this memorable journey.
 
 It taught me valuable lessons about time management, careful planning, teamwork, adaptability, and staying calm under pressure. These lessons extend far beyond examinations and will continue to be useful in future academic and professional life. Looking back, the midterm experience was not only about achieving grades but also about developing skills and experiences that contribute to personal growth and long-term success.
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#MLProject

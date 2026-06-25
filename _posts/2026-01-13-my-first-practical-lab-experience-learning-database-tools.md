@@ -38,10 +38,6 @@ Dr. Bilal Ahmad often emphasized that understanding data is becoming increasingl
 
 As my understanding of databases continued to grow, I also became interested in how database technologies support research and intelligent computing systems. While exploring some academic and professional activities shared through Dr. Bilal Ahmad's [professional Facebook page](https://www.facebook.com/Dr.BilalAhm), I gained a broader appreciation for how strong data foundations contribute to modern computing applications.
 
-#MLwithDrBilalAhmad  
-#DrBilalAhmad 
-#MLProject
-
 The installation process also taught me patience. Technical work does not always proceed perfectly on the first attempt. Sometimes small configuration issues appear, and students must carefully identify and solve them. Learning how to remain calm and follow instructions systematically proved just as valuable as learning the software itself.
 
 I followed the instructions attentively and successfully installed both MySQL Server and MySQL Workbench on my system. During the installation, I also learned about basic configurations such as setting up a root password, understanding server connection, and launching the workbench interface. Although these steps seemed simple, they were very important because they created the foundation for all future database-related tasks.
@@ -61,3 +57,7 @@ Another lesson I learned was the value of asking questions whenever confusion ar
 Looking back, this first database lab was more important than it appeared at the time. It was not merely about installing software. It was about developing confidence, learning practical skills, and taking the first step toward understanding how professional database systems operate in real-world environments.
 
 Overall, this lab was a simple yet very important step in my academic journey. It marked the beginning of my practical understanding of databases and gave me confidence to handle more advanced tasks in the future.
+
+#MLwithDrBilalAhmad
+#DrBilalAhmad
+#MLProject

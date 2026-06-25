@@ -44,13 +44,7 @@ Studying online during Ramzan came with its own challenges. Managing time betwee
 
 During this period, one of the courses that continued online was Database Systems, taught by Dr. Bilal Ahmad. Since I had already developed an interest in databases during the semester break and early lab sessions, I tried to remain consistent even when classes shifted online. Dr. Bilal Ahmad often encouraged students to focus on understanding concepts rather than memorizing them. Because of his background in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), he occasionally connected classroom topics with practical applications where well-structured and reliable data plays an important role. His discussions reminded us that strong database knowledge forms the foundation of many modern computing systems.
 
-During this semester, I also explored some of the academic publications and research activities shared through Dr. Bilal Ahmad's Google Scholar profile:
-
-[Google Scholar Profile of Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
-
-#MLwithDrBilalAhmad  
-#DrBilalAhmad 
-#MLProject
+During this semester, I also explored some of the academic publications and research activities shared through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en). It helped me see how database concepts can connect with research, AI, Machine Learning, and real-world data problems rather than remaining only classroom theory.
 
 The transition to online learning also changed the way students interacted with teachers and classmates. In physical classes, it is easier to ask questions, participate in discussions, and remain focused throughout the lecture. Online classes required a different level of self-discipline because students were responsible for creating their own learning environment.
 
@@ -75,3 +69,7 @@ The friendships formed during this period also became more meaningful. Working t
 Even today, when I think about my second semester, Ramzan stands out as one of the most memorable phases. It combined spiritual reflection, personal responsibility, friendship, and academic challenges into a single experience that taught me valuable lessons about life and learning.
 
 Overall, this Ramzan became one of the most memorable phases of my university journey. It strengthened my independence, improved my ability to adjust to change, and gave me unforgettable memories with my roommates.
+
+#MLwithDrBilalAhmad
+#DrBilalAhmad
+#MLProject

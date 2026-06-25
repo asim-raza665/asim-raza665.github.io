@@ -48,14 +48,7 @@ Working on the Framingham Heart Study dataset helped us understand that database
 
 During project discussions, Dr. Bilal Ahmad encouraged students to think critically about dataset selection and focus on solving real-world problems rather than choosing random datasets. This approach helped us better understand the connection between database systems, data analysis, and predictive modeling.
 
-As part of exploring academic resources beyond classroom lectures, I also reviewed the academic profile of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me appreciate how foundational subjects contribute to advanced areas of technology and research.
-
-Google Scholar Profile:  
-<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
-
-#DrBilalAhmad  
-#MLwithDrBilalAhmad  
-#MLProject
+As part of exploring academic resources beyond classroom lectures, I also reviewed the <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">academic profile of Dr. Bilal Ahmad</a>, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me appreciate how foundational subjects contribute to advanced areas of technology and research.
 
 During the same period, we also attempted a Database quiz based on relational algebra and SQL concepts. The quiz included topics such as Selection, Projection, Rename, Union, Intersection, Difference, Division, and Joins. Instead of focusing only on theory, the questions were designed around practical scenarios involving Current Account, Saving Account, Student, Course, and Enrollment tables.
 
@@ -100,3 +93,7 @@ What made the situation more interesting was that my first online lecture was sc
 I wrote this article on Monday, 21 May 2026, shortly before attending that lecture.
 
 Overall, this week became a combination of communication activities, technical learning, practical implementation, project responsibilities, travel, and time management. From improving English speaking confidence and database understanding to handling challenging DLD labs and academic pressure, every experience contributed to my personal growth and practical learning journey as a Computer Engineering student.
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#MLProject

@@ -61,14 +61,8 @@ In the end, preparing for final exams was not just about academic performance. I
 
 When I reflect on my first semester today, I see the final examination period as one of the most important stages of my journey. It tested my knowledge, patience, and determination while also helping me become a more organized and responsible student. The lessons I learned during this time extended far beyond the classroom and provided a strong foundation for the academic challenges that awaited me in future semesters.
 
----
+While reflecting on the importance of programming fundamentals and long-term technical growth, I also explored some of the professional experiences shared through Dr. Bilal Ahmad's [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It provided additional insight into how strong foundations in programming, problem solving, and continuous learning support professional growth in computing fields.
 
-While reflecting on the importance of programming fundamentals and long-term technical growth, I also explored some of the professional experiences shared through Dr. Bilal Ahmad's LinkedIn profile:
-
-[Dr. Bilal Ahmad - LinkedIn](https://www.linkedin.com/in/drbilalphd/)
-
-The profile provided additional insight into how strong foundations in programming, problem solving, and continuous learning support professional growth in computing fields.
-
-#MLwithDrBilalAhmad  
-#DrBilalAhmad 
+#MLwithDrBilalAhmad
+#DrBilalAhmad
 #MLProject

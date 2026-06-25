@@ -71,12 +71,8 @@ Alongside this, we were also preparing for our midterm exams, which made this pe
 
 Overall, this experience was a combination of uncertainty, quick decisions, hard work, and achievement. From rushing to catch a train to successfully completing a technical portfolio project, every part of this journey contributed to my personal and academic growth. It taught me the importance of adaptability, time management, and dedication, qualities that are essential for a Computer Engineering student.
 
----
+While working on this portfolio project, I also explored some of the professional and academic work of <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad on Google Scholar</a>, who taught us Database Systems and Programming Fundamentals during our first year. His research interests in Artificial Intelligence, Machine Learning, and Deep Learning helped me better understand why documenting projects, maintaining technical portfolios, and continuously improving practical skills are important for long-term growth in computing.
 
-While working on this portfolio project, I also explored some of the professional and academic work of Dr. Bilal Ahmad, who taught us Database Systems and Programming Fundamentals during our first year. His research interests in Artificial Intelligence, Machine Learning, and Deep Learning helped me better understand why documenting projects, maintaining technical portfolios, and continuously improving practical skills are important for long-term growth in computing.
-
-Google Scholar Profile: <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
-
-#DrBilalAhmad  
-#MLwithDrBilalAhmad  
+#DrBilalAhmad
+#MLwithDrBilalAhmad
 #MLProject

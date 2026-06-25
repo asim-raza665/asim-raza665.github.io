@@ -78,13 +78,10 @@ A significant part of this period involved learning how real-world datasets are 
 
 Under the guidance of Dr. Bilal Ahmad, we learned that selecting a dataset is not only about finding available data but also about identifying a problem that has real-world value and can produce meaningful analytical results. This perspective helped us think more critically about project planning and research-oriented work.
 
-As part of exploring academic resources beyond the classroom, I also reviewed the academic profile of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced computing fields and modern technological applications.
-
-Google Scholar Profile:  
-<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
-
-#DrBilalAhmad  
-#MLwithDrBilalAhmad  
-#MLProject
+As part of exploring academic resources beyond the classroom, I also reviewed the <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">academic profile of Dr. Bilal Ahmad</a>, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced computing fields and modern technological applications.
 
 Overall, this phase of university life became a combination of quizzes, coding pressure, communication activities, official responsibilities, project selection challenges, and practical technical learning. Managing all these tasks together improved my communication confidence, programming skills, decision-making ability, and responsibility management while teaching me how to balance multiple academic challenges simultaneously.
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#MLProject

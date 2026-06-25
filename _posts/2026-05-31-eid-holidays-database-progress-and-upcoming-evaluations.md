@@ -56,14 +56,7 @@ Working on the Framingham Heart Study dataset and applying normalization concept
 
 The project also strengthened my understanding of concepts such as normalization, database structure planning, and practical SQL implementation. By working with a real-world dataset containing thousands of records, I gained valuable experience that extended beyond traditional classroom exercises.
 
-As part of exploring academic resources beyond regular coursework, I also reviewed the academic profile of Dr. Bilal Ahmad, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced fields of technology and research.
-
-Google Scholar Profile:  
-<a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Dr. Bilal Ahmad - Google Scholar</a>
-
-#DrBilalAhmad  
-#MLwithDrBilalAhmad  
-#MLProject
+As part of exploring academic resources beyond regular coursework, I also reviewed the <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">academic profile of Dr. Bilal Ahmad</a>, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced fields of technology and research.
 
 During the same period, our teacher also announced that the midterm papers had been checked. He conducted a poll asking students whether the result sheet should be shared in the group. Interestingly, most students voted against sharing the marks publicly, so the teacher decided not to upload the result sheet and instead informed us that we would be allowed to check our papers individually after physical classes resumed.
 
@@ -90,3 +83,7 @@ From there, we travelled by rickshaw to my aunt's house, where we spent time wit
 The next morning, after offering Fajr prayer, I began writing this article while preparing for my return journey towards the university. According to the plan, I would leave Mandi Bahauddin around 11:30 a.m., pick up friends along the route, and hopefully reach the university between 5:00 and 6:00 p.m.
 
 Overall, this holiday period became a combination of family responsibilities, religious celebrations, project development, academic preparation, and future planning. From working on database design and preparing communication presentations to exploring game development and spending time with family during Eid, every experience contributed to both my personal growth and academic journey as a Computer Engineering student.
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#MLProject
