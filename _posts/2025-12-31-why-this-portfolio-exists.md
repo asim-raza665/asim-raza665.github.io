@@ -15,7 +15,7 @@ tags:
   - Digital Footprint
 ---
 
-## Why This Portfolio Exists
+### Why This Portfolio Exists
 
 When I started my journey as a Computer Engineering student at UET Lahore Faisalabad Campus, I thought university life would mainly revolve around attending classes, completing assignments, preparing for exams, and maintaining good grades. While all of those things are important, I gradually realized that university is also about building experiences, developing technical skills, creating projects, and preparing for a professional future.
 
@@ -29,7 +29,7 @@ As I began collecting notes and writing articles, I realized how much had happen
 
 This portfolio is therefore much more than a website. It is a record of my academic journey, my challenges, my achievements, and my development as a future Computer Engineer.
 
-## How Building This Portfolio Benefited Me
+### How Building This Portfolio Benefited Me
 
 One of the biggest benefits of this project was that it encouraged reflection. During a busy semester, students often move from one task to another without stopping to evaluate their progress. While writing these articles, I revisited important moments that had shaped my university experience.
 
@@ -51,11 +51,11 @@ One aspect that I particularly appreciated was the flexibility of the project. R
 
 Through this project, I also learned the importance of documenting work. Many students complete excellent projects but fail to record their process, challenges, and achievements. Documentation not only preserves knowledge but also helps others learn from similar experiences. By sharing my journey, I hope future students may find useful insights and motivation for their own academic paths.
 
-## Looking Forward
+### Looking Forward
 
 As I continue my Computer Engineering journey, this portfolio will continue growing with me. Each semester will bring new challenges, new technologies, new projects, and new lessons. Instead of allowing those experiences to fade with time, I intend to document them here as part of my academic and professional development.
 
-Looking back, I am grateful that **Dr. Bilal Ahmad** introduced this idea through our Database Systems Lab project. What initially seemed like a normal assignment became one of the most meaningful projects of my university life. It taught me the value of reflection, documentation, professional presentation, and maintaining a digital footprint.
+Looking back, I am grateful that **Dr. Bilal Ahmad** introduced this idea through our Database Systems Lab project. While working on this portfolio, I also explored some of his professional and academic contributions, which helped me better understand the importance of maintaining a visible academic and technical presence. His professional profile on LinkedIn (https://www.linkedin.com/in/drbilalphd/) reflects his work in areas such as Artificial Intelligence, Machine Learning, Deep Learning, research, and higher education. What initially seemed like a normal assignment became one of the most meaningful projects of my university life. It taught me the value of reflection, documentation, professional presentation, and maintaining a digital footprint.
 
 I believe this portfolio will remain valuable long after graduation because it represents not only what I learned but also how I learned it. It captures the experiences, challenges, achievements, and growth that are shaping me into a Computer Engineer.
 
