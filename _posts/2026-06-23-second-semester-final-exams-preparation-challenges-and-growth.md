@@ -7,7 +7,7 @@ phase: "Final Examinations and Semester Completion"
 journey_stage: "Final Exams and Returning Home"
 read_time: "10 min"
 summary: "A challenging week of final examinations, group study sessions, sleepless nights, presentations, and the successful completion of my second semester journey."
-image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop"
+image: "https://images.pexels.com/photos/7092413/pexels-photo-7092413.jpeg"
 tags:
   - Final Exams
   - Group Study
