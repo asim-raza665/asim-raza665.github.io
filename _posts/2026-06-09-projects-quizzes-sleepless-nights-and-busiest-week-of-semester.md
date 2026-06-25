@@ -89,6 +89,8 @@ Although the workload was demanding, the project became one of the most rewardin
 
 Looking back, this project significantly strengthened my understanding of databases, improved my technical confidence, and introduced me to the practical side of Machine Learning integration. It also demonstrated the importance of teamwork, planning, documentation, and continuous learning when working on complex engineering projects.
 
+Overall, this week taught me that university success depends as much on time management as it does on technical knowledge. Handling multiple projects, quizzes, and presentations simultaneously showed me that consistent daily effort matters far more than last-minute preparation. Building Tiny Archer in Unity and developing the Coronary Heart Disease prediction system in the same week proved that stepping outside your comfort zone always leads to the most meaningful growth. Most importantly, I learned that when you combine database skills, machine learning, and real-world data, you stop being a student doing assignments and start becoming an engineer solving actual problems.
+
 #MLwithDrBilalAhmad
 #DrBilalAhmad
 #MLProject
