@@ -42,8 +42,6 @@ Alhamdulillah, the examination went well and gave me confidence for the remainin
 
 However, there was little time to celebrate because the next examination was scheduled immediately afterward. The absence of study breaks meant that preparation had to continue without interruption.
 
----
-
 ### Communication Skills, Statistics, Relative Grading Concerns, and Database Systems
 
 The next major examination was Communication Skills. The syllabus included topics such as the 7 Cs of communication, paragraph writing, unity, coherence, essay writing, communication barriers, and effective communication techniques.
@@ -85,8 +83,6 @@ However, when results were announced later, I received the highest marks in Data
 This achievement was especially meaningful because it reflected months of continuous effort rather than last-minute preparation. It confirmed that consistent practice, project work, and active participation throughout the semester had significantly strengthened my understanding of the subject.
 
 Receiving the highest marks in Database Systems became one of the most satisfying academic moments of my second semester.
-
----
 
 ### Digital Logic Design, Calculus, Presentation Success, and Returning Home
 
