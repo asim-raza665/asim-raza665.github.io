@@ -63,7 +63,6 @@ Looking back now, the beginning of my second semester was a combination of prepa
 
 Overall, this phase of my academic journey helped me become a more responsible and confident student. It showed me that success is often built on small decisions made before challenges appear. By preparing in advance, staying committed to learning, and seeking help when needed, I was able to adapt successfully and continue moving forward in my Computer Engineering journey.
 
----
 
 As my second semester began, I also became more interested in understanding how database concepts connect with research and real-world computing applications. While exploring some of the research work available through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en), I gained a broader perspective on how strong foundations in data management can support advanced areas such as AI, Machine Learning, Deep Learning, and data-driven problem solving.
 
