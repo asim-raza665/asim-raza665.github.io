@@ -28,6 +28,8 @@ description: "Browse my journey through folder-style sections and open each stag
       {% assign folder_last_post = folder_posts | last %}
       {% capture folder_description %}
         {% case folder_name %}
+          {% when "Portfolio Purpose" %}
+            The reason this GitHub portfolio exists, how the idea started, and how it supports my digital footprint.
           {% when "Admission Journey" %}
             Entry-test preparation, scholarship support, first arrival on campus, hostel life, and the first steps into university.
           {% when "1st Semester" %}
@@ -40,13 +42,13 @@ description: "Browse my journey through folder-style sections and open each stag
       {% endcapture %}
       <button class="folder-card" type="button" data-folder-target="{{ folder_slug }}" aria-pressed="false">
         <span class="folder-card__tab" aria-hidden="true"></span>
-        <span class="folder-card__label">Folder {{ forloop.index }}</span>
+        <span class="folder-card__label">{% if folder_name == "Portfolio Purpose" %}Featured{% else %}Folder {{ forloop.index }}{% endif %}</span>
         <strong>{{ folder_name }}</strong>
         <p>{{ folder_description | strip }}</p>
         <div class="folder-card__stats">
           <span>{{ folder_posts | size }} Articles</span>
           <span>{{ folder_tags | size }} Tags</span>
-          <span>Article {{ folder_first_post.sequence }} to {{ folder_last_post.sequence }}</span>
+          <span>{% if folder_name == "Portfolio Purpose" %}Featured Article{% else %}Article {{ folder_first_post.sequence }} to {{ folder_last_post.sequence }}{% endif %}</span>
         </div>
       </button>
     {% endfor %}
@@ -66,6 +68,8 @@ description: "Browse my journey through folder-style sections and open each stag
     {% assign folder_tags = folder_tags | uniq | sort %}
     {% capture folder_description %}
       {% case folder_name %}
+        {% when "Portfolio Purpose" %}
+          This featured article explains why I created this GitHub portfolio, how the idea came through Database Systems Lab, and why documenting my journey matters for my future.
         {% when "Admission Journey" %}
           This folder covers the road to admission, early campus transition, scholarship support, and the experiences that began my university life.
         {% when "1st Semester" %}
