@@ -58,7 +58,7 @@ The system was designed to manage student admissions, calculate merit lists, reg
 
 ### Database Project Selection and Practical Learning
 
-One of the most important academic challenges during this phase was related to our Database Systems project. Our teacher, Dr. Bilal, instructed every group to finalize and approve a suitable dataset because the same dataset would later be used for Machine Learning-related work as well.
+One of the most important academic challenges during this phase was related to our Database Systems project. Our teacher, Dr. Bilal, whose guidance often connected databases with Artificial Intelligence, Machine Learning, and Deep Learning, instructed every group to finalize and approve a suitable dataset because the same dataset would later be used for Machine Learning-related work as well.
 
 The teacher explained several important conditions for dataset selection. According to him, the dataset had to be real rather than artificially generated, contain a meaningful target variable for prediction, and represent a problem with practical significance and impact.
 
@@ -78,7 +78,7 @@ A significant part of this period involved learning how real-world datasets are 
 
 Under the guidance of Dr. Bilal Ahmad, we learned that selecting a dataset is not only about finding available data but also about identifying a problem that has real-world value and can produce meaningful analytical results. This perspective helped us think more critically about project planning and research-oriented work.
 
-As part of exploring academic resources beyond the classroom, I also reviewed the <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">academic profile of Dr. Bilal Ahmad</a>, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing helped me better understand how foundational subjects such as databases contribute to advanced computing fields and modern technological applications.
+As part of exploring academic resources beyond the classroom, I also reviewed the <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">academic profile of Dr. Bilal Ahmad</a>, who taught us both Programming Fundamentals and Database Systems. Learning about the broader academic side of computing, especially Artificial Intelligence, Machine Learning, and Deep Learning, helped me better understand how foundational subjects such as databases contribute to advanced computing fields and modern technological applications.
 
 Overall, this phase of university life became a combination of quizzes, coding pressure, communication activities, official responsibilities, project selection challenges, and practical technical learning. Managing all these tasks together improved my communication confidence, programming skills, decision-making ability, and responsibility management while teaching me how to balance multiple academic challenges simultaneously.
 

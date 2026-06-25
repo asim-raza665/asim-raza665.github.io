@@ -27,7 +27,7 @@ Looking back now, I realize that these concerns are common among first-year stud
 
 ### Guidance and Mindset Shift by Dr. Bilal Ahmad (PF Teacher)
 
-At that time, our Programming Fundamentals teacher, **Dr. Bilal Ahmad**, played a very important role in guiding us. He was not only a knowledgeable and intelligent teacher but also someone who understood the mindset of students. One day, he addressed this issue in class when he realized that many students were confused and worried. Instead of ignoring our concerns, he openly discussed them and gave us a very clear and practical perspective.
+At that time, our Programming Fundamentals teacher, **Dr. Bilal Ahmad**, whose academic interests include Artificial Intelligence, Machine Learning, and Deep Learning, played a very important role in guiding us. He was not only a knowledgeable and intelligent teacher but also someone who understood the mindset of students. One day, he addressed this issue in class when he realized that many students were confused and worried. Instead of ignoring our concerns, he openly discussed them and gave us a very clear and practical perspective.
 
 Dr. Bilal Ahmad explained that in fields like computer engineering and software-related domains, success does not depend solely on the title of “engineer” or registration with a particular council. He emphasized that the real value lies in skills. According to him, industries usually focus on what a person can do, what problems they can solve, how they think, and how effectively they can apply their knowledge. This perspective was different from many assumptions students had when they first entered university.
 
@@ -45,7 +45,7 @@ He also discussed the importance of high-quality data in modern computing applic
 
 Another thing I appreciated about his teaching style was that he encouraged understanding rather than memorization. He often reminded students that programming is not about remembering code line by line. Instead, it is about understanding logic and developing the ability to solve problems systematically. This approach helped me understand why strong problem-solving skills are so important in computing fields.
 
-As my understanding of computing started to grow, I became curious about the broader areas connected to programming and technology. Out of interest, I explored some of the professional work shared by Dr. Bilal Ahmad through his [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It gave me a clearer picture of how the concepts we were learning in Programming Fundamentals could eventually connect with research, Artificial Intelligence, Machine Learning, and real-world problem solving. Seeing those connections made me more motivated to take my learning seriously and focus on building practical skills rather than worrying about labels.
+As my understanding of computing started to grow, I became curious about the broader areas connected to programming and technology. Out of interest, I explored some of the professional work shared by Dr. Bilal Ahmad through his [LinkedIn profile](https://www.linkedin.com/in/drbilalphd/). It gave me a clearer picture of how the concepts we were learning in Programming Fundamentals could eventually connect with research, Artificial Intelligence, Machine Learning, Deep Learning, and real-world problem solving. Seeing those connections made me more motivated to take my learning seriously and focus on building practical skills rather than worrying about labels.
 
 ### Personal Impact and Long-Term Learning
 

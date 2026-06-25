@@ -35,7 +35,7 @@ We got off at Chak Jhumra before Faisalabad, from where our university was still
 
 The next day, academic activities resumed immediately. We had a Digital Logic Design quiz scheduled after one day. We prepared for it seriously, and Alhamdulillah, the quiz went well and was relatively easy for me.
 
-Along with regular classes, an important task was assigned to us in our Database Systems Lab. Our respected teacher, Dr. Bilal, instructed us to complete our GitHub portfolio project before the midterm exams. This project required us to properly structure our portfolio using a Jekyll theme and follow specific guidelines.
+Along with regular classes, an important task was assigned to us in our Database Systems Lab. Our respected teacher, Dr. Bilal, whose academic interests include Artificial Intelligence, Machine Learning, and Deep Learning, instructed us to complete our GitHub portfolio project before the midterm exams. This project required us to properly structure our portfolio using a Jekyll theme and follow specific guidelines.
 
 The main instructions included creating a well-organized website with four main sections: Home, About, Contact, and Blog. The home page was required to contain only static personal information, while all articles were to be placed in the blog section. Additionally, the blog needed to support a proper post system, allowing us to add new articles without changing the overall structure of the website. Another important requirement was the use of categories or tags so that related posts could be grouped and easily accessed.
 

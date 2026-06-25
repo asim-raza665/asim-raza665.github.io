@@ -35,7 +35,7 @@ I traveled to the main campus along with a few friends. The journey itself was m
 
 However, the interview coincided with some important academic activities back at our campus. As a result, I missed Database Systems lectures and a practical lab session. Initially, this worried me because missing classes during the early part of a semester can create gaps in understanding that become difficult to fill later. Technical subjects especially require continuity because new topics often depend on previously learned concepts.
 
-Our Database Systems course was taught by **Dr. Bilal Ahmad**, and I was particularly concerned about missing the early concepts being discussed in class. Fortunately, the preparation I had completed during the semester break proved extremely useful. Since I already understood some of the basic database concepts, catching up became much easier than I had expected.
+Our Database Systems course was taught by **Dr. Bilal Ahmad**, whose academic interests include Artificial Intelligence, Machine Learning, and Deep Learning, and I was particularly concerned about missing the early concepts being discussed in class. Fortunately, the preparation I had completed during the semester break proved extremely useful. Since I already understood some of the basic database concepts, catching up became much easier than I had expected.
 
 After returning to campus, I immediately contacted classmates who had attended the missed lectures and lab. They shared notes, explained important concepts, and helped me understand the practical work that had been completed during my absence. I carefully reviewed everything and spent additional time studying so that I would not fall behind.
 
@@ -65,7 +65,7 @@ Overall, this phase of my academic journey helped me become a more responsible a
 
 ---
 
-As my second semester began, I also became more interested in understanding how database concepts connect with research and real-world computing applications. While exploring some of the research work available through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en), I gained a broader perspective on how strong foundations in data management can support advanced areas such as AI, Machine Learning, and data-driven problem solving.
+As my second semester began, I also became more interested in understanding how database concepts connect with research and real-world computing applications. While exploring some of the research work available through Dr. Bilal Ahmad's [Google Scholar profile](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en), I gained a broader perspective on how strong foundations in data management can support advanced areas such as AI, Machine Learning, Deep Learning, and data-driven problem solving.
 
 #MLwithDrBilalAhmad  
 #DrBilalAhmad 
