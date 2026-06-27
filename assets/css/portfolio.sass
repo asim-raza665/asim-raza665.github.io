@@ -225,6 +225,58 @@ p
   gap: 0.35rem
   margin-bottom: 1rem
 
+.about-profile
+  display: flex
+  flex-direction: column
+  align-items: center
+  margin: 0 0 1.75rem
+  padding: 0.25rem 0 1.75rem
+  text-align: center
+  border-bottom: 1px solid rgba(82, 214, 196, 0.18)
+
+.about-profile__photo-wrap
+  position: relative
+  margin-bottom: 1rem
+
+.about-profile__photo
+  width: clamp(132px, 18vw, 164px)
+  height: clamp(132px, 18vw, 164px)
+  display: block
+  border: 4px solid #37bdf8
+  border-radius: 50%
+  object-fit: cover
+  object-position: 50% 24%
+  background: #0b1723
+  box-shadow: 0 0 0 7px rgba(55, 189, 248, 0.12), 0 18px 42px rgba(0, 0, 0, 0.26)
+
+.about-profile__status
+  position: absolute
+  right: 10%
+  bottom: 8%
+  width: 18px
+  height: 18px
+  border: 3px solid #07111a
+  border-radius: 50%
+  background: #16c784
+  box-shadow: 0 0 0 4px rgba(22, 199, 132, 0.12)
+
+.about-profile__name
+  margin: 0
+  font-size: 1.8rem
+  line-height: 1.2
+
+.about-profile__role
+  margin: 0.45rem 0 0
+  color: #45caff
+  font-size: 1.08rem
+  font-weight: 700
+
+.about-profile__campus
+  margin: 0.2rem 0 0
+  color: rgba(214, 227, 238, 0.62)
+  font-size: 1rem
+  font-weight: 700
+
 .feature-grid,
 .metric-grid,
 .timeline-grid,
@@ -747,6 +799,7 @@ p
     font-size: 1.8rem
 
   .profile-panel,
+  .about-profile,
   .hero-copy,
   .page-hero,
   .post-hero,
@@ -764,6 +817,19 @@ p
 
   .post-navigation
     grid-template-columns: 1fr
+
+  .about-profile__photo
+    width: 128px
+    height: 128px
+
+  .about-profile__name
+    font-size: 1.55rem
+
+  .about-profile__role
+    font-size: 1rem
+
+  .about-profile__campus
+    font-size: 0.95rem
 
 body
   color: #d6e3ee

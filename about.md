@@ -5,6 +5,16 @@ permalink: /about/
 description: "A concise portrait of who I am, what shaped my journey, and the values guiding my growth in computer engineering."
 ---
 <section class="section-block">
+  <div class="about-profile">
+    <div class="about-profile__photo-wrap">
+      <img src="{{ "/assets/images/profile/asim-raza.jpg" | relative_url }}" alt="Asim Raza" class="about-profile__photo">
+      <span class="about-profile__status" aria-hidden="true"></span>
+    </div>
+    <h3 class="about-profile__name">Asim Raza</h3>
+    <p class="about-profile__role">Computer Engineering Student</p>
+    <p class="about-profile__campus">UET Lahore — Faisalabad Campus</p>
+  </div>
+
   <div class="section-heading">
     <p class="eyebrow">Who I Am</p>
     <h2>A student shaped by purpose, support, and persistence</h2>
