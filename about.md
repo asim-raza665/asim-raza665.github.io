@@ -13,6 +13,11 @@ description: "A concise portrait of who I am, what shaped my journey, and the va
     <h3 class="about-profile__name">Asim Raza</h3>
     <p class="about-profile__role">Computer Engineering Student</p>
     <p class="about-profile__campus">UET Lahore — Faisalabad Campus</p>
+    <div class="about-profile__badges" aria-label="Profile highlights">
+      <span>CGPA 3.83</span>
+      <span>3rd in Section</span>
+      <span>Scholarship</span>
+    </div>
   </div>
 
   <div class="section-heading">
