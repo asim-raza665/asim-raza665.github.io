@@ -36,7 +36,7 @@ finding an approved real-world dataset.
 
 Our instructor **required a genuine real-world dataset** — synthetic 
 or artificially generated datasets were not accepted. Over the course 
-of **two weeks**, we researched and proposed more than 100 datasets 
+of **two weeks**, we researched and proposed more than 05 datasets 
 from various medical and research sources. Each one was reviewed and 
 rejected by our teacher for reasons including data quality, ethical 
 concerns, licensing issues, or insufficient real-world validity.
