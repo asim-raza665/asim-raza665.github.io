@@ -106,6 +106,7 @@ The project is structured across three Python modules:
 - **Features:** 15 clinical and lifestyle indicators
 - **Target:** TenYearCHD (0 = No Risk, 1 = 10-Year CHD Risk)
 - **Class Imbalance Fix:** SMOTE applied to training data only
+- **Model Accuracy:** 82%
 
 The system classifies patients into two categories:
 - **No CHD Risk** — Patient unlikely to develop heart disease 
