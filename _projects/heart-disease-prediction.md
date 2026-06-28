@@ -128,7 +128,7 @@ Framingham dataset, these features influence the prediction most:
 7. **Diastolic Blood Pressure** — Secondary BP indicator
 8. **Heart Rate** — Elevated resting rate signals cardiac stress
 
-## What I Learned
+### What I Learned
 
 - How to find and evaluate real-world datasets — a process that 
   took two weeks and over 100 rejected candidates before 
