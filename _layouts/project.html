@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ "/assets/css/projects.css" | relative_url }}">
+
+<article class="post-card project-detail-card">
+  <header class="post-hero project-detail-hero">
+    {% if page.category %}<p class="eyebrow">{{ page.category }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p class="post-lead">{{ page.summary }}</p>{% endif %}
+
+    <div class="post-meta-row">
+      {% if page.status %}<span>{{ page.status }}</span>{% endif %}
+    </div>
+
+    {% if page.technologies %}
+    <div class="post-tags" aria-label="Technologies used">
+      {% for technology in page.technologies %}
+      <span class="post-tag">{{ technology }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="button-row project-actions">
+      {% if page.github_url %}
+      <a class="primary-link" href="{{ page.github_url }}" target="_blank" rel="noopener">GitHub</a>
+      {% endif %}
+      {% if page.demo_url and page.demo_url != "" %}
+      <a class="secondary-link" href="{{ page.demo_url }}" target="_blank" rel="noopener">Demo</a>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if page.images and page.images.size > 0 %}
+  <section class="project-gallery" aria-label="Project screenshots">
+    {% for image in page.images %}
+    <figure class="project-gallery__item">
+      <img src="{{ image | relative_url }}" alt="{{ page.title }} screenshot {{ forloop.index }}">
+    </figure>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  <div class="prose project-prose">
+    {{ content }}
+  </div>
+</article>
+
+<footer class="post-return smooth">
+  <a href="{{ "/projects/" | relative_url }}">Back to projects</a>
+</footer>

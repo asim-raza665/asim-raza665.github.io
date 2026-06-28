@@ -1,0 +1,91 @@
+---
+---
+
+.project-list
+  display: grid
+  gap: 1rem
+
+.project-summary-card
+  display: grid
+  grid-template-columns: minmax(260px, 0.85fr) 1.15fr
+  gap: 1.25rem
+  padding: 1.45rem
+
+.project-summary-card__media
+  position: relative
+  min-height: 240px
+
+.project-summary-card__image
+  width: 100%
+  height: 100%
+  min-height: 240px
+  display: block
+  object-fit: cover
+  border-radius: 16px
+  background: rgba(82, 214, 196, 0.08)
+
+.project-summary-card__content
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  gap: 1rem
+
+.project-summary-card__content h2
+  font-size: 2rem
+
+.project-status
+  position: absolute
+  top: 0.85rem
+  right: 0.85rem
+  display: inline-flex
+  align-items: center
+  padding: 0.32rem 0.75rem
+  border-radius: 999px
+  background: rgba(82, 214, 196, 0.14)
+  color: #7ddacb
+  font-size: 0.85rem
+  font-weight: 700
+
+.project-actions
+  margin-top: 0.25rem
+
+.project-gallery
+  display: grid
+  grid-template-columns: repeat(2, 1fr)
+  gap: 1rem
+  margin-bottom: 2rem
+
+.project-gallery__item
+  margin: 0
+
+.project-gallery__item img
+  width: 100%
+  display: block
+  border-radius: 16px
+  object-fit: cover
+  background: rgba(82, 214, 196, 0.08)
+
+.project-prose h2
+  margin-top: 1.8rem
+  margin-bottom: 0.7rem
+
+html[data-theme="light"] .project-status,
+body.light-theme .project-status
+  background: rgba(15, 123, 131, 0.12)
+  color: #0d5165
+
+@media (max-width: 960px)
+  .project-summary-card,
+  .project-gallery
+    grid-template-columns: 1fr
+
+  .project-summary-card__content h2
+    font-size: 1.8rem
+
+@media (max-width: 720px)
+  .project-summary-card
+    padding: 1.2rem
+
+  .project-summary-card__media,
+  .project-summary-card__image
+    min-height: 200px
