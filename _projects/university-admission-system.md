@@ -149,6 +149,20 @@ allocated to any program are placed on a **waitlist**.
 - **Separation of Concerns** — each layer has exactly one 
   responsibility
 
+  ### Results
+
+- **Final Grade: 100 / 100** — Full marks awarded by instructor
+- **Supervisor:** Miss Rimsha Chauhdary
+- **Subject:** CSC-103L Object Oriented Programming — Spring 2026
+- All functional requirements implemented and verified
+- Three-tier architecture correctly implemented and demonstrated
+- All business rules enforced and tested
+- Merit list generation, seat allocation, and fee calculation 
+  working correctly
+- Role-based portal system (Student, Faculty, Admin) fully functional
+- Console UI with typewriter effects and color-coded portals 
+  appreciated during demonstration
+
 ### What I Learned
 
 - How to design a complete system from a **UML class diagram** before 
