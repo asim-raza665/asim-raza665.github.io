@@ -100,19 +100,19 @@ The project is structured across three Python modules:
 ### Results
 
 - **Model:** Random Forest Classifier with SMOTE oversampling
-- **Dataset:** Framingham Heart Study — real longitudinal 
-  patient data, approved after 2 weeks of dataset research
-- **Records:** 4,238 real patient records
-- **Features:** 15 clinical and lifestyle indicators
-- **Target:** TenYearCHD (0 = No Risk, 1 = 10-Year CHD Risk)
-- **Class Imbalance Fix:** SMOTE applied to training data only
-- **Model Accuracy:** 82%
+- **Dataset:** 4,238 real patient records, 15 features
+- **Overall Accuracy:** 82%
+- **Weighted F1 Score:** 0.79
+- **ROC-AUC Score:** 0.53
+- **No Risk Detection (Class 0):** Precision 86%, Recall 94%
+- **CHD Risk Detection (Class 1):** Precision 26%, Recall 13%
 
-The system classifies patients into two categories:
-- **No CHD Risk** — Patient unlikely to develop heart disease 
-  within 10 years
-- **10-Year CHD Risk** — Patient shows risk indicators for 
-  coronary heart disease within 10 years
+The dataset is heavily imbalanced — 725 no-risk vs 123 
+at-risk patients in the test set. SMOTE was applied to 
+training data only to address this imbalance. The model 
+performs excellently at identifying healthy patients. 
+Further tuning of the classification threshold could 
+improve CHD risk recall in future iterations.
 
 ### Most Important Risk Features
 
