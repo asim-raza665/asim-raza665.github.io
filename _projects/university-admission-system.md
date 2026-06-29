@@ -7,7 +7,7 @@ technologies: [C#, OOP, Three-Tier Architecture, Visual Studio, UML Design]
 github_url: "https://github.com/asim-raza665/university-admission-system"
 demo_url: ""
 featured: true
-status: "Completed"
+status: ""
 project_order: 3
 images:
   - "/assets/images/projects/admission-system/ss 1.jpeg"
