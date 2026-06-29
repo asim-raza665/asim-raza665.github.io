@@ -10,8 +10,8 @@ featured: true
 status: "Completed"
 project_order: 1
 images:
-  - "/assets/images/projects/heart-disease/screenshot1.png"
-  - "/assets/images/projects/heart-disease/screenshot2.png"
+  - "/assets/images/projects/heart-disease/ss1.jpeg"
+  - "/assets/images/projects/heart-disease/ss2.jpeg"
 ---
 
 ### Overview
