@@ -7,7 +7,7 @@ technologies: [Python, FastAPI, Scikit-learn, Random Forest, SMOTE, Pandas, Seab
 github_url: "https://github.com/asim-raza665/heart-disease-prediction"
 demo_url: ""
 featured: true
-status: "Completed"
+status: ""
 project_order: 1
 images:
   - "/assets/images/projects/heart-disease/ss1.jpeg"
