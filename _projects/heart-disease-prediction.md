@@ -5,7 +5,7 @@ summary: "A supervised machine learning system that predicts 10-year coronary he
 category: "Machine Learning"
 technologies: [Python, FastAPI, Scikit-learn, Random Forest, SMOTE, Pandas, Seaborn, Joblib, HTML, CSS, JavaScript]
 github_url: "https://github.com/asim-raza665/heart-disease-prediction"
-demo_url: ""
+demo_url: "https://huggingface.co/spaces/asim138/heart-disease-prediction"
 featured: true
 status: ""
 project_order: 1
