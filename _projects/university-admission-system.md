@@ -10,11 +10,10 @@ featured: true
 status: ""
 project_order: 3
 images:
-  - "/assets/images/projects/admission-system/ss 1.jpeg"
-  - "/assets/images/projects/admission-system/ss 2.jpeg"
-  - "/assets/images/projects/admission-system/ss 3.jpeg"
-  - "/assets/images/projects/admission-system/ss 4.jpeg"
-  - "/assets/images/projects/admission-system/ss 5.jpeg"
+  - "/assets/images/projects/admission-system/ss1.jpeg"
+  - "/assets/images/projects/admission-system/ss2.jpeg"
+  - "/assets/images/projects/admission-system/ss3.jpeg"
+  - "/assets/images/projects/admission-system/ss4.jpeg"
 ---
 
 ### Overview
