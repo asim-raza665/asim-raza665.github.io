@@ -16,7 +16,7 @@ images:
   - "/assets/images/projects/admission-system/ss4.jpeg"
 ---
 
-### Overview
+## Overview
 
 This project is a console-based University Admission Management System 
 built in C# as a lab project for CSC-103L Object Oriented Programming 
@@ -33,7 +33,7 @@ typewriter text effects, a colored loading bar on startup, and
 role-specific color-coded portals — green for Student, yellow for 
 Faculty, and magenta for Admin.
 
-### Problem
+## Problem
 
 University admission processes involve multiple stakeholders — students 
 applying for programs, administrators managing merit lists and seat 
@@ -47,7 +47,7 @@ Object Oriented Programming principles and a layered architecture —
 not as a single file, but as a structured, maintainable, multi-layer 
 application designed from a UML class diagram first.
 
-### Architecture
+## Architecture
 
 The system is built on a strict **Three-Tier Architecture:**
 
@@ -76,7 +76,7 @@ Classes: `StudentDL`, `ProgramDL`, `SubjectDL`
 - Provides Add, Retrieve, and Search methods
 - Single source of truth for all application data
 
-### System Flow
+## System Flow
 
 ### Portals and Features
 
@@ -135,7 +135,7 @@ admissions starting from the highest merit student, respecting each
 student's program preferences and available seats. Students not 
 allocated to any program are placed on a **waitlist**.
 
-### GUI Enhancement (Exhibition Update)
+## GUI Enhancement (Exhibition Update)
 
 For the university exhibition, the project was upgraded from a purely 
 console-based tool to include a graphical interface, on request from 
@@ -156,7 +156,7 @@ visitors:
   no admission rules, merit calculations, or fee logic were duplicated 
   or changed — only the presentation layer was extended
 
-### OOP Concepts Demonstrated
+## OOP Concepts Demonstrated
 
 - **Classes and Objects** — Student, Program, Subject, Department,
   AdmissionDept, FeeDept
@@ -169,7 +169,7 @@ visitors:
 - **Separation of Concerns** — each layer has exactly one 
   responsibility
 
-  ### Results
+  ## Results
 
 - **Final Grade: 100 / 100** — Full marks awarded by instructor
 - **Supervisor:** Miss Rimsha Chauhdary
@@ -183,7 +183,7 @@ visitors:
 - Console UI with typewriter effects and color-coded portals 
   appreciated during demonstration
 
-### What I Learned
+## What I Learned
 
 - How to design a complete system from a **UML class diagram** before 
   writing any code — understanding class relationships visually first
