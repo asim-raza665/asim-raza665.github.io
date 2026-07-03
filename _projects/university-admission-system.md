@@ -135,6 +135,27 @@ admissions starting from the highest merit student, respecting each
 student's program preferences and available seats. Students not 
 allocated to any program are placed on a **waitlist**.
 
+### GUI Enhancement (Exhibition Update)
+
+For the university exhibition, the project was upgraded from a purely 
+console-based tool to include a graphical interface, on request from 
+the course supervisor to make the demonstration more accessible to 
+visitors:
+
+- A landing dashboard shows total programs, total seats, and total 
+  applicants as summary cards
+- A portal selection screen lets users choose between Student, 
+  Faculty, and Admin, each with a distinct accent color
+- Each portal has its own dashboard with quick-stat cards (e.g. 
+  applicants, programs, seats) and a sidebar/menu of actions as buttons 
+  instead of numbered console options
+- Tables are used to display all programs, all students, and program 
+  details (duration, seats, remaining seats, credit hours) in a 
+  readable grid format
+- The GUI calls directly into the existing Business Logic Layer, so 
+  no admission rules, merit calculations, or fee logic were duplicated 
+  or changed — only the presentation layer was extended
+
 ### OOP Concepts Demonstrated
 
 - **Classes and Objects** — Student, Program, Subject, Department,
