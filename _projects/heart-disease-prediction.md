@@ -14,7 +14,7 @@ images:
   - "/assets/images/projects/heart-disease/ss2.jpeg"
 ---
 
-### Overview
+## Overview
 
 This project is a full-stack machine learning application that predicts 
 whether a patient is at risk of developing coronary heart disease within 
@@ -29,7 +29,7 @@ through a professional dark-themed web interface where a user can enter
 
 Supervised by **Dr. Bilal Ahmad** and presented by **Asim Raza and Tahir Yaqoob** as a semester Machine Learning project.
 
-### Dataset
+## Dataset
 
 One of the most important and challenging parts of this project was 
 finding an approved real-world dataset.
@@ -51,7 +51,7 @@ of our data foundation.
 This experience taught us that in real ML projects, finding the 
 right dataset is often harder than building the model itself.
 
-### Problem
+## Problem
 
 Heart disease is one of the leading causes of death globally. Early 
 identification of at-risk patients based on measurable health 
@@ -65,7 +65,7 @@ the target classes are heavily imbalanced, with significantly more
 healthy patients than at-risk ones, which makes naive classification 
 models unreliable.
 
-### Solution
+## Solution
 
 The project is structured across three Python modules:
 
@@ -97,7 +97,7 @@ The project is structured across three Python modules:
 - Returns prediction result and probability scores to 
   the frontend instantly
 
-### Results
+## Results
 
 - **Model:** Random Forest Classifier with SMOTE oversampling
 - **Dataset:** 4,238 real patient records, 15 features
@@ -114,7 +114,7 @@ performs excellently at identifying healthy patients.
 Further tuning of the classification threshold could 
 improve CHD risk recall in future iterations.
 
-### Most Important Risk Features
+## Most Important Risk Features
 
 Based on Random Forest feature importance analysis on the 
 Framingham dataset, these features influence the prediction most:
@@ -128,7 +128,7 @@ Framingham dataset, these features influence the prediction most:
 7. **Diastolic Blood Pressure** — Secondary BP indicator
 8. **Heart Rate** — Elevated resting rate signals cardiac stress
 
-### What I Learned
+## What I Learned
 
 - How to find and evaluate real-world datasets — a process that 
   took two weeks and over 100 rejected candidates before 
