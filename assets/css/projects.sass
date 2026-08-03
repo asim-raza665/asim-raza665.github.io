@@ -13,13 +13,16 @@
 
 .project-summary-card__media
   position: relative
+  min-height: 240px
 
 .project-summary-card__image
   width: 100%
-  height: auto
+  height: 100%
+  min-height: 240px
   display: block
   object-fit: contain
   border-radius: 16px
+  background: rgba(82, 214, 196, 0.08)
 
 .project-summary-card__content
   display: flex
@@ -82,3 +85,7 @@ body.light-theme .project-status
 @media (max-width: 720px)
   .project-summary-card
     padding: 1.2rem
+
+  .project-summary-card__media,
+  .project-summary-card__image
+    min-height: 200px
