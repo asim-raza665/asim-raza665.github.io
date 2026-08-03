@@ -34,6 +34,9 @@
 {%- endif -%}
 <link rel="stylesheet" href="{{ "/assets/PT-Sans/index.css" | relative_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/portfolio.css" | relative_url }}">
+{%- if page.stylesheet -%}
+<link rel="stylesheet" href="{{ page.stylesheet | relative_url }}">
+{%- endif -%}
 {%- if site.plugins contains "jekyll-feed" -%}
 <link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">
 {%- endif -%}

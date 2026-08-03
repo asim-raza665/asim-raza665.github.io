@@ -1,0 +1,41 @@
+---
+---
+
+.certificate-grid
+  display: grid
+  grid-template-columns: repeat(2, 1fr)
+  gap: 1rem
+
+.certificate-card
+  padding: 1.35rem
+  overflow: hidden
+
+.certificate-card__image
+  width: 100%
+  aspect-ratio: 16 / 10
+  display: block
+  object-fit: cover
+  border-radius: 16px
+  background: rgba(82, 214, 196, 0.08)
+
+.certificate-card__content
+  display: flex
+  flex-direction: column
+  gap: 0.3rem
+
+.certificate-card__content h2
+  font-size: 1.8rem
+
+.certificate-card__issuer
+  margin: 0
+  font-weight: 700
+
+.certificates-empty p
+  margin: 0
+
+@media (max-width: 960px)
+  .certificate-grid
+    grid-template-columns: 1fr
+
+  .certificate-card__content h2
+    font-size: 1.55rem

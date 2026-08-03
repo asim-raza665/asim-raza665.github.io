@@ -16,12 +16,15 @@ navigation:
   - {file: "about.md", title: "About"}
   - {file: "blog.md", title: "Blog"}
   - {file: "projects.md", title: "Projects"}
+  - {file: "certificates.md", title: "Certificates"}
   - {file: "contact.md", title: "Contact"}
 
 collections:
   projects:
     output: true
     permalink: /projects/:name/
+  certificates:
+    output: false
 
 external:
   - {title: "Email", icon: envelope, url: "mailto:gondalasim665@gmail.com"}
